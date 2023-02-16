@@ -15,5 +15,8 @@
         <instance moduleIdRef="ESP32-WROOM-32D-NodeMCU_34d842f0cfe1413d9ddf8612d312e317_3" modelIndex="5793" path="C:/Users/RobsonBrasil/Documents/Fritzing/parts/user/ESP32-WROOM-32D-NodeMCU_34d842f0cfe1413d9ddf8612d312e317_3.fzp">
             <views/>
         </instance>
+        <instance moduleIdRef="96dbe71554ce3f1d1ef42d1960e0069c" modelIndex="5798" path="C:/Users/RobsonBrasil/Documents/Fritzing/parts/user/2.1mm_DC_Barrel_Jack__0d81611f192da410c39c2b4301ccb3cb.fzp">
+            <views/>
+        </instance>
     </instances>
 </module>

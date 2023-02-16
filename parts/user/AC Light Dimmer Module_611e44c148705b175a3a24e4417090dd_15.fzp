@@ -1,0 +1,170 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<module fritzingVersion="0.2.2.b.03.04.2550" moduleId="AC Light Dimmer Module_611e44c148705b175a3a24e4417090dd_15" referenceFile="generic_male_pin_header_4_100mil.fzp">
+ <version>4</version>
+ <author>Fritzing Part-o-matic</author>
+ <title>Generic male header - 4 pins</title>
+ <label>J</label>
+ <date>ma jun 17 2019</date>
+ <tags/>
+ <properties>
+  <property name="family">Pin Header</property>
+  <property name="hole size"/>
+  <property name="Pins">4</property>
+  <property name="Form">♂ (male)</property>
+  <property name="Pin Spacing">0.1in (2.54mm)</property>
+  <property name="Row">single</property>
+  <property name="package">THT</property>
+  <property name="Position"/>
+  <property name="package">THT</property>
+  <property name="layer"/>
+  <property name="part number"/>
+  <property name="variant">variant 2</property>
+ </properties>
+ <description>Generic male header</description>
+ <views>
+  <iconView>
+   <layers image="icon/AC Light Dimmer Module_611e44c148705b175a3a24e4417090dd_15_icon.svg">
+    <layer layerId="icon"/>
+   </layers>
+  </iconView>
+  <breadboardView>
+   <layers image="breadboard/AC Light Dimmer Module_611e44c148705b175a3a24e4417090dd_15_breadboard.svg">
+    <layer layerId="breadboard"/>
+   </layers>
+  </breadboardView>
+  <schematicView fliphorizontal="true">
+   <layers image="schematic/AC Light Dimmer Module_611e44c148705b175a3a24e4417090dd_15_schematic.svg">
+    <layer layerId="schematic"/>
+   </layers>
+  </schematicView>
+  <pcbView>
+   <layers image="pcb/AC Light Dimmer Module_611e44c148705b175a3a24e4417090dd_15_pcb.svg">
+    <layer layerId="copper0"/>
+    <layer layerId="silkscreen"/>
+    <layer layerId="copper1"/>
+   </layers>
+  </pcbView>
+ </views>
+ <connectors>
+  <connector name="VCC" type="male" id="connector0">
+   <description>VCC</description>
+   <views>
+    <breadboardView>
+     <p svgId="connector0pin" layer="breadboard" terminalId="connector0terminal"/>
+    </breadboardView>
+    <schematicView>
+     <p svgId="connector0pin" layer="schematic" terminalId="connector0terminal"/>
+    </schematicView>
+    <pcbView>
+     <p svgId="connector0pin" layer="copper0"/>
+     <p svgId="connector0pin" layer="copper1"/>
+    </pcbView>
+   </views>
+  </connector>
+  <connector name="GND" type="male" id="connector1">
+   <description>GND</description>
+   <views>
+    <breadboardView>
+     <p svgId="connector1pin" layer="breadboard" terminalId="connector1terminal"/>
+    </breadboardView>
+    <schematicView>
+     <p svgId="connector1pin" layer="schematic" terminalId="connector1terminal"/>
+    </schematicView>
+    <pcbView>
+     <p svgId="connector1pin" layer="copper0"/>
+     <p svgId="connector1pin" layer="copper1"/>
+    </pcbView>
+   </views>
+  </connector>
+  <connector name="Z-C" type="male" id="connector2">
+   <description>Z-C</description>
+   <views>
+    <breadboardView>
+     <p svgId="connector2pin" layer="breadboard" terminalId="connector2terminal"/>
+    </breadboardView>
+    <schematicView>
+     <p svgId="connector2pin" layer="schematic" terminalId="connector2terminal"/>
+    </schematicView>
+    <pcbView>
+     <p svgId="connector2pin" layer="copper0"/>
+     <p svgId="connector2pin" layer="copper1"/>
+    </pcbView>
+   </views>
+  </connector>
+  <connector name="PWM" type="male" id="connector3">
+   <description>PWM</description>
+   <views>
+    <breadboardView>
+     <p svgId="connector3pin" layer="breadboard" terminalId="connector3terminal"/>
+    </breadboardView>
+    <schematicView>
+     <p svgId="connector3pin" layer="schematic" terminalId="connector3terminal"/>
+    </schematicView>
+    <pcbView>
+     <p svgId="connector3pin" layer="copper0"/>
+     <p svgId="connector3pin" layer="copper1"/>
+    </pcbView>
+   </views>
+  </connector>
+  <connector name="L- IN" type="male" id="connector4">
+   <description>L- IN</description>
+   <views>
+    <breadboardView>
+     <p svgId="connector4pin" layer="breadboard"/>
+    </breadboardView>
+    <schematicView>
+     <p svgId="connector4pin" layer="schematic"/>
+    </schematicView>
+    <pcbView>
+     <p svgId="connector4pin" layer="copper0"/>
+     <p svgId="connector4pin" layer="copper1"/>
+    </pcbView>
+   </views>
+  </connector>
+  <connector name="L- OUT" type="male" id="connector5">
+   <description>L- IN</description>
+   <views>
+    <breadboardView>
+     <p svgId="connector5pin" layer="breadboard"/>
+    </breadboardView>
+    <schematicView>
+     <p svgId="connector5pin" layer="schematic"/>
+    </schematicView>
+    <pcbView>
+     <p svgId="connector5pin" layer="copper0"/>
+     <p svgId="connector5pin" layer="copper1"/>
+    </pcbView>
+   </views>
+  </connector>
+  <connector name="N" type="male" id="connector6">
+   <description>N</description>
+   <views>
+    <breadboardView>
+     <p svgId="connector6pin" layer="breadboard"/>
+    </breadboardView>
+    <schematicView>
+     <p svgId="connector6pin" layer="schematic"/>
+    </schematicView>
+    <pcbView>
+     <p svgId="connector6pin" layer="copper0"/>
+     <p svgId="connector6pin" layer="copper1"/>
+    </pcbView>
+   </views>
+  </connector>
+  <connector name="N" type="male" id="connector7">
+   <description>N</description>
+   <views>
+    <breadboardView>
+     <p svgId="connector7pin" layer="breadboard"/>
+    </breadboardView>
+    <schematicView>
+     <p svgId="connector7pin" layer="schematic"/>
+    </schematicView>
+    <pcbView>
+     <p svgId="connector7pin" layer="copper0"/>
+     <p svgId="connector7pin" layer="copper1"/>
+    </pcbView>
+   </views>
+  </connector>
+ </connectors>
+</module>

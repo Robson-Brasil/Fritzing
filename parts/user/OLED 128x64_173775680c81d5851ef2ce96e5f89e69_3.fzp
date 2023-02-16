@@ -1,0 +1,115 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<module moduleId="OLED 128x64_173775680c81d5851ef2ce96e5f89e69_3" fritzingVersion="0.2.2.b.03.04.2550" referenceFile="generic_male_pin_header_4_100mil.fzp">
+ <version>4</version>
+ <author>https://www.studiopieters.nl</author>
+ <title>SSD1306 128x64</title>
+ <label>J</label>
+ <date>Mon Jul 19 2021</date>
+ <tags/>
+ <properties>
+  <property name="family">Pin Header</property>
+  <property name="hole size"></property>
+  <property name="Pins">4</property>
+  <property name="Form">♂ (male)</property>
+  <property name="Pin Spacing">0.1in (2.54mm)</property>
+  <property name="Row">single</property>
+  <property name="package">THT</property>
+  <property name="Position"></property>
+  <property name="package">THT</property>
+  <property name="part number"></property>
+  <property name="layer"></property>
+  <property name="variant">variant 7</property>
+ </properties>
+ <description>&lt;!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd">
+&lt;html>&lt;head>&lt;meta name="qrichtext" content="1" />&lt;style type="text/css">
+p, li { white-space: pre-wrap; }
+&lt;/style>&lt;/head>&lt;body style=" font-family:'MS Shell Dlg 2'; font-size:8.25pt; font-weight:400; font-style:normal;">
+&lt;p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">These displays are small, only about 1&amp;quot; diagonal, but very readable due to the high contrast of an OLED display. This display is made of 128x64 individual white OLED pixels, each one is turned on or off by the controller chip. Because the display makes its own light, no backlight is required. This reduces the power required to run the OLED and is why the display has such high contrast; we really like this miniature display for its crispness!&lt;/p>&lt;/body>&lt;/html></description>
+ <views>
+  <iconView>
+   <layers image="icon/OLED 128x64_c4face7d05405f524f340339779483b4_3_icon.svg">
+    <layer layerId="icon"/>
+   </layers>
+  </iconView>
+  <breadboardView>
+   <layers image="breadboard/OLED 128x64_c4face7d05405f524f340339779483b4_3_breadboard.svg">
+    <layer layerId="breadboard"/>
+   </layers>
+  </breadboardView>
+  <schematicView fliphorizontal="true">
+   <layers image="schematic/OLED 128x64_c4face7d05405f524f340339779483b4_3_schematic.svg">
+    <layer layerId="schematic"/>
+   </layers>
+  </schematicView>
+  <pcbView>
+   <layers image="pcb/OLED 128x64_c4face7d05405f524f340339779483b4_3_pcb.svg">
+    <layer layerId="copper0"/>
+    <layer layerId="silkscreen"/>
+    <layer layerId="copper1"/>
+   </layers>
+  </pcbView>
+ </views>
+ <connectors>
+  <connector id="connector0" type="male" name="VCC">
+   <description>VCC</description>
+   <views>
+    <breadboardView>
+     <p terminalId="connector0terminal" layer="breadboard" svgId="connector0pin"/>
+    </breadboardView>
+    <schematicView>
+     <p terminalId="connector0terminal" layer="schematic" svgId="connector0pin"/>
+    </schematicView>
+    <pcbView>
+     <p layer="copper0" svgId="connector0pin"/>
+     <p layer="copper1" svgId="connector0pin"/>
+    </pcbView>
+   </views>
+  </connector>
+  <connector id="connector1" type="male" name="GND">
+   <description>GND</description>
+   <views>
+    <breadboardView>
+     <p terminalId="connector1terminal" layer="breadboard" svgId="connector1pin"/>
+    </breadboardView>
+    <schematicView>
+     <p terminalId="connector1terminal" layer="schematic" svgId="connector1pin"/>
+    </schematicView>
+    <pcbView>
+     <p layer="copper0" svgId="connector1pin"/>
+     <p layer="copper1" svgId="connector1pin"/>
+    </pcbView>
+   </views>
+  </connector>
+  <connector id="connector2" type="male" name="SCL">
+   <description>SCL</description>
+   <views>
+    <breadboardView>
+     <p terminalId="connector2terminal" layer="breadboard" svgId="connector2pin"/>
+    </breadboardView>
+    <schematicView>
+     <p terminalId="connector2terminal" layer="schematic" svgId="connector2pin"/>
+    </schematicView>
+    <pcbView>
+     <p layer="copper0" svgId="connector2pin"/>
+     <p layer="copper1" svgId="connector2pin"/>
+    </pcbView>
+   </views>
+  </connector>
+  <connector id="connector3" type="male" name="SDA">
+   <description>SDA</description>
+   <views>
+    <breadboardView>
+     <p terminalId="connector3terminal" layer="breadboard" svgId="connector3pin"/>
+    </breadboardView>
+    <schematicView>
+     <p terminalId="connector3terminal" layer="schematic" svgId="connector3pin"/>
+    </schematicView>
+    <pcbView>
+     <p layer="copper0" svgId="connector3pin"/>
+     <p layer="copper1" svgId="connector3pin"/>
+    </pcbView>
+   </views>
+  </connector>
+ </connectors>
+ <url>https://www.studiopieters.nl</url>
+</module>

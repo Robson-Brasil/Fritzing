@@ -1,0 +1,88 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<module referenceFile="LED-generic-5mm.fzp" fritzingVersion="0.1.beta.1396" moduleId="LED rectangular-White_17fe0e2695d3e446c0f14ae34105f0ce_3">
+ <version>4</version>
+ <author>Brendan Howell - Old Grey mod</author>
+ <title>White LED - Rect 5x2x7mm</title>
+ <label>LED</label>
+ <date>Thu Oct 13 2016</date>
+ <tags>
+  <tag>LED</tag>
+  <tag>Red LED</tag>
+  <tag>indicator</tag>
+  <tag>fritzing core</tag>
+ </tags>
+ <properties>
+  <property name="variant">variant 5</property>
+  <property name="family">led</property>
+  <property name="led color">White (4500K)</property>
+  <property name="part number"></property>
+  <property name="layer"></property>
+  <property name="current"></property>
+  <property name="leg">yes</property>
+  <property name="package">5x2x7 mm [THT]</property>
+ </properties>
+ <description>&lt;!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd">
+&lt;html>&lt;head>&lt;meta name="qrichtext" content="1" />&lt;style type="text/css">
+p, li { white-space: pre-wrap; }
+&lt;/style>&lt;/head>&lt;body style=" font-family:'MS Shell Dlg 2'; font-size:8.25pt; font-weight:400; font-style:normal;">
+&lt;p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">A generic rectangular white LED (~1.8V) 5mm x 2mm x 7mm&lt;/p>&lt;/body>&lt;/html></description>
+ <views>
+  <iconView>
+   <layers image="icon/LED rectangular-White_29214e844015da630fb69cdc47abc7c3_4_icon.svg">
+    <layer layerId="icon"/>
+   </layers>
+  </iconView>
+  <breadboardView flipvertical="true" fliphorizontal="true">
+   <layers image="breadboard/LED rectangular-White_29214e844015da630fb69cdc47abc7c3_4_breadboard.svg">
+    <layer layerId="breadboard"/>
+   </layers>
+  </breadboardView>
+  <schematicView>
+   <layers image="schematic/LED rectangular-White_29214e844015da630fb69cdc47abc7c3_4_schematic.svg">
+    <layer layerId="schematic"/>
+   </layers>
+  </schematicView>
+  <pcbView>
+   <layers image="pcb/LED rectangular-White_29214e844015da630fb69cdc47abc7c3_4_pcb.svg">
+    <layer layerId="copper0"/>
+    <layer layerId="keepout"/>
+    <layer layerId="soldermask"/>
+    <layer layerId="silkscreen"/>
+    <layer layerId="outline"/>
+    <layer layerId="copper1"/>
+   </layers>
+  </pcbView>
+ </views>
+ <connectors>
+  <connector id="connector0" name="cathode" type="male">
+   <description>cathode pin</description>
+   <views>
+    <breadboardView>
+     <p svgId="connector0pin" legId="connector0leg" layer="breadboard"/>
+    </breadboardView>
+    <schematicView>
+     <p svgId="connector0pin" terminalId="connector0terminal" layer="schematic"/>
+    </schematicView>
+    <pcbView>
+     <p svgId="connector0pad" layer="copper0"/>
+     <p svgId="connector0pad" layer="copper1"/>
+    </pcbView>
+   </views>
+  </connector>
+  <connector id="connector1" name="anode" type="male">
+   <description>anode pin</description>
+   <views>
+    <breadboardView>
+     <p svgId="connector1pin" legId="connector1leg" layer="breadboard"/>
+    </breadboardView>
+    <schematicView>
+     <p svgId="connector1pin" terminalId="connector1terminal" layer="schematic"/>
+    </schematicView>
+    <pcbView>
+     <p svgId="connector1pad" layer="copper0"/>
+     <p svgId="connector1pad" layer="copper1"/>
+    </pcbView>
+   </views>
+  </connector>
+ </connectors>
+</module>

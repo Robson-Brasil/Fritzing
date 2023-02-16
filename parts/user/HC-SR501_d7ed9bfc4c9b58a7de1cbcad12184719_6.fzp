@@ -1,0 +1,101 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<module referenceFile="generic_female_pin_header_3_100mil_hs_1.5mm_0.508mm.fzp" fritzingVersion="0.2.2.b.03.04.2550" moduleId="HC-SR501_d7ed9bfc4c9b58a7de1cbcad12184719_6">
+ <version>4</version>
+ <author>studiopieters.nl</author>
+ <title>HC-SR501
+</title>
+ <label>J</label>
+ <date>ma sep 2 2019</date>
+ <tags/>
+ <properties>
+  <property name="family">Pin Header</property>
+  <property name="hole size">1.5mm,0.508mm</property>
+  <property name="Pins">3</property>
+  <property name="Form">♀ (female)</property>
+  <property name="Pin Spacing">0.1in (2.54mm)</property>
+  <property name="Row">single</property>
+  <property name="package">THT</property>
+  <property name="Position"></property>
+  <property name="package">THT</property>
+  <property name="part number"></property>
+  <property name="layer"></property>
+  <property name="variant">variant 4</property>
+ </properties>
+ <description>&lt;!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd">
+&lt;html>&lt;head>&lt;meta name="qrichtext" content="1" />&lt;style type="text/css">
+p, li { white-space: pre-wrap; }
+&lt;/style>&lt;/head>&lt;body style=" font-family:'MS Shell Dlg 2'; font-size:8.25pt; font-weight:400; font-style:normal;">
+&lt;p style=" margin-top:18px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">&lt;span style=" font-size:xx-large; font-weight:600;">HC-SR501&lt;/span>&lt;/p>
+&lt;p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">&lt;br />&lt;/p>&lt;/body>&lt;/html></description>
+ <views>
+  <iconView>
+   <layers image="icon/HC-SR501_d7ed9bfc4c9b58a7de1cbcad12184719_6_icon.svg">
+    <layer layerId="icon"/>
+   </layers>
+  </iconView>
+  <breadboardView>
+   <layers image="breadboard/HC-SR501_d7ed9bfc4c9b58a7de1cbcad12184719_6_breadboard.svg">
+    <layer layerId="breadboard"/>
+   </layers>
+  </breadboardView>
+  <schematicView fliphorizontal="true">
+   <layers image="schematic/HC-SR501_d7ed9bfc4c9b58a7de1cbcad12184719_6_schematic.svg">
+    <layer layerId="schematic"/>
+   </layers>
+  </schematicView>
+  <pcbView>
+   <layers image="pcb/HC-SR501_d7ed9bfc4c9b58a7de1cbcad12184719_6_pcb.svg">
+    <layer layerId="copper0"/>
+    <layer layerId="silkscreen"/>
+    <layer layerId="copper1"/>
+   </layers>
+  </pcbView>
+ </views>
+ <connectors>
+  <connector type="male" id="connector0" name="VCC">
+   <description>VCC</description>
+   <views>
+    <breadboardView>
+     <p terminalId="connector0terminal" svgId="connector0pin" layer="breadboard"/>
+    </breadboardView>
+    <schematicView>
+     <p terminalId="connector0terminal" svgId="connector0pin" layer="schematic"/>
+    </schematicView>
+    <pcbView>
+     <p svgId="connector0pin" layer="copper0"/>
+     <p svgId="connector0pin" layer="copper1"/>
+    </pcbView>
+   </views>
+  </connector>
+  <connector type="male" id="connector1" name="SIG">
+   <description>SIG</description>
+   <views>
+    <breadboardView>
+     <p terminalId="connector1terminal" svgId="connector1pin" layer="breadboard"/>
+    </breadboardView>
+    <schematicView>
+     <p terminalId="connector1terminal" svgId="connector1pin" layer="schematic"/>
+    </schematicView>
+    <pcbView>
+     <p svgId="connector1pin" layer="copper0"/>
+     <p svgId="connector1pin" layer="copper1"/>
+    </pcbView>
+   </views>
+  </connector>
+  <connector type="male" id="connector2" name="GND">
+   <description>GND</description>
+   <views>
+    <breadboardView>
+     <p terminalId="connector2terminal" svgId="connector2pin" layer="breadboard"/>
+    </breadboardView>
+    <schematicView>
+     <p terminalId="connector2terminal" svgId="connector2pin" layer="schematic"/>
+    </schematicView>
+    <pcbView>
+     <p svgId="connector2pin" layer="copper0"/>
+     <p svgId="connector2pin" layer="copper1"/>
+    </pcbView>
+   </views>
+  </connector>
+ </connectors>
+</module>

@@ -1,0 +1,100 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<module referenceFile="generic_male_pin_header_3_100mil.fzp" fritzingVersion="0.2.2.b.03.04.2550" moduleId="DHT22 Sensor_aa19db50e069a22118e8de7df99d1712_3">
+ <version>4</version>
+ <author>https://www.studiopieters.nl/</author>
+ <title>DHT22 temperature-humidity sensor</title>
+ <label>J</label>
+ <date>di nov 5 2019</date>
+ <tags/>
+ <properties>
+  <property name="family">Pin Header</property>
+  <property name="hole size"></property>
+  <property name="Pins">3</property>
+  <property name="Form">♂ (male)</property>
+  <property name="Pin Spacing">0.1in (2.54mm)</property>
+  <property name="Row">single</property>
+  <property name="package">THT</property>
+  <property name="Position"></property>
+  <property name="package">THT</property>
+  <property name="part number"></property>
+  <property name="layer"></property>
+  <property name="variant">variant 5</property>
+ </properties>
+ <description>&lt;!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd">
+&lt;html>&lt;head>&lt;meta name="qrichtext" content="1" />&lt;style type="text/css">
+p, li { white-space: pre-wrap; }
+&lt;/style>&lt;/head>&lt;body style=" font-family:'MS Shell Dlg 2'; font-size:8.25pt; font-weight:400; font-style:normal;">
+&lt;p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">The DHT22 is a basic, low-cost digital temperature and humidity sensor. It uses a capacitive humidity sensor and a thermistor to measure the surrounding air, and spits out a digital signal on the data pin (no analog input pins needed). It's fairly simple to use, but requires careful timing to grab data. The only real downside of this sensor is you can only get new data from it once every 2 seconds, so when using our library, sensor readings can be up to 2 seconds old.&lt;/p>&lt;/body>&lt;/html></description>
+ <views>
+  <iconView>
+   <layers image="icon/DHT22 Sensor_775be6d48e05957a6742dfc1e55ea090_3_icon.svg">
+    <layer layerId="icon"/>
+   </layers>
+  </iconView>
+  <breadboardView>
+   <layers image="breadboard/DHT22 Sensor_775be6d48e05957a6742dfc1e55ea090_3_breadboard.svg">
+    <layer layerId="breadboard"/>
+   </layers>
+  </breadboardView>
+  <schematicView fliphorizontal="true">
+   <layers image="schematic/DHT22 Sensor_775be6d48e05957a6742dfc1e55ea090_3_schematic.svg">
+    <layer layerId="schematic"/>
+   </layers>
+  </schematicView>
+  <pcbView>
+   <layers image="pcb/DHT22 Sensor_775be6d48e05957a6742dfc1e55ea090_3_pcb.svg">
+    <layer layerId="copper0"/>
+    <layer layerId="silkscreen"/>
+    <layer layerId="copper1"/>
+   </layers>
+  </pcbView>
+ </views>
+ <connectors>
+  <connector id="connector0" type="male" name="VCC">
+   <description>VCC</description>
+   <views>
+    <breadboardView>
+     <p svgId="connector0pin" layer="breadboard" terminalId="connector0terminal"/>
+    </breadboardView>
+    <schematicView>
+     <p svgId="connector0pin" layer="schematic" terminalId="connector0terminal"/>
+    </schematicView>
+    <pcbView>
+     <p svgId="connector0pin" layer="copper0"/>
+     <p svgId="connector0pin" layer="copper1"/>
+    </pcbView>
+   </views>
+  </connector>
+  <connector id="connector1" type="male" name="OUT">
+   <description>OUT</description>
+   <views>
+    <breadboardView>
+     <p svgId="connector1pin" layer="breadboard" terminalId="connector1terminal"/>
+    </breadboardView>
+    <schematicView>
+     <p svgId="connector1pin" layer="schematic" terminalId="connector1terminal"/>
+    </schematicView>
+    <pcbView>
+     <p svgId="connector1pin" layer="copper0"/>
+     <p svgId="connector1pin" layer="copper1"/>
+    </pcbView>
+   </views>
+  </connector>
+  <connector id="connector2" type="male" name="GND">
+   <description>GND</description>
+   <views>
+    <breadboardView>
+     <p svgId="connector2pin" layer="breadboard" terminalId="connector2terminal"/>
+    </breadboardView>
+    <schematicView>
+     <p svgId="connector2pin" layer="schematic" terminalId="connector2terminal"/>
+    </schematicView>
+    <pcbView>
+     <p svgId="connector2pin" layer="copper0"/>
+     <p svgId="connector2pin" layer="copper1"/>
+    </pcbView>
+   </views>
+  </connector>
+ </connectors>
+ <url>https://www.studiopieters.nl/</url>
+</module>

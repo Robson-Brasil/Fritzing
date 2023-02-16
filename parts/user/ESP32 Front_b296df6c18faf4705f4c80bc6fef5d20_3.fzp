@@ -1,0 +1,294 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<module moduleId="ESP32 Front_b296df6c18faf4705f4c80bc6fef5d20_3" referenceFile="WeMos-D1-mini-male-headers-above_fixed.fzp" fritzingVersion="0.9.0b">
+ <version>2</version>
+ <author>Studiopieters</author>
+ <title>ESP32 - CAM</title>
+ <label>ESP32 - Front</label>
+ <date>Thu May 5 2022</date>
+ <url>https://www.studiopieters.nl/</url>
+ <tags>
+  <tag>Microcontroller</tag>
+  <tag>WiFi</tag>
+  <tag>ESP-32</tag>
+ </tags>
+ <properties>
+  <property name="variant">variant 1</property>
+  <property name="family">ESP32</property>
+  <property name="cpu">ESP-32</property>
+  <property name="part number"></property>
+  <property name="headers">male above</property>
+  <property name="layer"></property>
+ </properties>
+ <description>&lt;!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd">
+&lt;html>&lt;head>&lt;meta name="qrichtext" content="1" />&lt;style type="text/css">
+p, li { white-space: pre-wrap; }
+&lt;/style>&lt;/head>&lt;body style=" font-family:'MS Shell Dlg 2'; font-size:8.25pt; font-weight:400; font-style:normal;">
+&lt;p style=" margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">The ESP32-CAM has a very competitive small-size camera module that can operate independently as a minimum system with a footprint of only 27*40.5*4.5mm and a deep sleep current of up to 6mA.&lt;/p>
+&lt;p style="-qt-paragraph-type:empty; margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">&lt;br />&lt;/p>&lt;/body>&lt;/html></description>
+ <views>
+  <iconView>
+   <layers image="icon/ESP32 Front_b296df6c18faf4705f4c80bc6fef5d20_3_icon.svg">
+    <layer layerId="icon"/>
+   </layers>
+  </iconView>
+  <breadboardView>
+   <layers image="breadboard/ESP32 Front_b296df6c18faf4705f4c80bc6fef5d20_3_breadboard.svg">
+    <layer layerId="breadboard"/>
+   </layers>
+  </breadboardView>
+  <schematicView>
+   <layers image="schematic/ESP32 Front_b296df6c18faf4705f4c80bc6fef5d20_3_schematic.svg">
+    <layer layerId="schematic"/>
+   </layers>
+  </schematicView>
+  <pcbView>
+   <layers image="pcb/ESP32 Front_b296df6c18faf4705f4c80bc6fef5d20_3_pcb.svg">
+    <layer layerId="copper0"/>
+    <layer layerId="copper1"/>
+    <layer layerId="silkscreen"/>
+   </layers>
+  </pcbView>
+ </views>
+ <connectors>
+  <connector id="connector1" type="male" name="GPIO4">
+   <description>GPIO4</description>
+   <views>
+    <breadboardView>
+     <p svgId="connector1pin" layer="breadboard"/>
+    </breadboardView>
+    <schematicView>
+     <p svgId="connector1pin" layer="schematic"/>
+    </schematicView>
+    <pcbView>
+     <p svgId="connector1pin" layer="copper0"/>
+     <p svgId="connector1pin" layer="copper1"/>
+    </pcbView>
+   </views>
+  </connector>
+  <connector id="connector2" type="male" name="GPIO2">
+   <description>GPIO2</description>
+   <views>
+    <breadboardView>
+     <p svgId="connector2pin" layer="breadboard"/>
+    </breadboardView>
+    <schematicView>
+     <p svgId="connector2pin" layer="schematic"/>
+    </schematicView>
+    <pcbView>
+     <p svgId="connector2pin" layer="copper0"/>
+     <p svgId="connector2pin" layer="copper1"/>
+    </pcbView>
+   </views>
+  </connector>
+  <connector id="connector3" type="male" name="GPIO14">
+   <description>GPIO14</description>
+   <views>
+    <breadboardView>
+     <p svgId="connector3pin" layer="breadboard"/>
+    </breadboardView>
+    <schematicView>
+     <p svgId="connector3pin" layer="schematic"/>
+    </schematicView>
+    <pcbView>
+     <p svgId="connector3pin" layer="copper0"/>
+     <p svgId="connector3pin" layer="copper1"/>
+    </pcbView>
+   </views>
+  </connector>
+  <connector id="connector4" type="male" name="GPIO15">
+   <description>GPIO15</description>
+   <views>
+    <breadboardView>
+     <p svgId="connector4pin" layer="breadboard"/>
+    </breadboardView>
+    <schematicView>
+     <p svgId="connector4pin" layer="schematic"/>
+    </schematicView>
+    <pcbView>
+     <p svgId="connector4pin" layer="copper0"/>
+     <p svgId="connector4pin" layer="copper1"/>
+    </pcbView>
+   </views>
+  </connector>
+  <connector id="connector5" type="male" name="GPIO13">
+   <description>GPIO13</description>
+   <views>
+    <breadboardView>
+     <p svgId="connector5pin" layer="breadboard"/>
+    </breadboardView>
+    <schematicView>
+     <p svgId="connector5pin" layer="schematic"/>
+    </schematicView>
+    <pcbView>
+     <p svgId="connector5pin" layer="copper0"/>
+     <p svgId="connector5pin" layer="copper1"/>
+    </pcbView>
+   </views>
+  </connector>
+  <connector id="connector6" type="male" name="GPIO12">
+   <description>GPIO12</description>
+   <views>
+    <breadboardView>
+     <p svgId="connector6pin" layer="breadboard"/>
+    </breadboardView>
+    <schematicView>
+     <p svgId="connector6pin" layer="schematic"/>
+    </schematicView>
+    <pcbView>
+     <p svgId="connector6pin" layer="copper0"/>
+     <p svgId="connector6pin" layer="copper1"/>
+    </pcbView>
+   </views>
+  </connector>
+  <connector id="connector7" type="male" name="GND">
+   <description>GND</description>
+   <views>
+    <breadboardView>
+     <p svgId="connector7pin" layer="breadboard"/>
+    </breadboardView>
+    <schematicView>
+     <p svgId="connector7pin" layer="schematic"/>
+    </schematicView>
+    <pcbView>
+     <p svgId="connector7pin" layer="copper0"/>
+     <p svgId="connector7pin" layer="copper1"/>
+    </pcbView>
+   </views>
+  </connector>
+  <connector id="connector8" type="male" name="5V">
+   <description>5V</description>
+   <views>
+    <breadboardView>
+     <p svgId="connector8pin" layer="breadboard"/>
+    </breadboardView>
+    <schematicView>
+     <p svgId="connector8pin" layer="schematic"/>
+    </schematicView>
+    <pcbView>
+     <p svgId="connector8pin" layer="copper0"/>
+     <p svgId="connector8pin" layer="copper1"/>
+    </pcbView>
+   </views>
+  </connector>
+  <connector id="connector9" type="male" name="3.3V">
+   <description>3.3V</description>
+   <views>
+    <breadboardView>
+     <p svgId="connector9pin" layer="breadboard"/>
+    </breadboardView>
+    <schematicView>
+     <p svgId="connector9pin" layer="schematic"/>
+    </schematicView>
+    <pcbView>
+     <p svgId="connector9pin" layer="copper0"/>
+     <p svgId="connector9pin" layer="copper1"/>
+    </pcbView>
+   </views>
+  </connector>
+  <connector id="connector10" type="male" name="GPIO16">
+   <description>GPIO16</description>
+   <views>
+    <breadboardView>
+     <p svgId="connector10pin" layer="breadboard"/>
+    </breadboardView>
+    <schematicView>
+     <p svgId="connector10pin" layer="schematic"/>
+    </schematicView>
+    <pcbView>
+     <p svgId="connector10pin" layer="copper0"/>
+     <p svgId="connector10pin" layer="copper1"/>
+    </pcbView>
+   </views>
+  </connector>
+  <connector id="connector11" type="male" name="GPIO0">
+   <description>GPIO0</description>
+   <views>
+    <breadboardView>
+     <p svgId="connector11pin" layer="breadboard"/>
+    </breadboardView>
+    <schematicView>
+     <p svgId="connector11pin" layer="schematic"/>
+    </schematicView>
+    <pcbView>
+     <p svgId="connector11pin" layer="copper0"/>
+     <p svgId="connector11pin" layer="copper1"/>
+    </pcbView>
+   </views>
+  </connector>
+  <connector id="connector12" type="male" name="GND">
+   <description>GND</description>
+   <views>
+    <breadboardView>
+     <p svgId="connector12pin" layer="breadboard"/>
+    </breadboardView>
+    <schematicView>
+     <p svgId="connector12pin" layer="schematic"/>
+    </schematicView>
+    <pcbView>
+     <p svgId="connector12pin" layer="copper0"/>
+     <p svgId="connector12pin" layer="copper1"/>
+    </pcbView>
+   </views>
+  </connector>
+  <connector id="connector13" type="male" name="3.3V / 5V / P_OUT">
+   <description>3.3V / 5V / P_OUT</description>
+   <views>
+    <breadboardView>
+     <p svgId="connector13pin" layer="breadboard"/>
+    </breadboardView>
+    <schematicView>
+     <p svgId="connector13pin" layer="schematic"/>
+    </schematicView>
+    <pcbView>
+     <p svgId="connector13pin" layer="copper0"/>
+     <p svgId="connector13pin" layer="copper1"/>
+    </pcbView>
+   </views>
+  </connector>
+  <connector id="connector14" type="male" name="GPIO3 / RX">
+   <description>GPIO3/  RX</description>
+   <views>
+    <breadboardView>
+     <p svgId="connector14pin" layer="breadboard"/>
+    </breadboardView>
+    <schematicView>
+     <p svgId="connector14pin" layer="schematic"/>
+    </schematicView>
+    <pcbView>
+     <p svgId="connector14pin" layer="copper0"/>
+     <p svgId="connector14pin" layer="copper1"/>
+    </pcbView>
+   </views>
+  </connector>
+  <connector id="connector15" type="male" name="GPIO1 / TX">
+   <description>GPIO / TX</description>
+   <views>
+    <breadboardView>
+     <p svgId="connector15pin" layer="breadboard"/>
+    </breadboardView>
+    <schematicView>
+     <p svgId="connector15pin" layer="schematic"/>
+    </schematicView>
+    <pcbView>
+     <p svgId="connector15pin" layer="copper0"/>
+     <p svgId="connector15pin" layer="copper1"/>
+    </pcbView>
+   </views>
+  </connector>
+  <connector id="connector16" type="male" name="GND">
+   <description>GND</description>
+   <views>
+    <breadboardView>
+     <p svgId="connector16pin" layer="breadboard"/>
+    </breadboardView>
+    <schematicView>
+     <p svgId="connector16pin" layer="schematic"/>
+    </schematicView>
+    <pcbView>
+     <p svgId="connector16pin" layer="copper0"/>
+     <p svgId="connector16pin" layer="copper1"/>
+    </pcbView>
+   </views>
+  </connector>
+ </connectors>
+</module>

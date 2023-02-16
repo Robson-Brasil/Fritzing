@@ -1,0 +1,230 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<!-- Generator: Adobe Illustrator 15.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg xmlns="http://www.w3.org/2000/svg" gorn="0" enable-background="new -66.38 -5.38 99 144" x="0px" id="Layer_1"  xml:space="preserve" version="1.1" width="2.5cm" xmlns:xml="http://www.w3.org/XML/1998/namespace" height="4.8000002cm" viewBox="0 0 88.58268 170.07875" y="0px">
+    <desc >
+        <referenceFile >NodeMCUPCBNew.svg</referenceFile>
+    </desc>
+    <g  transform="translate(66.38,5.38)">
+        <g >
+            <g >
+                <g >
+                    <g >
+                        <g >
+                            <g >
+                                <g >
+                                    <g >
+                                        <g >
+                                            <g >
+                                                <g >
+                                                    <g >
+                                                        <g >
+                                                            <g >
+                                                                <metadata id="metadata51" >
+                                                                    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+                                                                        <cc:Work xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="" xmlns:cc="http://creativecommons.org/ns#">
+                                                                            <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">image/svg+xml</dc:format>
+                                                                            <dc:type xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:resource="http://purl.org/dc/dcmitype/StillImage" xmlns:dc="http://purl.org/dc/elements/1.1/"/>
+                                                                            <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/"/>
+                                                                        </cc:Work>
+                                                                    </rdf:RDF>
+                                                                </metadata>
+                                                                <defs id="defs49" />
+                                                                <g  transform="matrix(0.95516884,0,0,1.2395352,-6.4383757,-0.98001028)">
+                                                                    <g >
+                                                                        <g >
+                                                                            <g >
+                                                                                <g >
+                                                                                    <g >
+                                                                                        <g >
+                                                                                            <g >
+                                                                                                <g >
+                                                                                                    <g >
+                                                                                                        <g >
+                                                                                                            <g >
+                                                                                                                <g >
+                                                                                                                    <g >
+                                                                                                                        <g gorn="0.1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.2.0.0.0.0.0.0.0.0.0.0.0.0.0.0" id="silkscreen" >
+                                                                                                                            <line y1="-1.78" gorn="0.1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.2.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0" x1="-62.380001" x2="-62.380001" stroke="#ffffff" stroke-width="0.75" id="line4"  fill="none" y2="133.287"/>
+                                                                                                                            <line y1="133.287" gorn="0.1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.2.0.0.0.0.0.0.0.0.0.0.0.0.0.0.1" x1="29.521" x2="29.521" stroke="#ffffff" stroke-width="0.75" id="line6"  fill="none" y2="-1.78"/>
+                                                                                                                            <line y1="133.287" gorn="0.1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.2.0.0.0.0.0.0.0.0.0.0.0.0.0.0.2" x1="-62.380001" x2="29.021" stroke="#ffffff" stroke-width="0.75" id="line8"  fill="none" y2="133.287"/>
+                                                                                                                            <line y1="-3.28" gorn="0.1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.2.0.0.0.0.0.0.0.0.0.0.0.0.0.0.3" x1="-62.380001" x2="29.219999" stroke="#ffffff" stroke-width="0.75" id="line10"  fill="none" y2="-3.28"/>
+                                                                                                                        </g>
+                                                                                                                    </g>
+                                                                                                                </g>
+                                                                                                            </g>
+                                                                                                        </g>
+                                                                                                    </g>
+                                                                                                </g>
+                                                                                            </g>
+                                                                                        </g>
+                                                                                    </g>
+                                                                                </g>
+                                                                            </g>
+                                                                        </g>
+                                                                    </g>
+                                                                </g>
+                                                                <g  transform="matrix(0.99705383,0,0,0.99847198,-6.8549812,12.657221)">
+                                                                    <g >
+                                                                        <g >
+                                                                            <g >
+                                                                                <g >
+                                                                                    <g >
+                                                                                        <g >
+                                                                                            <g >
+                                                                                                <g >
+                                                                                                    <g >
+                                                                                                        <g >
+                                                                                                            <g >
+                                                                                                                <g >
+                                                                                                                    <g >
+                                                                                                                        <g gorn="0.1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0" id="copper0" >
+                                                                                                                            <g gorn="0.1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0" id="copper1" >
+                                                                                                                                <circle cy="20.035999" gorn="0.1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0" stroke="#ffbf00" stroke-width="1.15199995" id="connector2pad"  fill="none" r="1.584" cx="25.204"/>
+                                                                                                                                <circle cy="2.036" gorn="0.1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.1" stroke="#ffbf00" stroke-width="1.15199995" id="connector42pin"  fill="none" r="1.584" cx="-55.796001"/>
+                                                                                                                                <circle cy="11.036" gorn="0.1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.2" stroke="#ffbf00" stroke-width="1.15199995" id="connector41pin"  fill="none" r="1.584" cx="-55.796001"/>
+                                                                                                                                <circle cy="20.035999" gorn="0.1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.3" stroke="#ffbf00" stroke-width="1.15199995" id="connector40pin"  fill="none" r="1.584" cx="-55.796001"/>
+                                                                                                                                <circle cy="29.035999" gorn="0.1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.4" stroke="#ffbf00" stroke-width="1.15199995" id="connector39pin"  fill="none" r="1.584" cx="-55.796001"/>
+                                                                                                                                <circle cy="38.035999" gorn="0.1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.5" stroke="#ffbf00" stroke-width="1.15199995" id="connector38pin"  fill="none" r="1.584" cx="-55.796001"/>
+                                                                                                                                <circle cy="11.036" gorn="0.1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.6" stroke="#ffbf00" stroke-width="1.15199995" id="connector1pad"  fill="none" r="1.584" cx="25.204"/>
+                                                                                                                                <circle cy="2.036" gorn="0.1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.7" stroke="#ffbf00" stroke-width="1.15199995" id="connector0pad"  fill="none" r="1.584" cx="25.204"/>
+                                                                                                                                <circle cy="29.035999" gorn="0.1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.8" stroke="#ffbf00" stroke-width="1.15199995" id="connector3pad"  fill="none" r="1.584" cx="25.204"/>
+                                                                                                                                <circle cy="47.035999" gorn="0.1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.9" stroke="#ffbf00" stroke-width="1.15199995" id="connector37pin"  fill="none" r="1.584" cx="-55.796001"/>
+                                                                                                                                <circle cy="56.035999" gorn="0.1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.10" stroke="#ffbf00" stroke-width="1.15199995" id="connector36pin"  fill="none" r="1.584" cx="-55.796001"/>
+                                                                                                                                <circle cy="65.036003" gorn="0.1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.11" stroke="#ffbf00" stroke-width="1.15199995" id="connector35pin"  fill="none" r="1.584" cx="-55.796001"/>
+                                                                                                                                <circle cy="74.036003" gorn="0.1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.12" stroke="#ffbf00" stroke-width="1.15199995" id="connector34pin"  fill="none" r="1.584" cx="-55.796001"/>
+                                                                                                                                <circle cy="83.036003" gorn="0.1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.13" stroke="#ffbf00" stroke-width="1.15199995" id="connector33pin"  fill="none" r="1.584" cx="-55.796001"/>
+                                                                                                                                <circle cy="92.036003" gorn="0.1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.14" stroke="#ffbf00" stroke-width="1.15199995" id="connector19pad"  fill="none" r="1.584" cx="-55.796001"/>
+                                                                                                                                <circle cy="101.036" gorn="0.1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.15" stroke="#ffbf00" stroke-width="1.15199995" id="connector18pad"  fill="none" r="1.584" cx="-55.796001"/>
+                                                                                                                                <circle cy="110.036" gorn="0.1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.16" stroke="#ffbf00" stroke-width="1.15199995" id="connector17pad"  fill="none" r="1.584" cx="-55.796001"/>
+                                                                                                                                <circle cy="119.036" gorn="0.1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.17" stroke="#ffbf00" stroke-width="1.15199995" id="connector16pad"  fill="none" r="1.584" cx="-55.796001"/>
+                                                                                                                                <circle cy="128.036" gorn="0.1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.18" stroke="#ffbf00" stroke-width="1.15199995" id="connector15pad"  fill="none" r="1.584" cx="-55.796001"/>
+                                                                                                                                <circle cy="65.036003" gorn="0.1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.19" stroke="#ffbf00" stroke-width="1.15199995" id="connector7pad"  fill="none" r="1.584" cx="25.204"/>
+                                                                                                                                <circle cy="74.036003" gorn="0.1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.20" stroke="#ffbf00" stroke-width="1.15199995" id="connector8pad"  fill="none" r="1.584" cx="25.204"/>
+                                                                                                                                <circle cy="83.036003" gorn="0.1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.21" stroke="#ffbf00" stroke-width="1.15199995" id="connector9pad"  fill="none" r="1.584" cx="25.204"/>
+                                                                                                                                <circle cy="92.036003" gorn="0.1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.22" stroke="#ffbf00" stroke-width="1.15199995" id="connector10pad"  fill="none" r="1.584" cx="25.204"/>
+                                                                                                                                <circle cy="101.036" gorn="0.1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.23" stroke="#ffbf00" stroke-width="1.15199995" id="connector11pad"  fill="none" r="1.584" cx="25.204"/>
+                                                                                                                                <circle cy="110.036" gorn="0.1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.24" stroke="#ffbf00" stroke-width="1.15199995" id="connector12pad"  fill="none" r="1.584" cx="25.204"/>
+                                                                                                                                <circle cy="119.036" gorn="0.1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.25" stroke="#ffbf00" stroke-width="1.15199995" id="connector13pad"  fill="none" r="1.584" cx="25.204"/>
+                                                                                                                                <circle cy="128.036" gorn="0.1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.26" stroke="#ffbf00" stroke-width="1.15199995" id="connector14pad"  fill="none" r="1.584" cx="25.204"/>
+                                                                                                                                <circle cy="38.035999" gorn="0.1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.27" stroke="#ffbf00" stroke-width="1.15199995" id="connector4pad"  fill="none" r="1.584" cx="25.204"/>
+                                                                                                                                <circle cy="47.035999" gorn="0.1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.28" stroke="#ffbf00" stroke-width="1.15199995" id="connector5pad"  fill="none" r="1.584" cx="25.204"/>
+                                                                                                                                <circle cy="56.035999" gorn="0.1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.29" stroke="#ffbf00" stroke-width="1.15199995" id="connector6pad"  fill="none" r="1.584" cx="25.204"/>
+                                                                                                                            </g>
+                                                                                                                        </g>
+                                                                                                                    </g>
+                                                                                                                </g>
+                                                                                                            </g>
+                                                                                                        </g>
+                                                                                                    </g>
+                                                                                                </g>
+                                                                                            </g>
+                                                                                        </g>
+                                                                                    </g>
+                                                                                </g>
+                                                                            </g>
+                                                                        </g>
+                                                                    </g>
+                                                                </g>
+                                                                <g  transform="translate(0,26.078724)">
+                                                                    <g >
+                                                                        <g >
+                                                                            <g >
+                                                                                <g >
+                                                                                    <g >
+                                                                                        <g >
+                                                                                            <g >
+                                                                                                <g >
+                                                                                                    <g >
+                                                                                                        <g >
+                                                                                                            <g >
+                                                                                                                <g >
+                                                                                                                    <g >
+                                                                                                                        <g gorn="0.1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.4.0.0.0.0.0.0.0.0.0.0.0.0.0.0" id="keepout" />
+                                                                                                                    </g>
+                                                                                                                </g>
+                                                                                                            </g>
+                                                                                                        </g>
+                                                                                                    </g>
+                                                                                                </g>
+                                                                                            </g>
+                                                                                        </g>
+                                                                                    </g>
+                                                                                </g>
+                                                                            </g>
+                                                                        </g>
+                                                                    </g>
+                                                                </g>
+                                                                <g  transform="translate(0,26.078724)">
+                                                                    <g >
+                                                                        <g >
+                                                                            <g >
+                                                                                <g >
+                                                                                    <g >
+                                                                                        <g >
+                                                                                            <g >
+                                                                                                <g >
+                                                                                                    <g >
+                                                                                                        <g >
+                                                                                                            <g >
+                                                                                                                <g >
+                                                                                                                    <g >
+                                                                                                                        <g gorn="0.1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.5.0.0.0.0.0.0.0.0.0.0.0.0.0.0" id="soldermask" />
+                                                                                                                    </g>
+                                                                                                                </g>
+                                                                                                            </g>
+                                                                                                        </g>
+                                                                                                    </g>
+                                                                                                </g>
+                                                                                            </g>
+                                                                                        </g>
+                                                                                    </g>
+                                                                                </g>
+                                                                            </g>
+                                                                        </g>
+                                                                    </g>
+                                                                </g>
+                                                                <g  transform="translate(0,26.078724)">
+                                                                    <g >
+                                                                        <g >
+                                                                            <g >
+                                                                                <g >
+                                                                                    <g >
+                                                                                        <g >
+                                                                                            <g >
+                                                                                                <g >
+                                                                                                    <g >
+                                                                                                        <g >
+                                                                                                            <g >
+                                                                                                                <g >
+                                                                                                                    <g >
+                                                                                                                        <g gorn="0.1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.6.0.0.0.0.0.0.0.0.0.0.0.0.0.0" id="outline" />
+                                                                                                                    </g>
+                                                                                                                </g>
+                                                                                                            </g>
+                                                                                                        </g>
+                                                                                                    </g>
+                                                                                                </g>
+                                                                                            </g>
+                                                                                        </g>
+                                                                                    </g>
+                                                                                </g>
+                                                                            </g>
+                                                                        </g>
+                                                                    </g>
+                                                                </g>
+                                                            </g>
+                                                        </g>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

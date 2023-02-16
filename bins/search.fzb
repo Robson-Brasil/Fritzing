@@ -2,37 +2,16 @@
 <module fritzingVersion="0.9.10b.2022-07-01.CD-2134-0-40d23c29" icon="Search.png" search="esp32">
     <title>Search</title>
     <instances>
-        <instance moduleIdRef="esp32_new_d54e5c6122ec151400e7f24ae8fc503b_1" modelIndex="85516483" path="C:/Users/RobsonBrasil/Documents/Fritzing/parts/contrib/esp32_new_d54e5c6122ec151400e7f24ae8fc503b_1.fzp" flippedSMD="true">
+        <instance moduleIdRef="esp32_new_d54e5c6122ec151400e7f24ae8fc503b_1" modelIndex="85517949" path="C:/Users/RobsonBrasil/Documents/Fritzing/parts/contrib/esp32_new_d54e5c6122ec151400e7f24ae8fc503b_1.fzp" flippedSMD="true">
             <views/>
         </instance>
-        <instance moduleIdRef="esp32_V2_52d2ade585478c3892482f9a77789f59_13" modelIndex="85516485" path="C:/Users/RobsonBrasil/Documents/Fritzing/parts/contrib/esp32_V2_52d2ade585478c3892482f9a77789f59_13.fzp" flippedSMD="true">
+        <instance moduleIdRef="esp32_V2_52d2ade585478c3892482f9a77789f59_13" modelIndex="85517951" path="C:/Users/RobsonBrasil/Documents/Fritzing/parts/contrib/esp32_V2_52d2ade585478c3892482f9a77789f59_13.fzp" flippedSMD="true">
             <views/>
         </instance>
-        <instance moduleIdRef="adafruit_7cfb4bb3580410f301a5a262c6ed886d_1" modelIndex="85516487" path="C:/Users/RobsonBrasil/Documents/Fritzing/parts/user/adafruit_7cfb4bb3580410f301a5a262c6ed886d_1.fzp">
+        <instance moduleIdRef="Heltec_WiFi_LoRa_32_V2" modelIndex="85517953" path="C:/Program Files/Fritzing/fritzing-parts/core/Heltec_WiFi_LoRa_32_V2.fzp">
             <views/>
         </instance>
-        <instance moduleIdRef="ESP32 - Programmer_a4d8a5ebce00c2101add3c8219269564_9" modelIndex="85516489" path="C:/Users/RobsonBrasil/Documents/Fritzing/parts/user/ESP32 - Programmer_a4d8a5ebce00c2101add3c8219269564_9.fzp">
-            <views/>
-        </instance>
-        <instance moduleIdRef="ESP32 DevKitc V4_9901c217e2ec59ff74e1e5af534880c8_2" modelIndex="85516491" path="C:/Users/RobsonBrasil/Documents/Fritzing/parts/user/ESP32 DevKitc V4_9901c217e2ec59ff74e1e5af534880c8_2.fzp">
-            <views/>
-        </instance>
-        <instance moduleIdRef="ESP32-38PinWide" modelIndex="85516493" path="C:/Users/RobsonBrasil/Documents/Fritzing/parts/user/ESP32-38PinWide.fzp">
-            <views/>
-        </instance>
-        <instance moduleIdRef="ESP32-WROOM-32D-NodeMCU_34d842f0cfe1413d9ddf8612d312e317_3" modelIndex="85516495" path="C:/Users/RobsonBrasil/Documents/Fritzing/parts/user/ESP32-WROOM-32D-NodeMCU_34d842f0cfe1413d9ddf8612d312e317_3.fzp">
-            <views/>
-        </instance>
-        <instance moduleIdRef="ESP32-WROOM-32D_022e2ee762e589efada2c5d8567ff259_3" modelIndex="85516497" path="C:/Users/RobsonBrasil/Documents/Fritzing/parts/user/ESP32-WROOM-32D_022e2ee762e589efada2c5d8567ff259_3.fzp" flippedSMD="true">
-            <views/>
-        </instance>
-        <instance moduleIdRef="ESP32S_06fef02867f2f5c7d8a60de61eb2c76d_12" modelIndex="85516499" path="C:/Users/RobsonBrasil/Documents/Fritzing/parts/user/ESP32S_06fef02867f2f5c7d8a60de61eb2c76d_12.fzp" flippedSMD="true">
-            <views/>
-        </instance>
-        <instance moduleIdRef="MH-ET LIVE ESP32 DEVKIT_b9055ceddb827445366a4e41b4f2f6c6_2" modelIndex="85516501" path="C:/Users/RobsonBrasil/Documents/Fritzing/parts/user/MH-ET LIVE ESP32 DEVKIT_b9055ceddb827445366a4e41b4f2f6c6_2.fzp">
-            <views/>
-        </instance>
-        <instance moduleIdRef="Heltec_WiFi_LoRa_32_V2" modelIndex="85516502" path="C:/Program Files/Fritzing/fritzing-parts/core/Heltec_WiFi_LoRa_32_V2.fzp">
+        <instance moduleIdRef="ESP32-38PinWide" modelIndex="85517954" path="C:/Users/RobsonBrasil/AppData/Roaming/Fritzing/partfactory/21bd56bf2a1d2a2efc4f6213a7154abc/contrib/ESP32-38PinWide.fzp">
             <views/>
         </instance>
     </instances>

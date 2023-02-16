@@ -1,0 +1,1075 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE svg>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg xmlns="http://www.w3.org/2000/svg"  height="1.55in" xmlns:xml="http://www.w3.org/XML/1998/namespace" width="1.0324in" x="0px" viewBox="0 0 74.333 111.6" xml:space="preserve" version="1.1" id="svg2" y="0px" enable-background="new -35.204 -12.6 74.333 111.6" gorn="0">
+    <desc >
+        <referenceFile >bread.svg</referenceFile>
+    </desc>
+    <g  transform="translate(35.204,12.6)">
+        <g >
+            <g >
+                <rect  height="111.6" width="74.5" x="-35.204" fill="#0E84CC" y="-12.6"/>
+                <g  transform="matrix(-0.00148199,0.89745425,-1.1142599,-0.00184001,0,0)">
+                    <g >
+                        <g >
+                            <g >
+                                <g >
+                                    <g >
+                                        <g >
+                                            <g >
+                                                <g >
+                                                    <g  id="text22" gorn="0.1.0.0.1.0.0.0.0.0.0.0.0.0">
+                                                        <g  transform="matrix(-3.562309e-008 -0.7228 1.1143 -4.912727e-008 100.2766 13.1276)">
+                                                            <g >
+                                                                <text  font-size="7.0129" fill="#FFFFFF" font-family="Droid Sans" id="tspan4872" gorn="0.1.0.0.1.0.0.0.0.0.0.0.0.0.0.0.0">RFID-RC522</text>
+                                                            </g>
+                                                        </g>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+                <g  id="g78" gorn="0.1.0.0.2">
+                    <title  id="title80">element:JP1</title>
+                    <g  id="g82" gorn="0.1.0.0.2.1">
+                        <title  id="title84">package:1X08</title>
+                        <line  stroke="#FFFFFF" y1="-5.4" x1="-14.776" fill="none" stroke-linecap="round" x2="-18.376" stroke-width="0.576" id="line86" gorn="0.1.0.0.2.1.1" y2="-5.4"/>
+                        <line  stroke="#FFFFFF" y1="-5.4" x1="-18.376" fill="none" stroke-linecap="round" x2="-20.176" stroke-width="0.576" id="line88" gorn="0.1.0.0.2.1.2" y2="-7.199"/>
+                        <line  stroke="#FFFFFF" y1="-10.8" x1="-20.176" fill="none" stroke-linecap="round" x2="-18.376" stroke-width="0.576" id="line90" gorn="0.1.0.0.2.1.3" y2="-12.6"/>
+                        <line  stroke="#FFFFFF" y1="-7.199" x1="-5.776" fill="none" stroke-linecap="round" x2="-7.576" stroke-width="0.576" id="line92" gorn="0.1.0.0.2.1.4" y2="-5.4"/>
+                        <line  stroke="#FFFFFF" y1="-5.4" x1="-7.576" fill="none" stroke-linecap="round" x2="-11.176" stroke-width="0.576" id="line94" gorn="0.1.0.0.2.1.5" y2="-5.4"/>
+                        <line  stroke="#FFFFFF" y1="-5.4" x1="-11.176" fill="none" stroke-linecap="round" x2="-12.976" stroke-width="0.576" id="line96" gorn="0.1.0.0.2.1.6" y2="-7.199"/>
+                        <line  stroke="#FFFFFF" y1="-10.8" x1="-12.976" fill="none" stroke-linecap="round" x2="-11.176" stroke-width="0.576" id="line98" gorn="0.1.0.0.2.1.7" y2="-12.6"/>
+                        <line  stroke="#FFFFFF" y1="-12.6" x1="-11.176" fill="none" stroke-linecap="round" x2="-7.576" stroke-width="0.576" id="line100" gorn="0.1.0.0.2.1.8" y2="-12.6"/>
+                        <line  stroke="#FFFFFF" y1="-12.6" x1="-7.576" fill="none" stroke-linecap="round" x2="-5.776" stroke-width="0.576" id="line102" gorn="0.1.0.0.2.1.9" y2="-10.8"/>
+                        <line  stroke="#FFFFFF" y1="-5.4" x1="-14.776" fill="none" stroke-linecap="round" x2="-12.976" stroke-width="0.576" id="line104" gorn="0.1.0.0.2.1.10" y2="-7.199"/>
+                        <line  stroke="#FFFFFF" y1="-10.8" x1="-12.976" fill="none" stroke-linecap="round" x2="-14.776" stroke-width="0.576" id="line106" gorn="0.1.0.0.2.1.11" y2="-12.6"/>
+                        <line  stroke="#FFFFFF" y1="-12.6" x1="-18.376" fill="none" stroke-linecap="round" x2="-14.776" stroke-width="0.576" id="line108" gorn="0.1.0.0.2.1.12" y2="-12.6"/>
+                        <line  stroke="#FFFFFF" y1="-5.4" x1="6.824" fill="none" stroke-linecap="round" x2="3.224" stroke-width="0.576" id="line110" gorn="0.1.0.0.2.1.13" y2="-5.4"/>
+                        <line  stroke="#FFFFFF" y1="-5.4" x1="3.224" fill="none" stroke-linecap="round" x2="1.424" stroke-width="0.576" id="line112" gorn="0.1.0.0.2.1.14" y2="-7.199"/>
+                        <line  stroke="#FFFFFF" y1="-10.8" x1="1.424" fill="none" stroke-linecap="round" x2="3.224" stroke-width="0.576" id="line114" gorn="0.1.0.0.2.1.15" y2="-12.6"/>
+                        <line  stroke="#FFFFFF" y1="-7.199" x1="1.424" fill="none" stroke-linecap="round" x2="-0.376" stroke-width="0.576" id="line116" gorn="0.1.0.0.2.1.16" y2="-5.4"/>
+                        <line  stroke="#FFFFFF" y1="-5.4" x1="-0.376" fill="none" stroke-linecap="round" x2="-3.976" stroke-width="0.576" id="line118" gorn="0.1.0.0.2.1.17" y2="-5.4"/>
+                        <line  stroke="#FFFFFF" y1="-5.4" x1="-3.976" fill="none" stroke-linecap="round" x2="-5.776" stroke-width="0.576" id="line120" gorn="0.1.0.0.2.1.18" y2="-7.199"/>
+                        <line  stroke="#FFFFFF" y1="-10.8" x1="-5.776" fill="none" stroke-linecap="round" x2="-3.976" stroke-width="0.576" id="line122" gorn="0.1.0.0.2.1.19" y2="-12.6"/>
+                        <line  stroke="#FFFFFF" y1="-12.6" x1="-3.976" fill="none" stroke-linecap="round" x2="-0.376" stroke-width="0.576" id="line124" gorn="0.1.0.0.2.1.20" y2="-12.6"/>
+                        <line  stroke="#FFFFFF" y1="-12.6" x1="-0.376" fill="none" stroke-linecap="round" x2="1.424" stroke-width="0.576" id="line126" gorn="0.1.0.0.2.1.21" y2="-10.8"/>
+                        <line  stroke="#FFFFFF" y1="-7.199" x1="15.824" fill="none" stroke-linecap="round" x2="14.024" stroke-width="0.576" id="line128" gorn="0.1.0.0.2.1.22" y2="-5.4"/>
+                        <line  stroke="#FFFFFF" y1="-5.4" x1="14.024" fill="none" stroke-linecap="round" x2="10.424" stroke-width="0.576" id="line130" gorn="0.1.0.0.2.1.23" y2="-5.4"/>
+                        <line  stroke="#FFFFFF" y1="-5.4" x1="10.424" fill="none" stroke-linecap="round" x2="8.624" stroke-width="0.576" id="line132" gorn="0.1.0.0.2.1.24" y2="-7.199"/>
+                        <line  stroke="#FFFFFF" y1="-10.8" x1="8.624" fill="none" stroke-linecap="round" x2="10.424" stroke-width="0.576" id="line134" gorn="0.1.0.0.2.1.25" y2="-12.6"/>
+                        <line  stroke="#FFFFFF" y1="-12.6" x1="10.424" fill="none" stroke-linecap="round" x2="14.024" stroke-width="0.576" id="line136" gorn="0.1.0.0.2.1.26" y2="-12.6"/>
+                        <line  stroke="#FFFFFF" y1="-12.6" x1="14.024" fill="none" stroke-linecap="round" x2="15.824" stroke-width="0.576" id="line138" gorn="0.1.0.0.2.1.27" y2="-10.8"/>
+                        <line  stroke="#FFFFFF" y1="-5.4" x1="6.824" fill="none" stroke-linecap="round" x2="8.624" stroke-width="0.576" id="line140" gorn="0.1.0.0.2.1.28" y2="-7.199"/>
+                        <line  stroke="#FFFFFF" y1="-10.8" x1="8.624" fill="none" stroke-linecap="round" x2="6.824" stroke-width="0.576" id="line142" gorn="0.1.0.0.2.1.29" y2="-12.6"/>
+                        <line  stroke="#FFFFFF" y1="-12.6" x1="3.224" fill="none" stroke-linecap="round" x2="6.824" stroke-width="0.576" id="line144" gorn="0.1.0.0.2.1.30" y2="-12.6"/>
+                        <line  stroke="#FFFFFF" y1="-5.4" x1="28.424" fill="none" stroke-linecap="round" x2="24.824" stroke-width="0.576" id="line146" gorn="0.1.0.0.2.1.31" y2="-5.4"/>
+                        <line  stroke="#FFFFFF" y1="-5.4" x1="24.824" fill="none" stroke-linecap="round" x2="23.024" stroke-width="0.576" id="line148" gorn="0.1.0.0.2.1.32" y2="-7.199"/>
+                        <line  stroke="#FFFFFF" y1="-10.8" x1="23.024" fill="none" stroke-linecap="round" x2="24.824" stroke-width="0.576" id="line150" gorn="0.1.0.0.2.1.33" y2="-12.6"/>
+                        <line  stroke="#FFFFFF" y1="-7.199" x1="23.024" fill="none" stroke-linecap="round" x2="21.224" stroke-width="0.576" id="line152" gorn="0.1.0.0.2.1.34" y2="-5.4"/>
+                        <line  stroke="#FFFFFF" y1="-5.4" x1="21.224" fill="none" stroke-linecap="round" x2="17.624" stroke-width="0.576" id="line154" gorn="0.1.0.0.2.1.35" y2="-5.4"/>
+                        <line  stroke="#FFFFFF" y1="-5.4" x1="17.624" fill="none" stroke-linecap="round" x2="15.824" stroke-width="0.576" id="line156" gorn="0.1.0.0.2.1.36" y2="-7.199"/>
+                        <line  stroke="#FFFFFF" y1="-10.8" x1="15.824" fill="none" stroke-linecap="round" x2="17.624" stroke-width="0.576" id="line158" gorn="0.1.0.0.2.1.37" y2="-12.6"/>
+                        <line  stroke="#FFFFFF" y1="-12.6" x1="17.624" fill="none" stroke-linecap="round" x2="21.224" stroke-width="0.576" id="line160" gorn="0.1.0.0.2.1.38" y2="-12.6"/>
+                        <line  stroke="#FFFFFF" y1="-12.6" x1="21.224" fill="none" stroke-linecap="round" x2="23.024" stroke-width="0.576" id="line162" gorn="0.1.0.0.2.1.39" y2="-10.8"/>
+                        <line  stroke="#FFFFFF" y1="-7.199" x1="30.224" fill="none" stroke-linecap="round" x2="30.224" stroke-width="0.576" id="line164" gorn="0.1.0.0.2.1.40" y2="-10.8"/>
+                        <line  stroke="#FFFFFF" y1="-5.4" x1="28.424" fill="none" stroke-linecap="round" x2="30.224" stroke-width="0.576" id="line166" gorn="0.1.0.0.2.1.41" y2="-7.199"/>
+                        <line  stroke="#FFFFFF" y1="-10.8" x1="30.224" fill="none" stroke-linecap="round" x2="28.424" stroke-width="0.576" id="line168" gorn="0.1.0.0.2.1.42" y2="-12.6"/>
+                        <line  stroke="#FFFFFF" y1="-12.6" x1="24.824" fill="none" stroke-linecap="round" x2="28.424" stroke-width="0.576" id="line170" gorn="0.1.0.0.2.1.43" y2="-12.6"/>
+                        <line  stroke="#FFFFFF" y1="-5.4" x1="-21.976" fill="none" stroke-linecap="round" x2="-25.576" stroke-width="0.576" id="line172" gorn="0.1.0.0.2.1.44" y2="-5.4"/>
+                        <line  stroke="#FFFFFF" y1="-5.4" x1="-25.576" fill="none" stroke-linecap="round" x2="-27.376" stroke-width="0.576" id="line174" gorn="0.1.0.0.2.1.45" y2="-7.199"/>
+                        <line  stroke="#FFFFFF" y1="-7.199" x1="-27.376" fill="none" stroke-linecap="round" x2="-27.376" stroke-width="0.576" id="line176" gorn="0.1.0.0.2.1.46" y2="-10.8"/>
+                        <line  stroke="#FFFFFF" y1="-10.8" x1="-27.376" fill="none" stroke-linecap="round" x2="-25.576" stroke-width="0.576" id="line178" gorn="0.1.0.0.2.1.47" y2="-12.6"/>
+                        <line  stroke="#FFFFFF" y1="-5.4" x1="-21.976" fill="none" stroke-linecap="round" x2="-20.176" stroke-width="0.576" id="line180" gorn="0.1.0.0.2.1.48" y2="-7.199"/>
+                        <line  stroke="#FFFFFF" y1="-10.8" x1="-20.176" fill="none" stroke-linecap="round" x2="-21.976" stroke-width="0.576" id="line182" gorn="0.1.0.0.2.1.49" y2="-12.6"/>
+                        <line  stroke="#FFFFFF" y1="-12.6" x1="-25.576" fill="none" stroke-linecap="round" x2="-21.976" stroke-width="0.576" id="line184" gorn="0.1.0.0.2.1.50" y2="-12.6"/>
+                    </g>
+                </g>
+                <rect  height="3.744" stroke="#9A916C" width="3.744" x="24.752" fill="#FFFFFF" stroke-width="0.864" id="rect405" y="-10.872" gorn="0.1.0.0.3"/>
+                <circle  stroke="#9A916C" r="1.872" fill="#FFFFFF" cy="-9" stroke-width="0.864" id="connector8pin" gorn="0.1.0.0.4" cx="26.624"/>
+                <circle  stroke="#9A916C" r="1.872" fill="#FFFFFF" cy="-9" stroke-width="0.864" id="connector9pin" gorn="0.1.0.0.5" cx="19.424"/>
+                <circle  stroke="#9A916C" r="1.872" fill="#FFFFFF" cy="-9" stroke-width="0.864" id="connector10pin" gorn="0.1.0.0.6" cx="12.224"/>
+                <circle  stroke="#9A916C" r="1.872" fill="#FFFFFF" cy="-9" stroke-width="0.864" id="connector11pin" gorn="0.1.0.0.7" cx="5.024"/>
+                <circle  stroke="#9A916C" r="1.872" fill="#FFFFFF" cy="-9" stroke-width="0.864" id="connector12pin" gorn="0.1.0.0.8" cx="-2.176"/>
+                <circle  stroke="#9A916C" r="1.872" fill="#FFFFFF" cy="-9" stroke-width="0.864" id="connector13pin" gorn="0.1.0.0.9" cx="-9.376"/>
+                <circle  stroke="#9A916C" r="1.872" fill="#FFFFFF" cy="-9" stroke-width="0.864" id="connector14pin" gorn="0.1.0.0.10" cx="-16.576"/>
+                <circle  stroke="#9A916C" r="1.872" fill="#FFFFFF" cy="-9" stroke-width="0.864" id="connector15pin" gorn="0.1.0.0.11" cx="-23.776"/>
+                <g  transform="translate(631.89,181.89)">
+                    <g >
+                        <g >
+                            <g  transform="matrix(0.5, 0, 0, 0.5, 59.0551, 59.0551)">
+                                <g >
+                                    <g >
+                                        <rect  height="1.794" width="6.03" x="-1397.195" fill="#8C8C8C" y="-452.546"/>
+                                        <rect  height="16.423" width="16.421" x="-1387.19" fill="#8C8C8C" y="-468.969"/>
+                                        <rect  height="2.691" width="2.693" x="-1393.09" fill="#8C8C8C" y="-449.34"/>
+                                        <rect  height="1.798" width="6.03" x="-1397.195" fill="#8C8C8C" y="-455.627"/>
+                                        <rect  height="1.798" width="6.03" x="-1397.195" fill="#8C8C8C" y="-458.577"/>
+                                        <rect  height="1.797" width="6.03" x="-1397.195" fill="#8C8C8C" y="-461.656"/>
+                                        <rect  height="1.796" width="6.03" x="-1397.195" fill="#8C8C8C" y="-464.734"/>
+                                        <rect  height="1.796" width="6.03" x="-1397.195" fill="#8C8C8C" y="-467.686"/>
+                                        <rect  height="1.796" width="6.03" x="-1397.195" fill="#8C8C8C" y="-470.765"/>
+                                        <rect  height="6.032" width="1.796" x="-1370.897" fill="#8C8C8C" y="-448.571"/>
+                                        <rect  height="6.032" width="1.796" x="-1373.848" fill="#8C8C8C" y="-448.571"/>
+                                        <rect  height="6.032" width="1.797" x="-1376.927" fill="#8C8C8C" y="-448.571"/>
+                                        <rect  height="6.032" width="1.796" x="-1379.877" fill="#8C8C8C" y="-448.571"/>
+                                        <rect  height="6.032" width="1.796" x="-1382.956" fill="#8C8C8C" y="-448.571"/>
+                                        <rect  height="6.032" width="1.796" x="-1386.035" fill="#8C8C8C" y="-448.571"/>
+                                        <rect  height="6.032" width="1.796" x="-1388.985" fill="#8C8C8C" y="-448.571"/>
+                                        <rect  height="6.029" width="1.796" x="-1388.985" fill="#8C8C8C" y="-478.975"/>
+                                        <rect  height="6.029" width="1.796" x="-1386.035" fill="#8C8C8C" y="-478.975"/>
+                                        <rect  height="6.029" width="1.796" x="-1382.956" fill="#8C8C8C" y="-478.975"/>
+                                        <rect  height="6.029" width="1.796" x="-1379.877" fill="#8C8C8C" y="-478.975"/>
+                                        <rect  height="6.029" width="1.797" x="-1376.927" fill="#8C8C8C" y="-478.975"/>
+                                        <rect  height="6.029" width="1.796" x="-1373.848" fill="#8C8C8C" y="-478.975"/>
+                                        <rect  height="6.029" width="1.796" x="-1370.897" fill="#8C8C8C" y="-478.975"/>
+                                        <rect  height="1.796" width="6.03" x="-1366.919" fill="#8C8C8C" y="-470.765"/>
+                                        <rect  height="1.796" width="6.03" x="-1366.919" fill="#8C8C8C" y="-467.686"/>
+                                        <rect  height="1.796" width="6.03" x="-1366.919" fill="#8C8C8C" y="-464.734"/>
+                                        <rect  height="1.797" width="6.03" x="-1366.919" fill="#8C8C8C" y="-461.656"/>
+                                        <rect  height="1.798" width="6.03" x="-1366.919" fill="#8C8C8C" y="-458.577"/>
+                                        <rect  height="1.798" width="6.03" x="-1366.919" fill="#8C8C8C" y="-455.627"/>
+                                        <rect  height="1.794" width="6.03" x="-1366.919" fill="#8C8C8C" y="-452.546"/>
+                                        <rect  height="30.275" width="30.274" x="-1394.244" fill="#303030" y="-475.897"/>
+                                        <polygon  points="-1394.244,-445.621 -1363.84,-445.621 -1365.38,-447.159 -1392.706,-447.159 " fill="none"/>
+                                        <polygon  points="-1394.244,-475.897 -1363.84,-475.897 -1365.38,-474.357 -1392.706,-474.357 " fill="#1F2020"/>
+                                        <polygon  points="-1394.244,-445.621 -1394.244,-475.897 -1392.706,-474.357 -1392.706,-447.159 " fill="#010101"/>
+                                        <polygon  points="-1363.84,-445.621 -1363.84,-475.897 -1365.38,-474.357 -1365.38,-447.159 " fill="#3E3E3E"/>
+                                        <circle  r="1.54" fill="#1F2020" cy="-471.277" cx="-1389.627"/>
+                                    </g>
+                                </g>
+                            </g>
+                            <g  transform="matrix(1 0 0 1 -634.7521 -174.6451)">
+                                <g >
+                                    <text  font-size="2.3097" fill="#1E1E1E" font-family="Droid Sans">NXP</text>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+                <g  transform="matrix(1, 0, 0, 1, 48.9942, 58.6635)">
+                    <g >
+                        <g  id="_x30_603-cap_6_" gorn="0.1.0.0.13.0.0">
+                            <g  transform="matrix(1, 0, 0, 1, 10.275, 76.1789)">
+                                <g >
+                                    <g  id="_x30_402-cap_10_" gorn="0.1.0.0.13.0.0.0.0.0">
+                                        <g  transform="matrix(0, 1, -1, 0, 4.1105, -1.5595)">
+                                            <g >
+                                                <g >
+                                                    <g >
+                                                        <g >
+                                                            <g  transform="matrix(2.578893e-006 1 -1 2.578893e-006 -20.8463 208.4792)">
+                                                                <g >
+                                                                    <rect  height="2.301" width="4.501" x="-116.914" fill="#64534B" y="92.666"/>
+                                                                </g>
+                                                            </g>
+                                                            <polygon  opacity="0.2" points="-115.871,91.524 -115.871,96.025 -115.871,96.025 " fill="#010101" enable-background="new    "/>
+                                                            <polygon  opacity="0.2" points="-113.671,91.524 -113.671,96.025 -113.671,96.025 " fill="#FFFFFF" enable-background="new    "/>
+                                                        </g>
+                                                        <g >
+                                                            <path  fill="#DDDDDC" d="M-113.571,95.425L-113.571,95.425L-113.571,95.425L-113.571,95.425L-113.571,95.425c-0.2-0.101-0.7-0.101-0.9-0.101c-0.2,0-1.2,0-1.4,0.101v0.7h2.3V95.425z"/>
+                                                            <path  fill="#DDDDDC" d="M-113.671,92.224L-113.671,92.224l0.1-0.7h-2.3v0.7c0.2,0.101,1.2,0.101,1.4,0.101C-114.271,92.325-113.871,92.325-113.671,92.224z"/>
+                                                            <polygon  opacity="0.15" points="-115.871,91.524 -115.871,92.224 -115.871,92.224 " fill="#010101" enable-background="new    "/>
+                                                            <polygon  opacity="0.5" points="-113.671,91.524 -113.671,92.224 -113.671,92.224 " fill="#FFFFFF" enable-background="new    "/>
+                                                            <path  fill="#D1C690" d="M-115.871,96.025v-0.7"/>
+                                                            <polygon  opacity="0.15" points="-115.871,95.325 -115.871,96.025 -115.871,96.025 " fill="#010101" enable-background="new    "/>
+                                                            <polygon  opacity="0.5" points="-113.671,95.325 -113.671,96.025 -113.671,96.025 " fill="#FFFFFF" enable-background="new    "/>
+                                                            <line  y1="91.924" x1="-115.871" fill="none" x2="-115.871" y2="91.924"/>
+                                                        </g>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                            <rect  height="2.2" opacity="0.1" width="0.101" x="-81.725" fill="#010101" y="-41.271" enable-background="new    "/>
+                            <rect  height="2.2" opacity="0.2" width="0.101" x="-77.224" fill="#FFFFFF" y="-41.271" enable-background="new    "/>
+                        </g>
+                    </g>
+                </g>
+                <g  transform="matrix(1, 0, 0, 1, 48.9942, 58.6635)">
+                    <g >
+                        <g  id="_x30_603-cap_1_" gorn="0.1.0.0.14.0.0">
+                            <g  transform="matrix(1, 0, 0, 1, 10.275, 76.1789)">
+                                <g >
+                                    <g  id="_x30_402-cap_1_" gorn="0.1.0.0.14.0.0.0.0.0">
+                                        <g  transform="matrix(0, 1, -1, 0, 4.1105, -1.5595)">
+                                            <g >
+                                                <g >
+                                                    <g >
+                                                        <g >
+                                                            <g  transform="matrix(2.578893e-006 1 -1 2.578893e-006 -26.5157 214.1487)">
+                                                                <g >
+                                                                    <rect  height="2.301" width="4.501" x="-122.583" fill="#64534B" y="92.666"/>
+                                                                </g>
+                                                            </g>
+                                                            <polygon  opacity="0.2" points="-121.54,91.524 -121.54,96.025 -121.54,96.025 " fill="#010101" enable-background="new    "/>
+                                                            <polygon  opacity="0.2" points="-119.34,91.524 -119.34,96.025 -119.34,96.025 " fill="#FFFFFF" enable-background="new    "/>
+                                                        </g>
+                                                        <g >
+                                                            <path  fill="#DDDDDC" d="M-119.24,95.425L-119.24,95.425L-119.24,95.425L-119.24,95.425L-119.24,95.425c-0.2-0.101-0.7-0.101-0.9-0.101c-0.2,0-1.2,0-1.4,0.101v0.7h2.3V95.425z"/>
+                                                            <path  fill="#DDDDDC" d="M-119.34,92.224L-119.34,92.224l0.1-0.7h-2.3v0.7c0.2,0.101,1.2,0.101,1.4,0.101C-119.94,92.325-119.54,92.325-119.34,92.224z"/>
+                                                            <polygon  opacity="0.15" points="-121.54,91.524 -121.54,92.224 -121.54,92.224 " fill="#010101" enable-background="new    "/>
+                                                            <polygon  opacity="0.5" points="-119.34,91.524 -119.34,92.224 -119.34,92.224 " fill="#FFFFFF" enable-background="new    "/>
+                                                            <path  fill="#D1C690" d="M-121.54,96.025v-0.7"/>
+                                                            <polygon  opacity="0.15" points="-121.54,95.325 -121.54,96.025 -121.54,96.025 " fill="#010101" enable-background="new    "/>
+                                                            <polygon  opacity="0.5" points="-119.34,95.325 -119.34,96.025 -119.34,96.025 " fill="#FFFFFF" enable-background="new    "/>
+                                                            <line  y1="91.924" x1="-121.54" fill="none" x2="-121.54" y2="91.924"/>
+                                                        </g>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                            <rect  height="2.2" opacity="0.1" width="0.101" x="-81.725" fill="#010101" y="-46.941" enable-background="new    "/>
+                            <rect  height="2.2" opacity="0.2" width="0.101" x="-77.224" fill="#FFFFFF" y="-46.941" enable-background="new    "/>
+                        </g>
+                    </g>
+                </g>
+                <g  transform="matrix(1, 0, 0, 1, 48.9942, 58.6635)">
+                    <g >
+                        <g  id="_x30_603-cap_2_" gorn="0.1.0.0.15.0.0">
+                            <g  transform="matrix(1, 0, 0, 1, 10.275, 76.1789)">
+                                <g >
+                                    <g  id="_x30_402-cap_2_" gorn="0.1.0.0.15.0.0.0.0.0">
+                                        <g  transform="matrix(0, 1, -1, 0, 4.1105, -1.5595)">
+                                            <g >
+                                                <g >
+                                                    <g >
+                                                        <g >
+                                                            <g  transform="matrix(2.578893e-006 1 -1 2.578893e-006 -40.689 211.3142)">
+                                                                <g >
+                                                                    <rect  height="2.301" width="4.501" x="-128.252" fill="#64534B" y="84.162"/>
+                                                                </g>
+                                                            </g>
+                                                            <polygon  opacity="0.2" points="-127.21,83.02 -127.21,87.521 -127.21,87.521 " fill="#010101" enable-background="new    "/>
+                                                            <polygon  opacity="0.2" points="-125.01,83.02 -125.01,87.521 -125.01,87.521 " fill="#FFFFFF" enable-background="new    "/>
+                                                        </g>
+                                                        <g >
+                                                            <path  fill="#DDDDDC" d="M-124.91,86.921L-124.91,86.921L-124.91,86.921L-124.91,86.921L-124.91,86.921c-0.2-0.101-0.7-0.101-0.9-0.101c-0.2,0-1.2,0-1.4,0.101v0.7h2.3V86.921z"/>
+                                                            <path  fill="#DDDDDC" d="M-125.01,83.72L-125.01,83.72l0.1-0.7h-2.3v0.7c0.2,0.101,1.2,0.101,1.4,0.101C-125.61,83.821-125.21,83.821-125.01,83.72z"/>
+                                                            <polygon  opacity="0.15" points="-127.21,83.02 -127.21,83.72 -127.21,83.72 " fill="#010101" enable-background="new    "/>
+                                                            <polygon  opacity="0.5" points="-125.01,83.02 -125.01,83.72 -125.01,83.72 " fill="#FFFFFF" enable-background="new    "/>
+                                                            <path  fill="#D1C690" d="M-127.21,87.521v-0.7"/>
+                                                            <polygon  opacity="0.15" points="-127.21,86.821 -127.21,87.521 -127.21,87.521 " fill="#010101" enable-background="new    "/>
+                                                            <polygon  opacity="0.5" points="-125.01,86.821 -125.01,87.521 -125.01,87.521 " fill="#FFFFFF" enable-background="new    "/>
+                                                            <line  y1="83.42" x1="-127.21" fill="none" x2="-127.21" y2="83.42"/>
+                                                        </g>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                            <rect  height="2.2" opacity="0.1" width="0.101" x="-73.221" fill="#010101" y="-52.61" enable-background="new    "/>
+                            <rect  height="2.2" opacity="0.2" width="0.101" x="-68.721" fill="#FFFFFF" y="-52.61" enable-background="new    "/>
+                        </g>
+                    </g>
+                </g>
+                <g  transform="matrix(1, 0, 0, 1, 48.9942, 58.6635)">
+                    <g >
+                        <g  id="_x30_603-cap_3_" gorn="0.1.0.0.16.0.0">
+                            <g  transform="matrix(1, 0, 0, 1, 10.275, 76.1789)">
+                                <g >
+                                    <g  id="_x30_402-cap_3_" gorn="0.1.0.0.16.0.0.0.0.0">
+                                        <g  transform="matrix(0, 1, -1, 0, 4.1105, -1.5595)">
+                                            <g >
+                                                <g >
+                                                    <g >
+                                                        <g >
+                                                            <g  transform="matrix(2.578893e-006 1 -1 2.578893e-006 -29.3502 199.9754)">
+                                                                <g >
+                                                                    <rect  height="2.301" width="4.501" x="-116.914" fill="#64534B" y="84.162"/>
+                                                                </g>
+                                                            </g>
+                                                            <polygon  opacity="0.2" points="-115.871,83.02 -115.871,87.521 -115.871,87.521 " fill="#010101" enable-background="new    "/>
+                                                            <polygon  opacity="0.2" points="-113.671,83.02 -113.671,87.521 -113.671,87.521 " fill="#FFFFFF" enable-background="new    "/>
+                                                        </g>
+                                                        <g >
+                                                            <path  fill="#DDDDDC" d="M-113.571,86.921L-113.571,86.921L-113.571,86.921L-113.571,86.921L-113.571,86.921c-0.2-0.101-0.7-0.101-0.9-0.101c-0.2,0-1.2,0-1.4,0.101v0.7h2.3V86.921z"/>
+                                                            <path  fill="#DDDDDC" d="M-113.671,83.72L-113.671,83.72l0.1-0.7h-2.3v0.7c0.2,0.101,1.2,0.101,1.4,0.101C-114.271,83.821-113.871,83.821-113.671,83.72z"/>
+                                                            <polygon  opacity="0.15" points="-115.871,83.02 -115.871,83.72 -115.871,83.72 " fill="#010101" enable-background="new    "/>
+                                                            <polygon  opacity="0.5" points="-113.671,83.02 -113.671,83.72 -113.671,83.72 " fill="#FFFFFF" enable-background="new    "/>
+                                                            <path  fill="#D1C690" d="M-115.871,87.521v-0.7"/>
+                                                            <polygon  opacity="0.15" points="-115.871,86.821 -115.871,87.521 -115.871,87.521 " fill="#010101" enable-background="new    "/>
+                                                            <polygon  opacity="0.5" points="-113.671,86.821 -113.671,87.521 -113.671,87.521 " fill="#FFFFFF" enable-background="new    "/>
+                                                            <line  y1="83.42" x1="-115.871" fill="none" x2="-115.871" y2="83.42"/>
+                                                        </g>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                            <rect  height="2.2" opacity="0.1" width="0.101" x="-73.221" fill="#010101" y="-41.271" enable-background="new    "/>
+                            <rect  height="2.2" opacity="0.2" width="0.101" x="-68.721" fill="#FFFFFF" y="-41.271" enable-background="new    "/>
+                        </g>
+                    </g>
+                </g>
+                <g  transform="matrix(1, 0, 0, 1, 48.9942, 58.6635)">
+                    <g >
+                        <g  id="_x30_603-cap_4_" gorn="0.1.0.0.17.0.0">
+                            <g  transform="matrix(1, 0, 0, 1, 10.275, 76.1789)">
+                                <g >
+                                    <g  id="_x30_402-cap_4_" gorn="0.1.0.0.17.0.0.0.0.0">
+                                        <g  transform="matrix(0, 1, -1, 0, 4.1105, -1.5595)">
+                                            <g >
+                                                <g >
+                                                    <g >
+                                                        <g >
+                                                            <g  transform="matrix(2.578893e-006 1 -1 2.578893e-006 -23.6808 194.3059)">
+                                                                <g >
+                                                                    <rect  height="2.301" width="4.501" x="-111.244" fill="#64534B" y="84.162"/>
+                                                                </g>
+                                                            </g>
+                                                            <polygon  opacity="0.2" points="-110.202,83.02 -110.202,87.521 -110.202,87.521 " fill="#010101" enable-background="new    "/>
+                                                            <polygon  opacity="0.2" points="-108.001,83.02 -108.001,87.521 -108.001,87.521 " fill="#FFFFFF" enable-background="new    "/>
+                                                        </g>
+                                                        <g >
+                                                            <path  fill="#DDDDDC" d="M-107.901,86.921L-107.901,86.921L-107.901,86.921L-107.901,86.921L-107.901,86.921c-0.2-0.101-0.7-0.101-0.9-0.101c-0.2,0-1.2,0-1.4,0.101v0.7h2.3V86.921z"/>
+                                                            <path  fill="#DDDDDC" d="M-108.001,83.72L-108.001,83.72l0.1-0.7h-2.3v0.7c0.2,0.101,1.2,0.101,1.4,0.101C-108.602,83.821-108.202,83.821-108.001,83.72z"/>
+                                                            <polygon  opacity="0.15" points="-110.202,83.02 -110.202,83.72 -110.202,83.72 " fill="#010101" enable-background="new    "/>
+                                                            <polygon  opacity="0.5" points="-108.001,83.02 -108.001,83.72 -108.001,83.72 " fill="#FFFFFF" enable-background="new    "/>
+                                                            <path  fill="#D1C690" d="M-110.202,87.521v-0.7"/>
+                                                            <polygon  opacity="0.15" points="-110.202,86.821 -110.202,87.521 -110.202,87.521 " fill="#010101" enable-background="new    "/>
+                                                            <polygon  opacity="0.5" points="-108.001,86.821 -108.001,87.521 -108.001,87.521 " fill="#FFFFFF" enable-background="new    "/>
+                                                            <line  y1="83.42" x1="-110.202" fill="none" x2="-110.202" y2="83.42"/>
+                                                        </g>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                            <rect  height="2.2" opacity="0.1" width="0.101" x="-73.221" fill="#010101" y="-35.602" enable-background="new    "/>
+                            <rect  height="2.2" opacity="0.2" width="0.101" x="-68.721" fill="#FFFFFF" y="-35.602" enable-background="new    "/>
+                        </g>
+                    </g>
+                </g>
+                <g  transform="matrix(1, 0, 0, 1, 48.9942, 58.6635)">
+                    <g >
+                        <g  id="_x30_603-cap_5_" gorn="0.1.0.0.18.0.0">
+                            <g  transform="matrix(1, 0, 0, 1, 10.275, 76.1789)">
+                                <g >
+                                    <g  id="_x30_402-cap_5_" gorn="0.1.0.0.18.0.0.0.0.0">
+                                        <g  transform="matrix(0, 1, -1, 0, 4.1105, -1.5595)">
+                                            <g >
+                                                <g >
+                                                    <g >
+                                                        <g >
+                                                            <g  transform="matrix(2.578893e-006 1 -1 2.578893e-006 -83.209 168.7943)">
+                                                                <g >
+                                                                    <rect  height="2.301" width="4.501" x="-128.252" fill="#64534B" y="41.642"/>
+                                                                </g>
+                                                            </g>
+                                                            <polygon  opacity="0.2" points="-127.21,40.5 -127.21,45.001 -127.21,45.001 " fill="#010101" enable-background="new    "/>
+                                                            <polygon  opacity="0.2" points="-125.01,40.5 -125.01,45.001 -125.01,45.001 " fill="#FFFFFF" enable-background="new    "/>
+                                                        </g>
+                                                        <g >
+                                                            <path  fill="#DDDDDC" d="M-124.91,44.401L-124.91,44.401L-124.91,44.401L-124.91,44.401L-124.91,44.401c-0.2-0.101-0.7-0.101-0.9-0.101c-0.2,0-1.2,0-1.4,0.101v0.7h2.3V44.401z"/>
+                                                            <path  fill="#DDDDDC" d="M-125.01,41.2L-125.01,41.2l0.1-0.7h-2.3v0.7c0.2,0.101,1.2,0.101,1.4,0.101C-125.61,41.301-125.21,41.301-125.01,41.2z"/>
+                                                            <polygon  opacity="0.15" points="-127.21,40.5 -127.21,41.2 -127.21,41.2 " fill="#010101" enable-background="new    "/>
+                                                            <polygon  opacity="0.5" points="-125.01,40.5 -125.01,41.2 -125.01,41.2 " fill="#FFFFFF" enable-background="new    "/>
+                                                            <path  fill="#D1C690" d="M-127.21,45.001v-0.7"/>
+                                                            <polygon  opacity="0.15" points="-127.21,44.301 -127.21,45.001 -127.21,45.001 " fill="#010101" enable-background="new    "/>
+                                                            <polygon  opacity="0.5" points="-125.01,44.301 -125.01,45.001 -125.01,45.001 " fill="#FFFFFF" enable-background="new    "/>
+                                                            <line  y1="40.9" x1="-127.21" fill="none" x2="-127.21" y2="40.9"/>
+                                                        </g>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                            <rect  height="2.2" opacity="0.1" width="0.101" x="-30.701" fill="#010101" y="-52.61" enable-background="new    "/>
+                            <rect  height="2.2" opacity="0.2" width="0.101" x="-26.201" fill="#FFFFFF" y="-52.61" enable-background="new    "/>
+                        </g>
+                    </g>
+                </g>
+                <g  transform="matrix(1, 0, 0, 1, 48.9942, 58.6635)">
+                    <g >
+                        <g  id="_x30_603-cap_7_" gorn="0.1.0.0.19.0.0">
+                            <g  transform="matrix(1, 0, 0, 1, 10.275, 76.1789)">
+                                <g >
+                                    <g  id="_x30_402-cap_6_" gorn="0.1.0.0.19.0.0.0.0.0">
+                                        <g  transform="matrix(0, 1, -1, 0, 4.1105, -1.5595)">
+                                            <g >
+                                                <g >
+                                                    <g >
+                                                        <g >
+                                                            <g  transform="matrix(2.578893e-006 1 -1 2.578893e-006 -66.2008 151.786)">
+                                                                <g >
+                                                                    <rect  height="2.301" width="4.501" x="-111.244" fill="#64534B" y="41.642"/>
+                                                                </g>
+                                                            </g>
+                                                            <polygon  opacity="0.2" points="-110.202,40.5 -110.202,45.001 -110.202,45.001 " fill="#010101" enable-background="new    "/>
+                                                            <polygon  opacity="0.2" points="-108.001,40.5 -108.001,45.001 -108.001,45.001 " fill="#FFFFFF" enable-background="new    "/>
+                                                        </g>
+                                                        <g >
+                                                            <path  fill="#DDDDDC" d="M-107.901,44.401L-107.901,44.401L-107.901,44.401L-107.901,44.401L-107.901,44.401c-0.2-0.101-0.7-0.101-0.9-0.101c-0.2,0-1.2,0-1.4,0.101v0.7h2.3V44.401z"/>
+                                                            <path  fill="#DDDDDC" d="M-108.001,41.2L-108.001,41.2l0.1-0.7h-2.3v0.7c0.2,0.101,1.2,0.101,1.4,0.101C-108.602,41.301-108.202,41.301-108.001,41.2z"/>
+                                                            <polygon  opacity="0.15" points="-110.202,40.5 -110.202,41.2 -110.202,41.2 " fill="#010101" enable-background="new    "/>
+                                                            <polygon  opacity="0.5" points="-108.001,40.5 -108.001,41.2 -108.001,41.2 " fill="#FFFFFF" enable-background="new    "/>
+                                                            <path  fill="#D1C690" d="M-110.202,45.001v-0.7"/>
+                                                            <polygon  opacity="0.15" points="-110.202,44.301 -110.202,45.001 -110.202,45.001 " fill="#010101" enable-background="new    "/>
+                                                            <polygon  opacity="0.5" points="-108.001,44.301 -108.001,45.001 -108.001,45.001 " fill="#FFFFFF" enable-background="new    "/>
+                                                            <line  y1="40.9" x1="-110.202" fill="none" x2="-110.202" y2="40.9"/>
+                                                        </g>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                            <rect  height="2.2" opacity="0.1" width="0.101" x="-30.701" fill="#010101" y="-35.602" enable-background="new    "/>
+                            <rect  height="2.2" opacity="0.2" width="0.101" x="-26.201" fill="#FFFFFF" y="-35.602" enable-background="new    "/>
+                        </g>
+                    </g>
+                </g>
+                <g  transform="matrix(1, 0, 0, 1, 48.9942, 58.6635)">
+                    <g >
+                        <g  id="_x30_603-cap_8_" gorn="0.1.0.0.20.0.0">
+                            <g  transform="matrix(1, 0, 0, 1, 10.275, 76.1789)">
+                                <g >
+                                    <g  id="_x30_402-cap_7_" gorn="0.1.0.0.20.0.0.0.0.0">
+                                        <g  transform="matrix(0, 1, -1, 0, 4.1105, -1.5595)">
+                                            <g >
+                                                <g >
+                                                    <g >
+                                                        <g >
+                                                            <g  transform="matrix(2.578893e-006 1 -1 2.578893e-006 -93.7261 162.2284)">
+                                                                <g >
+                                                                    <rect  height="4.501" width="2.301" x="-129.128" fill="#64534B" y="32.001"/>
+                                                                </g>
+                                                            </g>
+                                                            <polygon  opacity="0.2" points="-130.27,35.459 -125.769,35.459 -125.769,35.459 " fill="#010101" enable-background="new    "/>
+                                                            <polygon  opacity="0.2" points="-130.27,33.259 -125.769,33.259 -125.769,33.259 " fill="#FFFFFF" enable-background="new    "/>
+                                                        </g>
+                                                        <g >
+                                                            <path  fill="#DDDDDC" d="M-126.369,33.159L-126.369,33.159L-126.369,33.159L-126.369,33.159L-126.369,33.159c-0.101,0.2-0.101,0.7-0.101,0.9c0,0.2,0,1.2,0.101,1.4h0.7v-2.3H-126.369z"/>
+                                                            <path  fill="#DDDDDC" d="M-129.57,33.259L-129.57,33.259l-0.7-0.1v2.3h0.7c0.101-0.2,0.101-1.2,0.101-1.4C-129.469,33.859-129.469,33.459-129.57,33.259z"/>
+                                                            <polygon  opacity="0.15" points="-130.27,35.459 -129.57,35.459 -129.57,35.459 " fill="#010101" enable-background="new    "/>
+                                                            <polygon  opacity="0.5" points="-130.27,33.259 -129.57,33.259 -129.57,33.259 " fill="#FFFFFF" enable-background="new    "/>
+                                                            <path  fill="#D1C690" d="M-125.769,35.459h-0.7"/>
+                                                            <polygon  opacity="0.15" points="-126.469,35.459 -125.769,35.459 -125.769,35.459 " fill="#010101" enable-background="new    "/>
+                                                            <polygon  opacity="0.5" points="-126.469,33.259 -125.769,33.259 -125.769,33.259 " fill="#FFFFFF" enable-background="new    "/>
+                                                            <line  y1="35.459" x1="-129.87" fill="none" x2="-129.87" y2="35.459"/>
+                                                        </g>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                            <rect  height="0.101" opacity="0.1" width="2.2" x="-21.093" fill="#010101" y="-51.164" enable-background="new    "/>
+                            <rect  height="0.101" opacity="0.2" width="2.2" x="-21.093" fill="#FFFFFF" y="-55.665" enable-background="new    "/>
+                        </g>
+                    </g>
+                </g>
+                <g  transform="matrix(1, 0, 0, 1, 48.9942, 58.6635)">
+                    <g >
+                        <g  id="_x30_603-cap_9_" gorn="0.1.0.0.21.0.0">
+                            <g  transform="matrix(1, 0, 0, 1, 10.275, 76.1789)">
+                                <g >
+                                    <g  id="_x30_402-cap_8_" gorn="0.1.0.0.21.0.0.0.0.0">
+                                        <g  transform="matrix(0, 1, -1, 0, 4.1105, -1.5595)">
+                                            <g >
+                                                <g >
+                                                    <g >
+                                                        <g >
+                                                            <g  transform="matrix(2.578893e-006 1 -1 2.578893e-006 -83.7423 152.2445)">
+                                                                <g >
+                                                                    <rect  height="4.501" width="2.301" x="-119.144" fill="#64534B" y="32.001"/>
+                                                                </g>
+                                                            </g>
+                                                            <polygon  opacity="0.2" points="-120.286,35.459 -115.785,35.459 -115.785,35.459 " fill="#010101" enable-background="new    "/>
+                                                            <polygon  opacity="0.2" points="-120.286,33.259 -115.785,33.259 -115.785,33.259 " fill="#FFFFFF" enable-background="new    "/>
+                                                        </g>
+                                                        <g >
+                                                            <path  fill="#DDDDDC" d="M-116.385,33.159L-116.385,33.159L-116.385,33.159L-116.385,33.159L-116.385,33.159c-0.101,0.2-0.101,0.7-0.101,0.9c0,0.2,0,1.2,0.101,1.4h0.7v-2.3H-116.385z"/>
+                                                            <path  fill="#DDDDDC" d="M-119.586,33.259L-119.586,33.259l-0.7-0.1v2.3h0.7c0.101-0.2,0.101-1.2,0.101-1.4C-119.485,33.859-119.485,33.459-119.586,33.259z"/>
+                                                            <polygon  opacity="0.15" points="-120.286,35.459 -119.586,35.459 -119.586,35.459 " fill="#010101" enable-background="new    "/>
+                                                            <polygon  opacity="0.5" points="-120.286,33.259 -119.586,33.259 -119.586,33.259 " fill="#FFFFFF" enable-background="new    "/>
+                                                            <path  fill="#D1C690" d="M-115.785,35.459h-0.7"/>
+                                                            <polygon  opacity="0.15" points="-116.485,35.459 -115.785,35.459 -115.785,35.459 " fill="#010101" enable-background="new    "/>
+                                                            <polygon  opacity="0.5" points="-116.485,33.259 -115.785,33.259 -115.785,33.259 " fill="#FFFFFF" enable-background="new    "/>
+                                                            <line  y1="35.459" x1="-119.886" fill="none" x2="-119.886" y2="35.459"/>
+                                                        </g>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                            <rect  height="0.101" opacity="0.1" width="2.2" x="-21.093" fill="#010101" y="-41.18" enable-background="new    "/>
+                            <rect  height="0.101" opacity="0.2" width="2.2" x="-21.093" fill="#FFFFFF" y="-45.681" enable-background="new    "/>
+                        </g>
+                    </g>
+                </g>
+                <g  transform="matrix(1, 0, 0, 1, 48.9942, 58.6635)">
+                    <g >
+                        <g  id="_x30_603-cap_10_" gorn="0.1.0.0.22.0.0">
+                            <g  transform="matrix(1, 0, 0, 1, 10.275, 76.1789)">
+                                <g >
+                                    <g  id="_x30_402-cap_9_" gorn="0.1.0.0.22.0.0.0.0.0">
+                                        <g  transform="matrix(0, 1, -1, 0, 4.1105, -1.5595)">
+                                            <g >
+                                                <g >
+                                                    <g >
+                                                        <g >
+                                                            <g  transform="matrix(2.578893e-006 1 -1 2.578893e-006 -23.5734 171.8157)">
+                                                                <g >
+                                                                    <rect  height="4.501" width="2.301" x="-98.845" fill="#64534B" y="71.871"/>
+                                                                </g>
+                                                            </g>
+                                                            <polygon  opacity="0.2" points="-99.987,75.329 -95.486,75.329 -95.486,75.329 " fill="#010101" enable-background="new    "/>
+                                                            <polygon  opacity="0.2" points="-99.987,73.129 -95.486,73.129 -95.486,73.129 " fill="#FFFFFF" enable-background="new    "/>
+                                                        </g>
+                                                        <g >
+                                                            <path  fill="#DDDDDC" d="M-96.086,73.029L-96.086,73.029L-96.086,73.029L-96.086,73.029L-96.086,73.029c-0.101,0.2-0.101,0.7-0.101,0.9c0,0.2,0,1.2,0.101,1.4h0.7v-2.3H-96.086z"/>
+                                                            <path  fill="#DDDDDC" d="M-99.287,73.129L-99.287,73.129l-0.7-0.1v2.3h0.7c0.101-0.2,0.101-1.2,0.101-1.4C-99.186,73.729-99.186,73.329-99.287,73.129z"/>
+                                                            <polygon  opacity="0.15" points="-99.987,75.329 -99.287,75.329 -99.287,75.329 " fill="#010101" enable-background="new    "/>
+                                                            <polygon  opacity="0.5" points="-99.987,73.129 -99.287,73.129 -99.287,73.129 " fill="#FFFFFF" enable-background="new    "/>
+                                                            <path  fill="#D1C690" d="M-95.486,75.329h-0.7"/>
+                                                            <polygon  opacity="0.15" points="-96.186,75.329 -95.486,75.329 -95.486,75.329 " fill="#010101" enable-background="new    "/>
+                                                            <polygon  opacity="0.5" points="-96.186,73.129 -95.486,73.129 -95.486,73.129 " fill="#FFFFFF" enable-background="new    "/>
+                                                            <line  y1="75.329" x1="-99.587" fill="none" x2="-99.587" y2="75.329"/>
+                                                        </g>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                            <rect  height="0.101" opacity="0.1" width="2.2" x="-60.963" fill="#010101" y="-20.882" enable-background="new    "/>
+                            <rect  height="0.101" opacity="0.2" width="2.2" x="-60.963" fill="#FFFFFF" y="-25.382" enable-background="new    "/>
+                        </g>
+                    </g>
+                </g>
+                <g  transform="matrix(1, 0, 0, 1, 48.9942, 58.6635)">
+                    <g >
+                        <g  id="_x30_603-cap_11_" gorn="0.1.0.0.23.0.0">
+                            <g  transform="matrix(1, 0, 0, 1, 10.275, 76.1789)">
+                                <g >
+                                    <g  id="_x30_402-cap_11_" gorn="0.1.0.0.23.0.0.0.0.0">
+                                        <g  transform="matrix(0, 1, -1, 0, 4.1105, -1.5595)">
+                                            <g >
+                                                <g >
+                                                    <g >
+                                                        <g >
+                                                            <g  transform="matrix(2.578893e-006 1 -1 2.578893e-006 -28.4293 166.9598)">
+                                                                <g >
+                                                                    <rect  height="4.501" width="2.301" x="-98.845" fill="#64534B" y="67.015"/>
+                                                                </g>
+                                                            </g>
+                                                            <polygon  opacity="0.2" points="-99.987,70.473 -95.486,70.473 -95.486,70.473 " fill="#010101" enable-background="new    "/>
+                                                            <polygon  opacity="0.2" points="-99.987,68.273 -95.486,68.273 -95.486,68.273 " fill="#FFFFFF" enable-background="new    "/>
+                                                        </g>
+                                                        <g >
+                                                            <path  fill="#DDDDDC" d="M-96.086,68.173L-96.086,68.173L-96.086,68.173L-96.086,68.173L-96.086,68.173c-0.101,0.2-0.101,0.7-0.101,0.9c0,0.2,0,1.2,0.101,1.4h0.7v-2.3H-96.086z"/>
+                                                            <path  fill="#DDDDDC" d="M-99.287,68.273L-99.287,68.273l-0.7-0.1v2.3h0.7c0.101-0.2,0.101-1.2,0.101-1.4C-99.186,68.873-99.186,68.473-99.287,68.273z"/>
+                                                            <polygon  opacity="0.15" points="-99.987,70.473 -99.287,70.473 -99.287,70.473 " fill="#010101" enable-background="new    "/>
+                                                            <polygon  opacity="0.5" points="-99.987,68.273 -99.287,68.273 -99.287,68.273 " fill="#FFFFFF" enable-background="new    "/>
+                                                            <path  fill="#D1C690" d="M-95.486,70.473h-0.7"/>
+                                                            <polygon  opacity="0.15" points="-96.186,70.473 -95.486,70.473 -95.486,70.473 " fill="#010101" enable-background="new    "/>
+                                                            <polygon  opacity="0.5" points="-96.186,68.273 -95.486,68.273 -95.486,68.273 " fill="#FFFFFF" enable-background="new    "/>
+                                                            <line  y1="70.473" x1="-99.587" fill="none" x2="-99.587" y2="70.473"/>
+                                                        </g>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                            <rect  height="0.101" opacity="0.1" width="2.2" x="-56.107" fill="#010101" y="-20.882" enable-background="new    "/>
+                            <rect  height="0.101" opacity="0.2" width="2.2" x="-56.107" fill="#FFFFFF" y="-25.382" enable-background="new    "/>
+                        </g>
+                    </g>
+                </g>
+                <g  transform="matrix(1, 0, 0, 1, 48.9942, 58.6635)">
+                    <g >
+                        <g  id="_x30_603-cap_12_" gorn="0.1.0.0.24.0.0">
+                            <g  transform="matrix(1, 0, 0, 1, 10.275, 76.1789)">
+                                <g >
+                                    <g  id="_x30_402-cap_12_" gorn="0.1.0.0.24.0.0.0.0.0">
+                                        <g  transform="matrix(0, 1, -1, 0, 4.1105, -1.5595)">
+                                            <g >
+                                                <g >
+                                                    <g >
+                                                        <g >
+                                                            <g  transform="matrix(2.578893e-006 1 -1 2.578893e-006 -33.2198 162.1693)">
+                                                                <g >
+                                                                    <rect  height="4.501" width="2.301" x="-98.845" fill="#64534B" y="62.224"/>
+                                                                </g>
+                                                            </g>
+                                                            <polygon  opacity="0.2" points="-99.987,65.683 -95.486,65.683 -95.486,65.683 " fill="#010101" enable-background="new    "/>
+                                                            <polygon  opacity="0.2" points="-99.987,63.482 -95.486,63.482 -95.486,63.482 " fill="#FFFFFF" enable-background="new    "/>
+                                                        </g>
+                                                        <g >
+                                                            <path  fill="#DDDDDC" d="M-96.086,63.382L-96.086,63.382L-96.086,63.382L-96.086,63.382L-96.086,63.382c-0.101,0.2-0.101,0.7-0.101,0.9c0,0.2,0,1.2,0.101,1.4h0.7v-2.3H-96.086z"/>
+                                                            <path  fill="#DDDDDC" d="M-99.287,63.482L-99.287,63.482l-0.7-0.1v2.3h0.7c0.101-0.2,0.101-1.2,0.101-1.4C-99.186,64.083-99.186,63.683-99.287,63.482z"/>
+                                                            <polygon  opacity="0.15" points="-99.987,65.683 -99.287,65.683 -99.287,65.683 " fill="#010101" enable-background="new    "/>
+                                                            <polygon  opacity="0.5" points="-99.987,63.482 -99.287,63.482 -99.287,63.482 " fill="#FFFFFF" enable-background="new    "/>
+                                                            <path  fill="#D1C690" d="M-95.486,65.683h-0.7"/>
+                                                            <polygon  opacity="0.15" points="-96.186,65.683 -95.486,65.683 -95.486,65.683 " fill="#010101" enable-background="new    "/>
+                                                            <polygon  opacity="0.5" points="-96.186,63.482 -95.486,63.482 -95.486,63.482 " fill="#FFFFFF" enable-background="new    "/>
+                                                            <line  y1="65.683" x1="-99.587" fill="none" x2="-99.587" y2="65.683"/>
+                                                        </g>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                            <rect  height="0.101" opacity="0.1" width="2.2" x="-51.317" fill="#010101" y="-20.882" enable-background="new    "/>
+                            <rect  height="0.101" opacity="0.2" width="2.2" x="-51.317" fill="#FFFFFF" y="-25.382" enable-background="new    "/>
+                        </g>
+                    </g>
+                </g>
+                <g  transform="matrix(1, 0, 0, 1, 48.9942, 58.6635)">
+                    <g >
+                        <g  id="_x30_603-cap_13_" gorn="0.1.0.0.25.0.0">
+                            <g  transform="matrix(1, 0, 0, 1, 10.275, 76.1789)">
+                                <g >
+                                    <g  id="_x30_402-cap_13_" gorn="0.1.0.0.25.0.0.0.0.0">
+                                        <g  transform="matrix(0, 1, -1, 0, 4.1105, -1.5595)">
+                                            <g >
+                                                <g >
+                                                    <g >
+                                                        <g >
+                                                            <g  transform="matrix(2.578893e-006 1 -1 2.578893e-006 -38.0919 157.2972)">
+                                                                <g >
+                                                                    <rect  height="4.501" width="2.301" x="-98.845" fill="#64534B" y="57.352"/>
+                                                                </g>
+                                                            </g>
+                                                            <polygon  opacity="0.2" points="-99.987,60.811 -95.486,60.811 -95.486,60.811 " fill="#010101" enable-background="new    "/>
+                                                            <polygon  opacity="0.2" points="-99.987,58.61 -95.486,58.61 -95.486,58.61 " fill="#FFFFFF" enable-background="new    "/>
+                                                        </g>
+                                                        <g >
+                                                            <path  fill="#DDDDDC" d="M-96.086,58.51L-96.086,58.51L-96.086,58.51L-96.086,58.51L-96.086,58.51c-0.101,0.2-0.101,0.7-0.101,0.9c0,0.2,0,1.2,0.101,1.4h0.7v-2.3H-96.086z"/>
+                                                            <path  fill="#DDDDDC" d="M-99.287,58.61L-99.287,58.61l-0.7-0.1v2.3h0.7c0.101-0.2,0.101-1.2,0.101-1.4C-99.186,59.211-99.186,58.811-99.287,58.61z"/>
+                                                            <polygon  opacity="0.15" points="-99.987,60.811 -99.287,60.811 -99.287,60.811 " fill="#010101" enable-background="new    "/>
+                                                            <polygon  opacity="0.5" points="-99.987,58.61 -99.287,58.61 -99.287,58.61 " fill="#FFFFFF" enable-background="new    "/>
+                                                            <path  fill="#D1C690" d="M-95.486,60.811h-0.7"/>
+                                                            <polygon  opacity="0.15" points="-96.186,60.811 -95.486,60.811 -95.486,60.811 " fill="#010101" enable-background="new    "/>
+                                                            <polygon  opacity="0.5" points="-96.186,58.61 -95.486,58.61 -95.486,58.61 " fill="#FFFFFF" enable-background="new    "/>
+                                                            <line  y1="60.811" x1="-99.587" fill="none" x2="-99.587" y2="60.811"/>
+                                                        </g>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                            <rect  height="0.101" opacity="0.1" width="2.2" x="-46.445" fill="#010101" y="-20.882" enable-background="new    "/>
+                            <rect  height="0.101" opacity="0.2" width="2.2" x="-46.445" fill="#FFFFFF" y="-25.382" enable-background="new    "/>
+                        </g>
+                    </g>
+                </g>
+                <g  transform="matrix(1, 0, 0, 1, 48.9942, 58.6635)">
+                    <g >
+                        <g  id="_x30_603-cap_14_" gorn="0.1.0.0.26.0.0">
+                            <g  transform="matrix(1, 0, 0, 1, 10.275, 76.1789)">
+                                <g >
+                                    <g  id="_x30_402-cap_14_" gorn="0.1.0.0.26.0.0.0.0.0">
+                                        <g  transform="matrix(0, 1, -1, 0, 4.1105, -1.5595)">
+                                            <g >
+                                                <g >
+                                                    <g >
+                                                        <g >
+                                                            <g  transform="matrix(2.578893e-006 1 -1 2.578893e-006 -43.0997 152.2894)">
+                                                                <g >
+                                                                    <rect  height="4.501" width="2.301" x="-98.845" fill="#64534B" y="52.344"/>
+                                                                </g>
+                                                            </g>
+                                                            <polygon  opacity="0.2" points="-99.987,55.803 -95.486,55.803 -95.486,55.803 " fill="#010101" enable-background="new    "/>
+                                                            <polygon  opacity="0.2" points="-99.987,53.603 -95.486,53.603 -95.486,53.603 " fill="#FFFFFF" enable-background="new    "/>
+                                                        </g>
+                                                        <g >
+                                                            <path  fill="#DDDDDC" d="M-96.086,53.503L-96.086,53.503L-96.086,53.503L-96.086,53.503L-96.086,53.503c-0.101,0.2-0.101,0.7-0.101,0.9c0,0.2,0,1.2,0.101,1.4h0.7v-2.3H-96.086z"/>
+                                                            <path  fill="#DDDDDC" d="M-99.287,53.603L-99.287,53.603l-0.7-0.1v2.3h0.7c0.101-0.2,0.101-1.2,0.101-1.4C-99.186,54.203-99.186,53.803-99.287,53.603z"/>
+                                                            <polygon  opacity="0.15" points="-99.987,55.803 -99.287,55.803 -99.287,55.803 " fill="#010101" enable-background="new    "/>
+                                                            <polygon  opacity="0.5" points="-99.987,53.603 -99.287,53.603 -99.287,53.603 " fill="#FFFFFF" enable-background="new    "/>
+                                                            <path  fill="#D1C690" d="M-95.486,55.803h-0.7"/>
+                                                            <polygon  opacity="0.15" points="-96.186,55.803 -95.486,55.803 -95.486,55.803 " fill="#010101" enable-background="new    "/>
+                                                            <polygon  opacity="0.5" points="-96.186,53.603 -95.486,53.603 -95.486,53.603 " fill="#FFFFFF" enable-background="new    "/>
+                                                            <line  y1="55.803" x1="-99.587" fill="none" x2="-99.587" y2="55.803"/>
+                                                        </g>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                            <rect  height="0.101" opacity="0.1" width="2.2" x="-41.437" fill="#010101" y="-20.882" enable-background="new    "/>
+                            <rect  height="0.101" opacity="0.2" width="2.2" x="-41.437" fill="#FFFFFF" y="-25.382" enable-background="new    "/>
+                        </g>
+                    </g>
+                </g>
+                <g  transform="matrix(1, 0, 0, 1, 48.9942, 58.6635)">
+                    <g >
+                        <g  id="_x30_603-cap_15_" gorn="0.1.0.0.27.0.0">
+                            <g  transform="matrix(1, 0, 0, 1, 10.275, 76.1789)">
+                                <g >
+                                    <g  id="_x30_402-cap_15_" gorn="0.1.0.0.27.0.0.0.0.0">
+                                        <g  transform="matrix(0, 1, -1, 0, 4.1105, -1.5595)">
+                                            <g >
+                                                <g >
+                                                    <g >
+                                                        <g >
+                                                            <g  transform="matrix(2.578893e-006 1 -1 2.578893e-006 -47.6827 147.7064)">
+                                                                <g >
+                                                                    <rect  height="4.501" width="2.301" x="-98.845" fill="#64534B" y="47.761"/>
+                                                                </g>
+                                                            </g>
+                                                            <polygon  opacity="0.2" points="-99.987,51.22 -95.486,51.22 -95.486,51.22 " fill="#010101" enable-background="new    "/>
+                                                            <polygon  opacity="0.2" points="-99.987,49.02 -95.486,49.02 -95.486,49.02 " fill="#FFFFFF" enable-background="new    "/>
+                                                        </g>
+                                                        <g >
+                                                            <path  fill="#DDDDDC" d="M-96.086,48.919L-96.086,48.919L-96.086,48.919L-96.086,48.919L-96.086,48.919c-0.101,0.2-0.101,0.7-0.101,0.9c0,0.2,0,1.2,0.101,1.4h0.7v-2.3H-96.086z"/>
+                                                            <path  fill="#DDDDDC" d="M-99.287,49.02L-99.287,49.02l-0.7-0.1v2.3h0.7c0.101-0.2,0.101-1.2,0.101-1.4C-99.186,49.62-99.186,49.22-99.287,49.02z"/>
+                                                            <polygon  opacity="0.15" points="-99.987,51.22 -99.287,51.22 -99.287,51.22 " fill="#010101" enable-background="new    "/>
+                                                            <polygon  opacity="0.5" points="-99.987,49.02 -99.287,49.02 -99.287,49.02 " fill="#FFFFFF" enable-background="new    "/>
+                                                            <path  fill="#D1C690" d="M-95.486,51.22h-0.7"/>
+                                                            <polygon  opacity="0.15" points="-96.186,51.22 -95.486,51.22 -95.486,51.22 " fill="#010101" enable-background="new    "/>
+                                                            <polygon  opacity="0.5" points="-96.186,49.02 -95.486,49.02 -95.486,49.02 " fill="#FFFFFF" enable-background="new    "/>
+                                                            <line  y1="51.22" x1="-99.587" fill="none" x2="-99.587" y2="51.22"/>
+                                                        </g>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                            <rect  height="0.101" opacity="0.1" width="2.2" x="-36.854" fill="#010101" y="-20.882" enable-background="new    "/>
+                            <rect  height="0.101" opacity="0.2" width="2.2" x="-36.854" fill="#FFFFFF" y="-25.382" enable-background="new    "/>
+                        </g>
+                    </g>
+                </g>
+                <g  transform="matrix(1, 0, 0, 1, 9.91858, 78.7536)">
+                    <g >
+                        <g  id="led-0805_3_" gorn="0.1.0.0.28.0.0">
+                            <g >
+                                <g >
+                                    <rect  height="2" width="5.602" x="-43.107" fill="#DDDDDC" y="-77.43"/>
+                                    <line  y1="-75.43" x1="-43.107" fill="none" x2="-37.506" y2="-75.43"/>
+                                </g>
+                                <g >
+                                    <rect  height="3.501" width="3.9" x="-42.307" fill="#F3F3F3" y="-78.931"/>
+                                    <path  fill="#24B574" d="M-39.007-75.43c0,0-0.1-0.7,0-0.6c0.2,0.1,0.501-0.2,0.601,0v0.6H-39.007z" fill-opacity="0.7"/>
+                                    <g >
+                                        <g >
+                                            <rect  height="1.4" width="0.7" x="-40.707" fill="#FFFFFF" y="-77.93"/>
+                                            <rect  height="0.1" width="0.7" x="-40.707" fill="#B4B4B4" y="-76.63"/>
+                                        </g>
+                                        <g >
+                                            <polygon  points="-39.206,-76.03 -38.307,-75.93 -38.307,-76.93 -39.206,-76.83 " fill="#D1C690"/>
+                                            <g >
+                                                <path  fill="#D1C690" d="M-38.906-76.33L-38.906-76.33c-0.2,0-0.4-0.1-0.5-0.2c-0.2-0.1-0.301-0.2-0.601-0.1c0,0-0.1,0-0.1-0.1v-0.1c0.3-0.1,0.4,0,0.6,0.1c0.101,0.1,0.301,0.2,0.5,0.2C-38.906-76.53-38.906-76.43-38.906-76.33L-38.906-76.33z"/>
+                                            </g>
+                                            <polygon  points="-41.507,-78.23 -42.307,-78.331 -42.307,-77.33 -41.507,-77.43 " fill="#D1C690"/>
+                                            <g >
+                                                <path  fill="#D1C690" d="M-40.406-77.13L-40.406-77.13c-0.101-0.5-0.9-0.7-1.301-0.7c0,0,0,0,0-0.1v-0.1l0,0c0.1,0,1.301,0.1,1.4,0.7C-40.307-77.13-40.307-77.13-40.406-77.13C-40.307-77.13-40.406-77.13-40.406-77.13z"/>
+                                            </g>
+                                            <path  fill="#D1C690" d="M-39.906-77.03c0,0-0.301,0-0.301,0.4c0.101,0,0.301,0,0.301,0V-77.03z"/>
+                                            <path  fill="#D1C690" d="M-40.307-77.53c0,0,0.1,0.4,0,0.5s-0.2,0.1-0.2,0S-40.307-77.53-40.307-77.53z"/>
+                                            <path  fill="#9D956D" d="M-40.007-76.53c0.2-0.1,0.4,0,0.5,0.1c0.101,0.1,0.301,0.2,0.5,0.2v-0.1c-0.199,0-0.399-0.1-0.5-0.2C-39.606-76.73-39.807-76.73-40.007-76.53L-40.007-76.53z"/>
+                                            <polygon  points="-41.507,-77.43 -42.307,-77.23 -42.307,-77.33 " fill="#9D956D"/>
+                                            <path  fill="#9D956D" d="M-40.406-77.03c-0.101-0.4-0.801-0.6-1.301-0.6v-0.1C-41.207-77.73-40.507-77.53-40.406-77.03L-40.406-77.03z"/>
+                                            <path  fill="#9D956D" d="M-40.307-76.53c0.1,0,0.3,0,0.3,0v-0.1C-39.906-76.63-40.207-76.63-40.307-76.53L-40.307-76.53z"/>
+                                            <path  fill="#9D956D" d="M-40.507-76.93c0.101,0.1,0.101,0.1,0.2,0v-0.1C-40.406-76.93-40.406-76.93-40.507-76.93L-40.507-76.93z"/>
+                                        </g>
+                                    </g>
+                                    <rect  height="0.1" opacity="0.5" width="3" x="-41.807" fill="#FFFFFF" y="-78.931" enable-background="new    "/>
+                                    <g  opacity="0.25">
+                                        <path  fill="#FFFFFF" d="M-40.807-77.93c0-0.1,0-0.1,0.1-0.1h0.301l0.1-0.1l0,0c0,0.1,0,0.1-0.1,0.1h-0.301C-40.807-78.03-40.807-78.03-40.807-77.93L-40.807-77.93L-40.807-77.93z"/>
+                                        <path  fill="#FFFFFF" d="M-39.106-78.331c0-0.1,0-0.1-0.1-0.1h-1.2l-0.101,0.1l0,0c0-0.1,0-0.1,0.101-0.1h1.2C-39.106-78.531-39.106-78.431-39.106-78.331L-39.106-78.331z"/>
+                                        <path  fill="#FFFFFF" d="M-38.807-76.33h-0.2l-0.1-0.1l0,0c0,0.1,0,0.1,0.1,0.1H-38.807L-38.807-76.33L-38.807-76.33z"/>
+                                        <path  fill="#FFFFFF" d="M-41.807-78.531h0.899l0.101,0.1l0,0c0-0.1,0-0.1-0.101-0.1H-41.807L-41.807-78.531z"/>
+                                    </g>
+                                    <g >
+                                        <path  opacity="0.5" fill="#F3F3F3" d="M-42.307-78.931v3.501h3.9v-3.501H-42.307z" enable-background="new    "/>
+                                        <path  opacity="0.55" fill="#FFFFFF" d="M-42.207-78.03v-0.4c0-0.2,0-0.4,0.1-0.4c0.5,0,3.401,0,3.602,0c0.1,0,0.199,0.1,0,0.1c-0.101,0-2.701,0-3.102,0c-0.399,0-0.5,0.1-0.5,0.3L-42.207-78.03C-42.207-77.831-42.207-77.831-42.207-78.03z" enable-background="new    "/>
+                                        <path  opacity="0.03" fill="#010101" d="M-38.406-75.73c0,0.1,0,0.2-0.1,0.2c-0.501,0-3.401,0-3.602,0c-0.1,0-0.199-0.1,0-0.1c0.101,0,2.701,0,3.101,0C-38.406-75.63-38.406-75.73-38.406-75.73z" enable-background="new    "/>
+                                    </g>
+                                </g>
+                                <g >
+                                    <path  fill="#D1C690" d="M-43.107-75.43h0.7v-0.7c0-0.2,0.101-0.3,0.2-0.4v-2.4h-0.9V-75.43L-43.107-75.43"/>
+                                    <rect  height="0.1" opacity="0.5" width="0.9" x="-43.207" fill="#FFFFFF" y="-78.931" enable-background="new    "/>
+                                </g>
+                                <g >
+                                    <path  fill="#D1C690" d="M-37.506-75.43L-37.506-75.43v-3.501h-0.9v3c0.1,0.1,0.2,0.2,0.2,0.4v0.1H-37.506"/>
+                                    <rect  height="0.1" opacity="0.5" width="0.9" x="-38.406" fill="#FFFFFF" y="-78.931" enable-background="new    "/>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+                <g  transform="matrix(1, 0, 0, 1, 16.5942, 98.2634)">
+                    <g >
+                        <g  id="_x30_603-res_1_" gorn="0.1.0.0.29.0.0">
+                            <g  transform="matrix(1, 0, 0, 1, 10.275, 83.3789)">
+                                <g >
+                                    <g  id="_x30_402-res_1_" gorn="0.1.0.0.29.0.0.0.0.0">
+                                        <g  transform="matrix(0, 1, -1, 0, 4.1105, -1.5595)">
+                                            <g >
+                                                <g >
+                                                    <g >
+                                                        <g >
+                                                            <g  transform="matrix(2.578893e-006 1 -1 2.578893e-006 -156.8634 177.5034)">
+                                                                <g >
+                                                                    <rect  height="2.301" width="4.501" x="-169.434" fill="#333333" y="9.169"/>
+                                                                </g>
+                                                            </g>
+                                                            <polygon  opacity="0.2" points="-168.262,8.117 -168.262,12.618 -168.262,12.618 " fill="#010101" enable-background="new    "/>
+                                                        </g>
+                                                        <g >
+                                                            <path  fill="#CDCCCC" d="M-166.061,12.018L-166.061,12.018L-166.061,12.018L-166.061,12.018L-166.061,12.018c-0.201-0.1-0.701-0.1-0.9-0.1c-0.2,0-1.201,0-1.4,0.1v0.7h2.301V12.018z"/>
+                                                            <path  fill="#CDCCCC" d="M-166.161,8.817L-166.161,8.817l0.101-0.7h-2.301v0.7c0.199,0.1,1,0.1,1.1,0.1C-166.961,8.917-166.361,8.917-166.161,8.817z"/>
+                                                            <polygon  opacity="0.15" points="-168.262,8.117 -168.262,8.817 -168.262,8.817 " fill="#010101" enable-background="new    "/>
+                                                            <polygon  opacity="0.5" points="-166.061,8.117 -166.061,8.817 -166.061,8.817 " fill="#FFFFFF" enable-background="new    "/>
+                                                            <polygon  opacity="0.15" points="-168.361,11.918 -168.361,12.618 -168.361,12.618 " fill="#010101" enable-background="new    "/>
+                                                            <polygon  opacity="0.5" points="-166.061,11.918 -166.061,12.618 -166.061,12.618 " fill="#FFFFFF" enable-background="new    "/>
+                                                            <line  y1="8.518" x1="-168.361" fill="none" x2="-168.361" y2="8.518"/>
+                                                        </g>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                            <rect  height="2.301" opacity="0.1" width="0.1" x="1.782" fill="#010101" y="-86.462" enable-background="new    "/>
+                            <rect  height="2.301" opacity="0.2" width="0.1" x="6.183" fill="#FFFFFF" y="-86.462" enable-background="new    "/>
+                            <g  transform="matrix(1 0 0 1 2.9475 -84.9673)">
+                                <g >
+                                    <text  font-size="1.0004" fill="#FFFFFF" font-family="Droid Sans">512</text>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+                <g  transform="matrix(1, 0, 0, 1, 16.5942, 98.2634)">
+                    <g >
+                        <g  id="_x30_603-res_2_" gorn="0.1.0.0.30.0.0">
+                            <g  transform="matrix(1, 0, 0, 1, 10.275, 83.3789)">
+                                <g >
+                                    <g  id="_x30_402-res_2_" gorn="0.1.0.0.30.0.0.0.0.0">
+                                        <g  transform="matrix(0, 1, -1, 0, 4.1105, -1.5595)">
+                                            <g >
+                                                <g >
+                                                    <g >
+                                                        <g >
+                                                            <g  transform="matrix(2.578893e-006 1 -1 2.578893e-006 -151.194 171.834)">
+                                                                <g >
+                                                                    <rect  height="2.301" width="4.501" x="-163.765" fill="#333333" y="9.169"/>
+                                                                </g>
+                                                            </g>
+                                                            <polygon  opacity="0.2" points="-162.592,8.117 -162.592,12.618 -162.592,12.618 " fill="#010101" enable-background="new    "/>
+                                                        </g>
+                                                        <g >
+                                                            <path  fill="#CDCCCC" d="M-160.391,12.018L-160.391,12.018L-160.391,12.018L-160.391,12.018L-160.391,12.018c-0.201-0.1-0.701-0.1-0.9-0.1c-0.2,0-1.201,0-1.4,0.1v0.7h2.301V12.018z"/>
+                                                            <path  fill="#CDCCCC" d="M-160.492,8.817L-160.492,8.817l0.101-0.7h-2.301v0.7c0.199,0.1,1,0.1,1.1,0.1C-161.292,8.917-160.692,8.917-160.492,8.817z"/>
+                                                            <polygon  opacity="0.15" points="-162.592,8.117 -162.592,8.817 -162.592,8.817 " fill="#010101" enable-background="new    "/>
+                                                            <polygon  opacity="0.5" points="-160.391,8.117 -160.391,8.817 -160.391,8.817 " fill="#FFFFFF" enable-background="new    "/>
+                                                            <polygon  opacity="0.15" points="-162.692,11.918 -162.692,12.618 -162.692,12.618 " fill="#010101" enable-background="new    "/>
+                                                            <polygon  opacity="0.5" points="-160.391,11.918 -160.391,12.618 -160.391,12.618 " fill="#FFFFFF" enable-background="new    "/>
+                                                            <line  y1="8.518" x1="-162.692" fill="none" x2="-162.692" y2="8.518"/>
+                                                        </g>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                            <rect  height="2.301" opacity="0.1" width="0.1" x="1.782" fill="#010101" y="-80.792" enable-background="new    "/>
+                            <rect  height="2.301" opacity="0.2" width="0.1" x="6.183" fill="#FFFFFF" y="-80.792" enable-background="new    "/>
+                            <g  transform="matrix(1 0 0 1 2.948 -79.2978)">
+                                <g >
+                                    <text  font-size="1.0004" fill="#FFFFFF" font-family="Droid Sans">512</text>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+                <g  transform="matrix(1, 0, 0, 1, 16.5942, 98.2634)">
+                    <g >
+                        <g  id="_x30_603-res_3_" gorn="0.1.0.0.31.0.0">
+                            <g  transform="matrix(1, 0, 0, 1, 10.275, 83.3789)">
+                                <g >
+                                    <g  id="_x30_402-res_3_" gorn="0.1.0.0.31.0.0.0.0.0">
+                                        <g  transform="matrix(0, 1, -1, 0, 4.1105, -1.5595)">
+                                            <g >
+                                                <g >
+                                                    <g >
+                                                        <g >
+                                                            <g  transform="matrix(2.578893e-006 1 -1 2.578893e-006 -111.5089 234.1966)">
+                                                                <g >
+                                                                    <rect  height="2.301" width="4.501" x="-175.104" fill="#333333" y="60.193"/>
+                                                                </g>
+                                                            </g>
+                                                            <polygon  opacity="0.2" points="-173.931,59.141 -173.931,63.642 -173.931,63.642 " fill="#010101" enable-background="new    "/>
+                                                        </g>
+                                                        <g >
+                                                            <path  fill="#CDCCCC" d="M-171.73,63.041L-171.73,63.041L-171.73,63.041L-171.73,63.041L-171.73,63.041c-0.201-0.1-0.701-0.1-0.9-0.1c-0.2,0-1.201,0-1.4,0.1v0.7h2.301V63.041z"/>
+                                                            <path  fill="#CDCCCC" d="M-171.831,59.841L-171.831,59.841l0.101-0.7h-2.301v0.7c0.199,0.1,1,0.1,1.1,0.1C-172.63,59.941-172.031,59.941-171.831,59.841z"/>
+                                                            <polygon  opacity="0.15" points="-173.931,59.141 -173.931,59.841 -173.931,59.841 " fill="#010101" enable-background="new    "/>
+                                                            <polygon  opacity="0.5" points="-171.73,59.141 -171.73,59.841 -171.73,59.841 " fill="#FFFFFF" enable-background="new    "/>
+                                                            <polygon  opacity="0.15" points="-174.031,62.942 -174.031,63.642 -174.031,63.642 " fill="#010101" enable-background="new    "/>
+                                                            <polygon  opacity="0.5" points="-171.73,62.942 -171.73,63.642 -171.73,63.642 " fill="#FFFFFF" enable-background="new    "/>
+                                                            <line  y1="59.541" x1="-174.031" fill="none" x2="-174.031" y2="59.541"/>
+                                                        </g>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                            <rect  height="2.301" opacity="0.1" width="0.1" x="-49.242" fill="#010101" y="-92.131" enable-background="new    "/>
+                            <rect  height="2.301" opacity="0.2" width="0.1" x="-44.841" fill="#FFFFFF" y="-92.131" enable-background="new    "/>
+                            <g  transform="matrix(1 0 0 1 -48.0764 -90.6367)">
+                                <g >
+                                    <text  font-size="1.0004" fill="#FFFFFF" font-family="Droid Sans">102</text>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+                <g  transform="matrix(1, 0, 0, 1, 16.5942, 98.2634)">
+                    <g >
+                        <g  id="_x30_603-res_4_" gorn="0.1.0.0.32.0.0">
+                            <g  transform="matrix(1, 0, 0, 1, 10.275, 83.3789)">
+                                <g >
+                                    <g  id="_x30_402-res_4_" gorn="0.1.0.0.32.0.0.0.0.0">
+                                        <g  transform="matrix(0, 1, -1, 0, 4.1105, -1.5595)">
+                                            <g >
+                                                <g >
+                                                    <g >
+                                                        <g >
+                                                            <g  transform="matrix(2.578893e-006 1 -1 2.578893e-006 -114.3434 220.0233)">
+                                                                <g >
+                                                                    <rect  height="2.301" width="4.501" x="-169.434" fill="#333333" y="51.689"/>
+                                                                </g>
+                                                            </g>
+                                                            <polygon  opacity="0.2" points="-168.262,50.637 -168.262,55.138 -168.262,55.138 " fill="#010101" enable-background="new    "/>
+                                                        </g>
+                                                        <g >
+                                                            <path  fill="#CDCCCC" d="M-166.061,54.538L-166.061,54.538L-166.061,54.538L-166.061,54.538L-166.061,54.538c-0.201-0.1-0.701-0.1-0.9-0.1c-0.2,0-1.201,0-1.4,0.1v0.7h2.301V54.538z"/>
+                                                            <path  fill="#CDCCCC" d="M-166.161,51.337L-166.161,51.337l0.101-0.7h-2.301v0.7c0.199,0.1,1,0.1,1.1,0.1C-166.961,51.437-166.361,51.437-166.161,51.337z"/>
+                                                            <polygon  opacity="0.15" points="-168.262,50.637 -168.262,51.337 -168.262,51.337 " fill="#010101" enable-background="new    "/>
+                                                            <polygon  opacity="0.5" points="-166.061,50.637 -166.061,51.337 -166.061,51.337 " fill="#FFFFFF" enable-background="new    "/>
+                                                            <polygon  opacity="0.15" points="-168.361,54.438 -168.361,55.138 -168.361,55.138 " fill="#010101" enable-background="new    "/>
+                                                            <polygon  opacity="0.5" points="-166.061,54.438 -166.061,55.138 -166.061,55.138 " fill="#FFFFFF" enable-background="new    "/>
+                                                            <line  y1="51.038" x1="-168.361" fill="none" x2="-168.361" y2="51.038"/>
+                                                        </g>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                            <rect  height="2.301" opacity="0.1" width="0.1" x="-40.738" fill="#010101" y="-86.462" enable-background="new    "/>
+                            <rect  height="2.301" opacity="0.2" width="0.1" x="-36.337" fill="#FFFFFF" y="-86.462" enable-background="new    "/>
+                            <g  transform="matrix(1 0 0 1 -39.5725 -84.9673)">
+                                <g >
+                                    <text  font-size="1.0004" fill="#FFFFFF" font-family="Droid Sans">103</text>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+                <g  id="Layer_2" gorn="0.1.0.0.33">
+                    <path  opacity="0.3" stroke="#65ADD1" fill="none" d="M-6.85,96.867" stroke-width="1.2"/>
+                    <polyline  stroke="#65ADD1" points="-5.538,95.318 -6.85,96.867 -29.984,96.867 -32.371,93.504 -32.371,30.895 -29.282,29.033 33.478,29.033 37.129,33.378 36.567,92.11 34.602,96.867 -5.35,96.867 " fill="none" stroke-width="1.2"/>
+                    <polyline  stroke="#65ADD1" points="-7.362,95.18 -28.259,95.18 -30.527,91.985 -30.527,32.487 -27.592,30.719 32.05,30.719 35.52,34.846 34.987,90.661 33.117,95.18 -5.992,95.18 " fill="none" stroke-width="1.2"/>
+                    <polyline  stroke="#65ADD1" points="-8.413,93.536 -26.557,93.536 -28.71,90.504 -28.71,34.044 -25.924,32.365 -19.99,35.588 -12.076,35.588 " fill="none" stroke-width="1.2"/>
+                    <path  stroke="#65ADD1" fill="none" d="M-8.413,93.536" stroke-width="1.2"/>
+                    <polyline  stroke="#65ADD1" points="14.341,35.546 23.024,35.546 30.67,32.365 33.964,36.283 33.457,89.246 31.684,93.536 -6.163,93.536 -7.725,95.318 " fill="none" stroke-width="1.2"/>
+                </g>
+                <g  id="Layer_3" gorn="0.1.0.0.34">
+                    <g  opacity="0.4">
+                        <path  fill="#FFFFFF" d="M4.259,67.735H2.114c-1.428,0-2.857,0.284-4.001-0.572c-1.143-0.715-1.999-2.001-1.857-3.288c0.144-1.716,2.001-3.43,3.717-3.43c1.427,0,2.857,0,4.287,0V67.735z M-0.457,66.591c0.143,0,0.286,0,0.429,0.143c0.285,0,3.144,0,3.144,0V61.59H1.258c-0.858,0-1.859-0.146-2.573,0.428c-0.856,0.571-1.715,1.573-1.429,2.715C-2.315,65.592-1.6,66.306-0.457,66.591"/>
+                        <polygon  points="4.259,63.591 5.688,63.591 5.688,64.447 4.259,64.447 4.259,66.161 6.26,66.161 6.26,66.875 3.116,66.875 3.116,61.302 6.26,61.302 6.26,62.017 4.259,62.017 " fill="#FFFFFF"/>
+                        <path  fill="#FFFFFF" d="M10.546,63.733c-0.287-4.29-3.715-7.862-8-8.145c-4.433-0.288-8.004,2.855-8.862,6.857l0,0c0,0.285-0.142,0.715-0.142,0.999c0,0.288,0,0.43,0,0.715c0.142,0.287,0.285,0.43,0.57,0.43h1.857c0-0.284-0.143-0.571,0-0.856c0-0.143,0-0.288,0-0.43h-1.001c0-0.857,0.286-1.571,0.858-2.573c1.286-2.286,3.716-3.857,6.43-3.714c3.718,0.142,6.718,3.145,6.86,6.717c0,1.429-0.285,2.857-1,4.002l0,0c0,0.142-0.143,0.284-0.287,0.284l0,0c0,0.143-0.141,0.143-0.285,0.288l0,0c-0.143,0.142-0.143,0.142-0.285,0.284l-0.143,0.143c0,0,0,0.142-0.143,0.142c-1.287,1.287-3.146,2.146-5.147,2.146c-2.857,0-5.286-1.716-6.43-4.147c0-0.142-0.143-0.284-0.285-0.427c-0.144-0.142-0.286-0.287-0.571-0.287l0,0c-0.429,0-0.714,0.572-0.571,1.002c1.285,3.143,4.286,5.287,7.858,5.287C6.831,72.734,10.69,68.592,10.546,63.733"/>
+                        <path  fill="#FFFFFF" d="M-2.458,64.447c0,0.143,0,0.143,0.143,0.285H-1.6c0.429,0,0.714-0.285,0.714-0.714c0-0.428-0.285-0.715-0.714-0.715h-0.715C-2.601,63.733-2.601,64.018-2.458,64.447"/>
+                    </g>
+                    <path  stroke="#65ADD1" fill="none" d="M-6.264,56.214c-1.906,2.028-3.073,4.759-3.073,7.762c0,3.009,1.172,5.744,3.084,7.773" stroke-width="1"/>
+                    <path  stroke="#65ADD1" fill="none" d="M10.264,71.74c1.907-2.028,3.076-4.76,3.075-7.765c0-3.006-1.17-5.738-3.079-7.768" stroke-width="1"/>
+                    <path  stroke="#65ADD1" fill="none" d="M-8.33,54.273c-2.382,2.535-3.841,5.948-3.842,9.702c0,3.76,1.463,7.177,3.851,9.714" stroke-width="1"/>
+                    <path  stroke="#65ADD1" fill="none" d="M12.332,73.677c2.383-2.535,3.842-5.948,3.842-9.702c0-3.758-1.461-7.173-3.848-9.709" stroke-width="1"/>
+                    <path  stroke="#65ADD1" fill="none" d="M-10.397,52.333c-2.858,3.042-4.609,7.138-4.609,11.643c0,4.514,1.758,8.616,4.626,11.66" stroke-width="1"/>
+                    <path  stroke="#65ADD1" fill="none" d="M14.399,75.62c2.859-3.043,4.61-7.14,4.61-11.645c0-4.509-1.755-8.608-4.618-11.652" stroke-width="1"/>
+                    <path  stroke="#65ADD1" fill="none" d="M-12.029,49.945c-3.591,3.591-5.812,8.551-5.812,14.03c0,5.264,2.05,10.049,5.395,13.602" stroke-width="1"/>
+                    <path  stroke="#65ADD1" fill="none" d="M16.465,77.559c3.335-3.55,5.378-8.328,5.378-13.584c0-5.263-2.048-10.047-5.392-13.599" stroke-width="1"/>
+                    <path  stroke="#65ADD1" fill="none" d="M18.531,79.501c3.813-4.058,6.148-9.519,6.147-15.525c0-6.014-2.341-11.481-6.163-15.541" stroke-width="1"/>
+                    <path  stroke="#65ADD1" fill="none" d="M-14.529,48.451c-3.813,4.058-6.148,9.519-6.147,15.524c0,6.018,2.344,11.488,6.168,15.548" stroke-width="1"/>
+                </g>
+                <g  id="Layer_4" gorn="0.1.0.0.35">
+                    <path  fill="#FFFFFF" d="M-29.585,21.212c1.662,0,3.009,1.348,3.009,3.009c0,1.662-1.347,3.01-3.009,3.01c-1.662,0-3.01-1.348-3.01-3.01C-32.594,22.56-31.246,21.212-29.585,21.212"/>
+                    <g  opacity="0.2" enable-background="new    ">
+                        <g >
+                            <defs >
+                                <rect  height="3.921" width="6.236" x="-32.706" id="SVGID_1_" y="21.093" gorn="0.1.0.0.35.1.0.0.0"/>
+                            </defs>
+                            <path  fill="#1E1E1E" d="M-32.594,25.013c-0.158-1.583,1.056-2.956,2.746-3.062c1.689-0.158,3.168,0.95,3.379,2.534l-0.105-0.792c-0.211-1.583-1.69-2.744-3.379-2.586c-1.689,0.158-2.85,1.531-2.745,3.114L-32.594,25.013z" clip-path="url(#SVGID_2_)"/>
+                        </g>
+                    </g>
+                    <path  fill="#FFFFFF" d="M33.967,21.212c1.662,0,3.009,1.348,3.009,3.009c0,1.662-1.347,3.01-3.009,3.01c-1.662,0-3.01-1.348-3.01-3.01C30.957,22.56,32.305,21.212,33.967,21.212"/>
+                    <g  opacity="0.2" enable-background="new    ">
+                        <g >
+                            <defs >
+                                <rect  height="3.921" width="6.236" x="30.845" id="SVGID_3_" y="21.093" gorn="0.1.0.0.35.3.0.0.0"/>
+                            </defs>
+                            <path  fill="#1E1E1E" d="M30.957,25.013c-0.158-1.583,1.056-2.956,2.746-3.062c1.689-0.158,3.168,0.95,3.379,2.534l-0.105-0.792c-0.211-1.583-1.69-2.744-3.379-2.586c-1.689,0.158-2.85,1.531-2.745,3.114L30.957,25.013z" clip-path="url(#SVGID_4_)"/>
+                        </g>
+                    </g>
+                    <path  fill="#FFFFFF" d="M-22.975,85.399c1.662,0,3.009,1.348,3.009,3.009c0,1.662-1.347,3.01-3.009,3.01c-1.662,0-3.01-1.348-3.01-3.01C-25.985,86.747-24.636,85.399-22.975,85.399"/>
+                    <g  opacity="0.2" enable-background="new    ">
+                        <g >
+                            <defs >
+                                <rect  height="3.921" width="6.236" x="-26.096" id="SVGID_5_" y="85.279" gorn="0.1.0.0.35.5.0.0.0"/>
+                            </defs>
+                            <path  fill="#1E1E1E" d="M-25.985,89.2c-0.158-1.584,1.056-2.955,2.746-3.063c1.689-0.158,3.168,0.951,3.379,2.535l-0.105-0.793c-0.211-1.584-1.69-2.744-3.379-2.586c-1.689,0.158-2.85,1.531-2.745,3.114L-25.985,89.2z" clip-path="url(#SVGID_6_)"/>
+                        </g>
+                    </g>
+                    <path  fill="#FFFFFF" d="M26.628,85.458c1.662,0,3.009,1.348,3.009,3.01s-1.347,3.01-3.009,3.01c-1.662,0-3.01-1.348-3.01-3.01S24.966,85.458,26.628,85.458"/>
+                    <g  opacity="0.2" enable-background="new    ">
+                        <g >
+                            <defs >
+                                <rect  height="3.921" width="6.236" x="23.506" id="SVGID_7_" y="85.339" gorn="0.1.0.0.35.7.0.0.0"/>
+                            </defs>
+                            <clipPath  id="SVGID_8_">
+                                <use  overflow="visible" href="#SVGID_7_"/>
+                            </clipPath>
+                            <path  fill="#1E1E1E" d="M23.618,89.26c-0.158-1.583,1.056-2.956,2.746-3.062c1.689-0.158,3.168,0.949,3.379,2.533l-0.105-0.792c-0.211-1.583-1.69-2.744-3.379-2.586c-1.689,0.158-2.85,1.53-2.745,3.114L23.618,89.26z" clip-path="url(#SVGID_8_)"/>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
