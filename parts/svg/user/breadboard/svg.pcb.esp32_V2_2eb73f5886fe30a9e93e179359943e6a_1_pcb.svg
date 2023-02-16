@@ -1,0 +1,92 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE svg>
+<!-- Generator: Adobe Illustrator 15.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg xmlns="http://www.w3.org/2000/svg" x="0px" viewBox="0 0 99 144" y="0px" xml:space="preserve" width="1.375in" gorn="0" xmlns:xml="http://www.w3.org/XML/1998/namespace" enable-background="new -66.38 -5.38 99 144" version="1.1" id="Layer_1"  height="2in">
+    <desc >
+        <referenceFile >NodeMCUPCB2.svg</referenceFile>
+    </desc>
+    <g transform="translate(66.38,5.38)" >
+        <g >
+            <g >
+                <g >
+                    <g >
+                        <g >
+                            <g >
+                                <g >
+                                    <g >
+                                        <g >
+                                            <g >
+                                                <g >
+                                                    <g >
+                                                        <g >
+                                                            <g >
+                                                                <g >
+                                                                    <g >
+                                                                        <g >
+                                                                            <g >
+                                                                                <g >
+                                                                                    <g gorn="0.1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0" id="silkscreen" >
+                                                                                        <line x1="-62.38" x2="-62.38" stroke="#FFFFFF" stroke-width="0.75"  y1="-1.78" y2="133.287" fill="none"/>
+                                                                                        <line x1="29.521" x2="29.521" stroke="#FFFFFF" stroke-width="0.75"  y1="133.287" y2="-1.78" fill="none"/>
+                                                                                        <line x1="-62.38" x2="29.021" stroke="#FFFFFF" stroke-width="0.75"  y1="133.287" y2="133.287" fill="none"/>
+                                                                                        <line x1="-62.38" x2="29.22" stroke="#FFFFFF" stroke-width="0.75"  y1="-3.28" y2="-3.28" fill="none"/>
+                                                                                    </g>
+                                                                                    <g gorn="0.1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.1" id="copper0" >
+                                                                                        <g gorn="0.1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.1.0" id="copper1" >
+                                                                                            <circle stroke="#FFBF00" gorn="0.1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.1.0.0" stroke-width="1.152" id="connector2pad"  r="1.584" cx="25.204" fill="none" cy="20.036"/>
+                                                                                            <circle stroke="#FFBF00" gorn="0.1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.1.0.1" stroke-width="1.152" id="connector42pin"  r="1.584" cx="-55.796" fill="none" cy="2.036"/>
+                                                                                            <circle stroke="#FFBF00" gorn="0.1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.1.0.2" stroke-width="1.152" id="connector41pin"  r="1.584" cx="-55.796" fill="none" cy="11.036"/>
+                                                                                            <circle stroke="#FFBF00" gorn="0.1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.1.0.3" stroke-width="1.152" id="connector40pin"  r="1.584" cx="-55.796" fill="none" cy="20.036"/>
+                                                                                            <circle stroke="#FFBF00" gorn="0.1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.1.0.4" stroke-width="1.152" id="connector39pin"  r="1.584" cx="-55.796" fill="none" cy="29.036"/>
+                                                                                            <circle stroke="#FFBF00" gorn="0.1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.1.0.5" stroke-width="1.152" id="connector38pin"  r="1.584" cx="-55.796" fill="none" cy="38.036"/>
+                                                                                            <circle stroke="#FFBF00" gorn="0.1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.1.0.6" stroke-width="1.152" id="connector1pad"  r="1.584" cx="25.204" fill="none" cy="11.036"/>
+                                                                                            <circle stroke="#FFBF00" gorn="0.1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.1.0.7" stroke-width="1.152" id="connector0pad"  r="1.584" cx="25.204" fill="none" cy="2.036"/>
+                                                                                            <circle stroke="#FFBF00" gorn="0.1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.1.0.8" stroke-width="1.152" id="connector3pad"  r="1.584" cx="25.204" fill="none" cy="29.036"/>
+                                                                                            <circle stroke="#FFBF00" gorn="0.1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.1.0.9" stroke-width="1.152" id="connector37pin"  r="1.584" cx="-55.796" fill="none" cy="47.036"/>
+                                                                                            <circle stroke="#FFBF00" gorn="0.1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.1.0.10" stroke-width="1.152" id="connector36pin"  r="1.584" cx="-55.796" fill="none" cy="56.036"/>
+                                                                                            <circle stroke="#FFBF00" gorn="0.1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.1.0.11" stroke-width="1.152" id="connector35pin"  r="1.584" cx="-55.796" fill="none" cy="65.036"/>
+                                                                                            <circle stroke="#FFBF00" gorn="0.1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.1.0.12" stroke-width="1.152" id="connector34pin"  r="1.584" cx="-55.796" fill="none" cy="74.036"/>
+                                                                                            <circle stroke="#FFBF00" gorn="0.1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.1.0.13" stroke-width="1.152" id="connector33pin"  r="1.584" cx="-55.796" fill="none" cy="83.036"/>
+                                                                                            <circle stroke="#FFBF00" gorn="0.1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.1.0.14" stroke-width="1.152" id="connector19pad"  r="1.584" cx="-55.796" fill="none" cy="92.036"/>
+                                                                                            <circle stroke="#FFBF00" gorn="0.1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.1.0.15" stroke-width="1.152" id="connector18pad"  r="1.584" cx="-55.796" fill="none" cy="101.036"/>
+                                                                                            <circle stroke="#FFBF00" gorn="0.1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.1.0.16" stroke-width="1.152" id="connector17pad"  r="1.584" cx="-55.796" fill="none" cy="110.036"/>
+                                                                                            <circle stroke="#FFBF00" gorn="0.1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.1.0.17" stroke-width="1.152" id="connector16pad"  r="1.584" cx="-55.796" fill="none" cy="119.036"/>
+                                                                                            <circle stroke="#FFBF00" gorn="0.1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.1.0.18" stroke-width="1.152" id="connector15pad"  r="1.584" cx="-55.796" fill="none" cy="128.036"/>
+                                                                                            <circle stroke="#FFBF00" gorn="0.1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.1.0.19" stroke-width="1.152" id="connector7pad"  r="1.584" cx="25.204" fill="none" cy="65.036"/>
+                                                                                            <circle stroke="#FFBF00" gorn="0.1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.1.0.20" stroke-width="1.152" id="connector8pad"  r="1.584" cx="25.204" fill="none" cy="74.036"/>
+                                                                                            <circle stroke="#FFBF00" gorn="0.1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.1.0.21" stroke-width="1.152" id="connector9pad"  r="1.584" cx="25.204" fill="none" cy="83.036"/>
+                                                                                            <circle stroke="#FFBF00" gorn="0.1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.1.0.22" stroke-width="1.152" id="connector10pad"  r="1.584" cx="25.204" fill="none" cy="92.036"/>
+                                                                                            <circle stroke="#FFBF00" gorn="0.1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.1.0.23" stroke-width="1.152" id="connector11pad"  r="1.584" cx="25.204" fill="none" cy="101.036"/>
+                                                                                            <circle stroke="#FFBF00" gorn="0.1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.1.0.24" stroke-width="1.152" id="connector12pad"  r="1.584" cx="25.204" fill="none" cy="110.036"/>
+                                                                                            <circle stroke="#FFBF00" gorn="0.1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.1.0.25" stroke-width="1.152" id="connector13pad"  r="1.584" cx="25.204" fill="none" cy="119.036"/>
+                                                                                            <circle stroke="#FFBF00" gorn="0.1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.1.0.26" stroke-width="1.152" id="connector14pad"  r="1.584" cx="25.204" fill="none" cy="128.036"/>
+                                                                                            <rect x="27.3597" y="130.192" width="0.00864" stroke="none" gorn="0.1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.1.0.27" stroke-width="0" id="connector14terminal"  height="0.00864" fill="none"/>
+                                                                                            <circle stroke="#FFBF00" gorn="0.1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.1.0.28" stroke-width="1.152" id="connector4pad"  r="1.584" cx="25.204" fill="none" cy="38.036"/>
+                                                                                            <circle stroke="#FFBF00" gorn="0.1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.1.0.29" stroke-width="1.152" id="connector5pad"  r="1.584" cx="25.204" fill="none" cy="47.036"/>
+                                                                                            <circle stroke="#FFBF00" gorn="0.1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.1.0.30" stroke-width="1.152" id="connector6pad"  r="1.584" cx="25.204" fill="none" cy="56.036"/>
+                                                                                        </g>
+                                                                                    </g>
+                                                                                    <g gorn="0.1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.2" id="keepout" />
+                                                                                    <g gorn="0.1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.3" id="soldermask" />
+                                                                                    <g gorn="0.1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.4" id="outline" />
+                                                                                </g>
+                                                                            </g>
+                                                                        </g>
+                                                                    </g>
+                                                                </g>
+                                                            </g>
+                                                        </g>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.2"
+   width="145.8"
+   height="10.8"
+   viewBox="0 0 1620 120"
+   id="svg2">
+  <desc
+     id="desc4">Fritzing footprint SVG</desc>
+  <defs
+     id="defs41" />
+  <g
+     transform="matrix(0,-1,1,0,-10,129.99999)"
+     id="silkscreen">
+    <line
+       y1="20"
+       x1="20"
+       y2="1620"
+       x2="20"
+       id="line7"
+       style="stroke:#ffffff;stroke-width:20" />
+    <line
+       y1="1620"
+       x1="20"
+       y2="1620"
+       x2="120"
+       id="line9"
+       style="stroke:#ffffff;stroke-width:20" />
+    <line
+       y1="1620"
+       x1="120"
+       y2="20"
+       x2="120"
+       id="line11"
+       style="stroke:#ffffff;stroke-width:20" />
+    <line
+       y1="20"
+       x1="120"
+       y2="20"
+       x2="20"
+       id="line13"
+       style="stroke:#ffffff;stroke-width:20" />
+    <line
+       y1="120"
+       x1="20"
+       y2="120"
+       x2="120"
+       id="line15"
+       style="stroke:#ffffff;stroke-width:10" />
+  </g>
+  <g
+     transform="matrix(0,-1,1,0,-10,129.99999)"
+     id="copper0">
+    <rect
+       width="55"
+       height="55"
+       x="42.5"
+       y="42.5"
+       id="rect18"
+       style="fill:none;stroke:#ffbf00;stroke-width:20" />
+    <circle
+       cx="70"
+       cy="70"
+       r="27.5"
+       id="connector0pin"
+       style="fill:none;stroke:#ffbf00;stroke-width:20" />
+    <circle
+       cx="70"
+       cy="170"
+       r="27.5"
+       id="connector1pin"
+       style="fill:none;stroke:#ffbf00;stroke-width:20" />
+    <circle
+       cx="70"
+       cy="270"
+       r="27.5"
+       id="connector2pin"
+       style="fill:none;stroke:#ffbf00;stroke-width:20" />
+    <circle
+       cx="70"
+       cy="370"
+       r="27.5"
+       id="connector3pin"
+       style="fill:none;stroke:#ffbf00;stroke-width:20" />
+    <circle
+       cx="70"
+       cy="470"
+       r="27.5"
+       id="connector4pin"
+       style="fill:none;stroke:#ffbf00;stroke-width:20" />
+    <circle
+       cx="70"
+       cy="570"
+       r="27.5"
+       id="connector5pin"
+       style="fill:none;stroke:#ffbf00;stroke-width:20" />
+    <circle
+       cx="70"
+       cy="670"
+       r="27.5"
+       id="connector6pin"
+       style="fill:none;stroke:#ffbf00;stroke-width:20" />
+    <circle
+       cx="70"
+       cy="770"
+       r="27.5"
+       id="connector7pin"
+       style="fill:none;stroke:#ffbf00;stroke-width:20" />
+    <circle
+       cx="70"
+       cy="870"
+       r="27.5"
+       id="connector8pin"
+       style="fill:none;stroke:#ffbf00;stroke-width:20" />
+    <circle
+       cx="70"
+       cy="970"
+       r="27.5"
+       id="connector9pin"
+       style="fill:none;stroke:#ffbf00;stroke-width:20" />
+    <circle
+       cx="70"
+       cy="1070"
+       r="27.5"
+       id="connector10pin"
+       style="fill:none;stroke:#ffbf00;stroke-width:20" />
+    <circle
+       cx="70"
+       cy="1170"
+       r="27.5"
+       id="connector11pin"
+       style="fill:none;stroke:#ffbf00;stroke-width:20" />
+    <circle
+       cx="70"
+       cy="1270"
+       r="27.5"
+       id="connector12pin"
+       style="fill:none;stroke:#ffbf00;stroke-width:20" />
+    <circle
+       cx="70"
+       cy="1370"
+       r="27.5"
+       id="connector13pin"
+       style="fill:none;stroke:#ffbf00;stroke-width:20" />
+    <circle
+       cx="70"
+       cy="1470"
+       r="27.5"
+       id="connector14pin"
+       style="fill:none;stroke:#ffbf00;stroke-width:20" />
+    <circle
+       cx="70"
+       cy="1570"
+       r="27.5"
+       id="connector15pin"
+       style="fill:none;stroke:#ffbf00;stroke-width:20" />
+  </g>
+  <g
+     transform="translate(740,-760.00001)"
+     id="keepout" />
+  <g
+     transform="translate(740,-760.00001)"
+     id="soldermask" />
+  <g
+     transform="translate(740,-760.00001)"
+     id="outline" />
+</svg>

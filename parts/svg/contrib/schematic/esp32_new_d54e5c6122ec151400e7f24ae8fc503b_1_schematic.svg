@@ -1,0 +1,967 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE svg>
+<!-- Generator: Adobe Illustrator 15.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg xmlns="http://www.w3.org/2000/svg" enable-background="new 0 0 65 130" width="0.902778in" version="1.1" x="0px" xml:space="preserve" height="1.80556in" y="0px"  viewBox="0 0 65 130" xmlns:xml="http://www.w3.org/XML/1998/namespace">
+    <desc >
+        <referenceFile >NodeMCUSchema.svg</referenceFile>
+    </desc>
+    <g  transform="matrix(1 0 0 1 51.6953 16.3164)">
+        <g >
+            <g >
+                <g >
+                    <g >
+                        <g >
+                            <g >
+                                <g >
+                                    <g >
+                                        <g >
+                                            <g >
+                                                <g >
+                                                    <g >
+                                                        <g >
+                                                            <text font-size="3.5" fill="#231F20" font-family="DroidSans" >D0</text>
+                                                        </g>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="matrix(1 0 0 1 51.6953 23.5078)">
+        <g >
+            <g >
+                <g >
+                    <g >
+                        <g >
+                            <g >
+                                <g >
+                                    <g >
+                                        <g >
+                                            <g >
+                                                <g >
+                                                    <g >
+                                                        <g >
+                                                            <text font-size="3.5" fill="#231F20" font-family="DroidSans" >D1</text>
+                                                        </g>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="matrix(1 0 0 1 51.6953 30.6992)">
+        <g >
+            <g >
+                <g >
+                    <g >
+                        <g >
+                            <g >
+                                <g >
+                                    <g >
+                                        <g >
+                                            <g >
+                                                <g >
+                                                    <g >
+                                                        <g >
+                                                            <text font-size="3.5" fill="#231F20" font-family="DroidSans" >D2</text>
+                                                        </g>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="matrix(1 0 0 1 51.6953 37.8906)">
+        <g >
+            <g >
+                <g >
+                    <g >
+                        <g >
+                            <g >
+                                <g >
+                                    <g >
+                                        <g >
+                                            <g >
+                                                <g >
+                                                    <g >
+                                                        <g >
+                                                            <text font-size="3.5" fill="#231F20" font-family="DroidSans" >D3</text>
+                                                        </g>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="matrix(1 0 0 1 51.6953 45.0811)">
+        <g >
+            <g >
+                <g >
+                    <g >
+                        <g >
+                            <g >
+                                <g >
+                                    <g >
+                                        <g >
+                                            <g >
+                                                <g >
+                                                    <g >
+                                                        <g >
+                                                            <text font-size="3.5" fill="#231F20" font-family="DroidSans" >D4</text>
+                                                        </g>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="matrix(1 0 0 1 50.1758 52.2725)">
+        <g >
+            <g >
+                <g >
+                    <g >
+                        <g >
+                            <g >
+                                <g >
+                                    <g >
+                                        <g >
+                                            <g >
+                                                <g >
+                                                    <g >
+                                                        <g >
+                                                            <text font-size="3.5" fill="#231F20" font-family="DroidSans" >3V3</text>
+                                                        </g>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="matrix(1 0 0 1 48.6582 59.4629)">
+        <g >
+            <g >
+                <g >
+                    <g >
+                        <g >
+                            <g >
+                                <g >
+                                    <g >
+                                        <g >
+                                            <g >
+                                                <g >
+                                                    <g >
+                                                        <g >
+                                                            <text font-size="3.5" fill="#231F20" font-family="DroidSans" >GND</text>
+                                                        </g>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="matrix(1 0 0 1 51.6953 66.6543)">
+        <g >
+            <g >
+                <g >
+                    <g >
+                        <g >
+                            <g >
+                                <g >
+                                    <g >
+                                        <g >
+                                            <g >
+                                                <g >
+                                                    <g >
+                                                        <g >
+                                                            <text font-size="3.5" fill="#231F20" font-family="DroidSans" >D5</text>
+                                                        </g>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="matrix(1 0 0 1 51.6953 73.8457)">
+        <g >
+            <g >
+                <g >
+                    <g >
+                        <g >
+                            <g >
+                                <g >
+                                    <g >
+                                        <g >
+                                            <g >
+                                                <g >
+                                                    <g >
+                                                        <g >
+                                                            <text font-size="3.5" fill="#231F20" font-family="DroidSans" >D6</text>
+                                                        </g>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="matrix(1 0 0 1 51.6953 81.0352)">
+        <g >
+            <g >
+                <g >
+                    <g >
+                        <g >
+                            <g >
+                                <g >
+                                    <g >
+                                        <g >
+                                            <g >
+                                                <g >
+                                                    <g >
+                                                        <g >
+                                                            <text font-size="3.5" fill="#231F20" font-family="DroidSans" >D7</text>
+                                                        </g>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="matrix(1 0 0 1 51.6953 88.2266)">
+        <g >
+            <g >
+                <g >
+                    <g >
+                        <g >
+                            <g >
+                                <g >
+                                    <g >
+                                        <g >
+                                            <g >
+                                                <g >
+                                                    <g >
+                                                        <g >
+                                                            <text font-size="3.5" fill="#231F20" font-family="DroidSans" >D8</text>
+                                                        </g>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="matrix(1 0 0 1 52.0391 95.418)">
+        <g >
+            <g >
+                <g >
+                    <g >
+                        <g >
+                            <g >
+                                <g >
+                                    <g >
+                                        <g >
+                                            <g >
+                                                <g >
+                                                    <g >
+                                                        <g >
+                                                            <text font-size="3.5" fill="#231F20" font-family="DroidSans" >RX</text>
+                                                        </g>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="matrix(1 0 0 1 52.2871 102.6094)">
+        <g >
+            <g >
+                <g >
+                    <g >
+                        <g >
+                            <g >
+                                <g >
+                                    <g >
+                                        <g >
+                                            <g >
+                                                <g >
+                                                    <g >
+                                                        <g >
+                                                            <text font-size="3.5" fill="#231F20" font-family="DroidSans" >TX</text>
+                                                        </g>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="matrix(1 0 0 1 48.6582 109.7988)">
+        <g >
+            <g >
+                <g >
+                    <g >
+                        <g >
+                            <g >
+                                <g >
+                                    <g >
+                                        <g >
+                                            <g >
+                                                <g >
+                                                    <g >
+                                                        <g >
+                                                            <text font-size="3.5" fill="#231F20" font-family="DroidSans" >GND</text>
+                                                        </g>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="matrix(1 0 0 1 50.1758 116.9902)">
+        <g >
+            <g >
+                <g >
+                    <g >
+                        <g >
+                            <g >
+                                <g >
+                                    <g >
+                                        <g >
+                                            <g >
+                                                <g >
+                                                    <g >
+                                                        <g >
+                                                            <text font-size="3.5" fill="#231F20" font-family="DroidSans" >3V3</text>
+                                                        </g>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="matrix(1 0 0 1 9.2734 116.9902)">
+        <g >
+            <g >
+                <g >
+                    <g >
+                        <g >
+                            <g >
+                                <g >
+                                    <g >
+                                        <g >
+                                            <g >
+                                                <g >
+                                                    <g >
+                                                        <g >
+                                                            <text font-size="3.5" fill="#231F20" font-family="DroidSans" >Vin</text>
+                                                        </g>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="matrix(1 0 0 1 9.2725 109.9199)">
+        <g >
+            <g >
+                <g >
+                    <g >
+                        <g >
+                            <g >
+                                <g >
+                                    <g >
+                                        <g >
+                                            <g >
+                                                <g >
+                                                    <g >
+                                                        <g >
+                                                            <text font-size="3.5" fill="#231F20" font-family="DroidSans" >GND</text>
+                                                        </g>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="matrix(1 0 0 1 9.2725 102.7266)">
+        <g >
+            <g >
+                <g >
+                    <g >
+                        <g >
+                            <g >
+                                <g >
+                                    <g >
+                                        <g >
+                                            <g >
+                                                <g >
+                                                    <g >
+                                                        <g >
+                                                            <text font-size="3.5" fill="#231F20" font-family="DroidSans" >RST</text>
+                                                        </g>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="matrix(1 0 0 1 9.2725 95.5332)">
+        <g >
+            <g >
+                <g >
+                    <g >
+                        <g >
+                            <g >
+                                <g >
+                                    <g >
+                                        <g >
+                                            <g >
+                                                <g >
+                                                    <g >
+                                                        <g >
+                                                            <text font-size="3.5" fill="#231F20" font-family="DroidSans" >EN</text>
+                                                        </g>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="matrix(1 0 0 1 9.2725 88.3389)">
+        <g >
+            <g >
+                <g >
+                    <g >
+                        <g >
+                            <g >
+                                <g >
+                                    <g >
+                                        <g >
+                                            <g >
+                                                <g >
+                                                    <g >
+                                                        <g >
+                                                            <text font-size="3.5" fill="#231F20" font-family="DroidSans" >3V3</text>
+                                                        </g>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="matrix(1 0 0 1 9.2725 81.1445)">
+        <g >
+            <g >
+                <g >
+                    <g >
+                        <g >
+                            <g >
+                                <g >
+                                    <g >
+                                        <g >
+                                            <g >
+                                                <g >
+                                                    <g >
+                                                        <g >
+                                                            <text font-size="3.5" fill="#231F20" font-family="DroidSans" >GND</text>
+                                                        </g>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="matrix(1 0 0 1 9.2725 73.9521)">
+        <g >
+            <g >
+                <g >
+                    <g >
+                        <g >
+                            <g >
+                                <g >
+                                    <g >
+                                        <g >
+                                            <g >
+                                                <g >
+                                                    <g >
+                                                        <g >
+                                                            <text font-size="3.5" fill="#231F20" font-family="DroidSans" >CLK</text>
+                                                        </g>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="matrix(1 0 0 1 9.2725 66.7578)">
+        <g >
+            <g >
+                <g >
+                    <g >
+                        <g >
+                            <g >
+                                <g >
+                                    <g >
+                                        <g >
+                                            <g >
+                                                <g >
+                                                    <g >
+                                                        <g >
+                                                            <text font-size="3.5" fill="#231F20" font-family="DroidSans" >SD0</text>
+                                                        </g>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="matrix(1 0 0 1 9.2725 59.5625)">
+        <g >
+            <g >
+                <g >
+                    <g >
+                        <g >
+                            <g >
+                                <g >
+                                    <g >
+                                        <g >
+                                            <g >
+                                                <g >
+                                                    <g >
+                                                        <g >
+                                                            <text font-size="3.5" fill="#231F20" font-family="DroidSans" >CMD</text>
+                                                        </g>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="matrix(1 0 0 1 9.2725 52.3691)">
+        <g >
+            <g >
+                <g >
+                    <g >
+                        <g >
+                            <g >
+                                <g >
+                                    <g >
+                                        <g >
+                                            <g >
+                                                <g >
+                                                    <g >
+                                                        <g >
+                                                            <text font-size="3.5" fill="#231F20" font-family="DroidSans" >SD1</text>
+                                                        </g>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="matrix(1 0 0 1 9.2725 45.1758)">
+        <g >
+            <g >
+                <g >
+                    <g >
+                        <g >
+                            <g >
+                                <g >
+                                    <g >
+                                        <g >
+                                            <g >
+                                                <g >
+                                                    <g >
+                                                        <g >
+                                                            <text font-size="3.5" fill="#231F20" font-family="DroidSans" >SD2</text>
+                                                        </g>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="matrix(1 0 0 1 9.2725 37.9824)">
+        <g >
+            <g >
+                <g >
+                    <g >
+                        <g >
+                            <g >
+                                <g >
+                                    <g >
+                                        <g >
+                                            <g >
+                                                <g >
+                                                    <g >
+                                                        <g >
+                                                            <text font-size="3.5" fill="#231F20" font-family="DroidSans" >SD3</text>
+                                                        </g>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="matrix(1 0 0 1 9.2725 30.7871)">
+        <g >
+            <g >
+                <g >
+                    <g >
+                        <g >
+                            <g >
+                                <g >
+                                    <g >
+                                        <g >
+                                            <g >
+                                                <g >
+                                                    <g >
+                                                        <g >
+                                                            <text font-size="3.5" fill="#231F20" font-family="DroidSans" >RSV</text>
+                                                        </g>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="matrix(1 0 0 1 9.2725 23.5938)">
+        <g >
+            <g >
+                <g >
+                    <g >
+                        <g >
+                            <g >
+                                <g >
+                                    <g >
+                                        <g >
+                                            <g >
+                                                <g >
+                                                    <g >
+                                                        <g >
+                                                            <text font-size="3.5" fill="#231F20" font-family="DroidSans" >RSV</text>
+                                                        </g>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="matrix(1 0 0 1 9.2734 16.3164)">
+        <g >
+            <g >
+                <g >
+                    <g >
+                        <g >
+                            <g >
+                                <g >
+                                    <g >
+                                        <g >
+                                            <g >
+                                                <g >
+                                                    <g >
+                                                        <g >
+                                                            <text font-size="3.5" fill="#231F20" font-family="DroidSans" >A0</text>
+                                                        </g>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <rect stroke-width="0.7" width="50.4" stroke="#231F20" fill="none" x="7.272" height="116.2" y="7.201"  stroke-miterlimit="10"/>
+    <line gorn="0.32" id="connector42pin" stroke-width="1" stroke="#231F20" y1="15.386" y2="15.401" fill="none" x1="0.001"  stroke-miterlimit="10" x2="7.272"/>
+    <line gorn="0.33" id="connector41pin" stroke-width="1" stroke="#231F20" y1="22.601" y2="22.617" fill="none" x1="0.001"  stroke-miterlimit="10" x2="7.272"/>
+    <line gorn="0.34" id="connector40pin" stroke-width="1" stroke="#231F20" y1="29.801" y2="29.817" fill="none" x1="0.001"  stroke-miterlimit="10" x2="7.272"/>
+    <line gorn="0.35" id="connector39pin" stroke-width="1" stroke="#231F20" y1="36.97" y2="36.986" fill="none" x1="0.001"  stroke-miterlimit="10" x2="7.272"/>
+    <line gorn="0.36" id="connector38pin" stroke-width="1" stroke="#231F20" y1="44.186" y2="44.202" fill="none" x1="0.001"  stroke-miterlimit="10" x2="7.272"/>
+    <line gorn="0.37" id="connector37pin" stroke-width="1" stroke="#231F20" y1="51.386" y2="51.401" fill="none" x1="0.001"  stroke-miterlimit="10" x2="7.272"/>
+    <line gorn="0.38" id="connector36pin" stroke-width="1" stroke="#231F20" y1="58.586" y2="58.602" fill="none" x1="0.001"  stroke-miterlimit="10" x2="7.272"/>
+    <line gorn="0.39" id="connector35pin" stroke-width="1" stroke="#231F20" y1="65.803" y2="65.817" fill="none" x1="0.001"  stroke-miterlimit="10" x2="7.272"/>
+    <line gorn="0.40" id="connector34pin" stroke-width="1" stroke="#231F20" y1="73.002" y2="73.019" fill="none" x1="0.001"  stroke-miterlimit="10" x2="7.272"/>
+    <line gorn="0.41" id="connector33pin" stroke-width="1" stroke="#231F20" y1="80.172" y2="80.187" fill="none" x1="0.001"  stroke-miterlimit="10" x2="7.272"/>
+    <line gorn="0.42" id="connector19pin" stroke-width="1" stroke="#231F20" y1="87.388" y2="87.402" fill="none" x1="0.001"  stroke-miterlimit="10" x2="7.272"/>
+    <line gorn="0.43" id="connector18pin" stroke-width="1" stroke="#231F20" y1="94.588" y2="94.603" fill="none" x1="0.001"  stroke-miterlimit="10" x2="7.272"/>
+    <line gorn="0.44" id="connector17pin" stroke-width="1" stroke="#231F20" y1="101.856" y2="101.873" fill="none" x1="0.001"  stroke-miterlimit="10" x2="7.272"/>
+    <line gorn="0.45" id="connector16pin" stroke-width="1" stroke="#231F20" y1="109.072" y2="109.088" fill="none" x1="0.001"  stroke-miterlimit="10" x2="7.272"/>
+    <line gorn="0.46" id="connector15pin" stroke-width="1" stroke="#231F20" y1="116.272" y2="116.289" fill="none" x1="0.001"  stroke-miterlimit="10" x2="7.272"/>
+    <line gorn="0.47" id="connector0pin" stroke-width="1" stroke="#231F20" y1="15.439" y2="15.455" fill="none" x1="57.602"  stroke-miterlimit="10" x2="64.872"/>
+    <line gorn="0.48" id="connector1pin" stroke-width="1" stroke="#231F20" y1="22.655" y2="22.671" fill="none" x1="57.602"  stroke-miterlimit="10" x2="64.873"/>
+    <line gorn="0.49" id="connector2pin" stroke-width="1" stroke="#231F20" y1="29.855" y2="29.871" fill="none" x1="57.602"  stroke-miterlimit="10" x2="64.873"/>
+    <line gorn="0.50" id="connector3pin" stroke-width="1" stroke="#231F20" y1="37.024" y2="37.039" fill="none" x1="57.602"  stroke-miterlimit="10" x2="64.872"/>
+    <line gorn="0.51" id="connector4pin" stroke-width="1" stroke="#231F20" y1="44.24" y2="44.255" fill="none" x1="57.602"  stroke-miterlimit="10" x2="64.873"/>
+    <line gorn="0.52" id="connector5pin" stroke-width="1" stroke="#231F20" y1="51.439" y2="51.455" fill="none" x1="57.602"  stroke-miterlimit="10" x2="64.873"/>
+    <line gorn="0.53" id="connector6pin" stroke-width="1" stroke="#231F20" y1="58.64" y2="58.656" fill="none" x1="57.602"  stroke-miterlimit="10" x2="64.872"/>
+    <line gorn="0.54" id="connector7pin" stroke-width="1" stroke="#231F20" y1="65.855" y2="65.871" fill="none" x1="57.602"  stroke-miterlimit="10" x2="64.873"/>
+    <line gorn="0.55" id="connector8pin" stroke-width="1" stroke="#231F20" y1="73.057" y2="73.071" fill="none" x1="57.602"  stroke-miterlimit="10" x2="64.873"/>
+    <line gorn="0.56" id="connector9pin" stroke-width="1" stroke="#231F20" y1="80.226" y2="80.24" fill="none" x1="57.602"  stroke-miterlimit="10" x2="64.872"/>
+    <line gorn="0.57" id="connector10pin" stroke-width="1" stroke="#231F20" y1="87.44" y2="87.457" fill="none" x1="57.602"  stroke-miterlimit="10" x2="64.873"/>
+    <line gorn="0.58" id="connector11pin" stroke-width="1" stroke="#231F20" y1="94.642" y2="94.656" fill="none" x1="57.602"  stroke-miterlimit="10" x2="64.873"/>
+    <line gorn="0.59" id="connector12pin" stroke-width="1" stroke="#231F20" y1="101.91" y2="101.927" fill="none" x1="57.602"  stroke-miterlimit="10" x2="64.872"/>
+    <line gorn="0.60" id="connector13pin" stroke-width="1" stroke="#231F20" y1="109.127" y2="109.143" fill="none" x1="57.602"  stroke-miterlimit="10" x2="64.873"/>
+    <line gorn="0.61" id="connector14pin" stroke-width="1" stroke="#231F20" y1="116.326" y2="116.343" fill="none" x1="57.602"  stroke-miterlimit="10" x2="64.873"/>
+    <g  transform="matrix(1 0 0 1 23.9336 53.4004)">
+        <g >
+            <g >
+                <g >
+                    <g >
+                        <g >
+                            <g >
+                                <g >
+                                    <g >
+                                        <g >
+                                            <g >
+                                                <g >
+                                                    <g >
+                                                        <g >
+                                                            <text font-size="4.25" font-family="DroidSans" >NodeMCU </text>
+                                                        </g>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="matrix(1 0 0 1 29.5884 58.5)">
+        <g >
+            <g >
+                <g >
+                    <g >
+                        <g >
+                            <g >
+                                <g >
+                                    <g >
+                                        <g >
+                                            <g >
+                                                <g >
+                                                    <g >
+                                                        <g >
+                                                            <text font-size="4.25" font-family="DroidSans" >V1.0</text>
+                                                        </g>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

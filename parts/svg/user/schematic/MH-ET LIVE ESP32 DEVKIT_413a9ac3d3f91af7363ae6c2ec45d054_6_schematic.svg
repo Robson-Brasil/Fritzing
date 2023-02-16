@@ -1,0 +1,492 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<!-- Generator: Adobe Illustrator 15.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg xmlns="http://www.w3.org/2000/svg" y="0px" gorn="0" id="Layer_1" height="38.799999mm" xml:space="preserve" viewBox="0 0 59.338582 146.64565" width="15.7mm"  version="1.2" xmlns:xml="http://www.w3.org/XML/1998/namespace" x="0px">
+    <desc >
+        <referenceFile >mh-et-live-esp32-devkit-38pin_schematic.svg</referenceFile>
+    </desc>
+    <metadata id="metadata111" >
+        <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+            <cc:Work xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:cc="http://creativecommons.org/ns#" rdf:about="">
+                <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">image/svg+xml</dc:format>
+                <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/"/>
+                <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/"/>
+            </cc:Work>
+        </rdf:RDF>
+    </metadata>
+    <defs id="defs109" />
+    <g transform="translate(1.0380535,53.36975)" >
+        <g >
+            <g >
+                <g gorn="0.3.0.0.0" id="g42" />
+            </g>
+        </g>
+    </g>
+    <rect y="1.3899206" gorn="0.4" id="part_symbol" height="144.16382" fill="#ffffff" style="stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none" stroke-width="0.75998974" width="42.794495"  stroke="#000000" x="8.0795784"/>
+    <g transform="rotate(-89.674694,36.94743,43.639785)" >
+        <g >
+            <g >
+                <g aria-label="SIM800C " gorn="0.5.0.0.0" id="text101" style="font-size:6px;font-family:DroidSans" >
+                    <g transform="rotate(-0.32530582)" >
+                        <g >
+                            <g >
+                                <g fill-opacity="1" gorn="0.5.0.0.0.0.0.0.0" id="text18832" fill="#000000" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:1.25;font-family:DroidSans;-inkscape-font-specification:'DroidSans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;" font-size="5.68889"  xmlns:xml="http://www.w3.org/XML/1998/namespace" stroke="none">
+                                    <text y="38.283195" gorn="0.5.0.0.0.0.0.0.0.0" id="tspan18838"  x="10.346037">MH-ET LIVE ESP32 DEVKIT</text>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g transform="translate(0,0.50393744)" >
+        <g >
+            <g >
+                <g >
+                    <g transform="translate(-0.36072996,-7.7285469)" >
+                        <g >
+                            <g >
+                                <g gorn="0.6.0.0.0.0.0.0.0" id="g1036" >
+                                    <line y2="30.012268" gorn="0.6.0.0.0.0.0.0.0.0" id="connector47pin" fill="none" style="stroke-linecap:round;stroke-linejoin:round" x1="1.0380534" stroke-width="0.69999999" x2="8.2380552"  y1="30.012268" stroke="#555555"/>
+                                    <rect y="30.0116" gorn="0.6.0.0.0.0.0.0.0.1" id="connector47terminal" height="0.0014" fill="none" stroke-width="0" width="0.0158"  stroke="none" x="0.680153"/>
+                                    <line y2="22.812267" gorn="0.6.0.0.0.0.0.0.0.2" id="connector46pin" fill="none" style="stroke-linecap:round;stroke-linejoin:round" x1="1.0380534" stroke-width="0.69999999" x2="8.2380552"  y1="22.812267" stroke="#555555"/>
+                                    <rect y="22.8116" gorn="0.6.0.0.0.0.0.0.0.3" id="connector46terminal" height="0.0014" fill="none" stroke-width="0" width="0.0158"  stroke="none" x="0.680153"/>
+                                    <line y2="44.41227" gorn="0.6.0.0.0.0.0.0.0.4" id="connector49pin" fill="none" style="stroke-linecap:round;stroke-linejoin:round" x1="1.0380534" stroke-width="0.69999999" x2="8.2380552"  y1="44.41227" stroke="#555555"/>
+                                    <rect y="44.4116" gorn="0.6.0.0.0.0.0.0.0.5" id="connector49terminal" height="0.0014" fill="none" stroke-width="0" width="0.0158"  stroke="none" x="0.680153"/>
+                                    <line y2="37.212269" gorn="0.6.0.0.0.0.0.0.0.6" id="connector48pin" fill="none" style="stroke-linecap:round;stroke-linejoin:round" x1="1.0380534" stroke-width="0.69999999" x2="8.2380552"  y1="37.212269" stroke="#555555"/>
+                                    <rect y="37.2116" gorn="0.6.0.0.0.0.0.0.0.7" id="connector48terminal" height="0.0014" fill="none" stroke-width="0" width="0.0158"  stroke="none" x="0.680153"/>
+                                    <line y2="15.919342" gorn="0.6.0.0.0.0.0.0.0.8" id="connector45pin" fill="none" style="stroke-linecap:round;stroke-linejoin:round" x1="0.91112399" stroke-width="0.69999999" x2="8.1111231"  y1="15.919342" stroke="#555555"/>
+                                    <rect y="15.9186" gorn="0.6.0.0.0.0.0.0.0.9" id="connector45terminal" height="0.0014" fill="none" stroke-width="0" width="0.0158"  stroke="none" x="0.553224"/>
+                                    <line y2="51.66906" gorn="0.6.0.0.0.0.0.0.0.10" id="connector50pin" fill="none" style="stroke-linecap:round;stroke-linejoin:round" x1="0.92510986" stroke-width="0.69999999" x2="8.1251125"  y1="51.66906" stroke="#555555"/>
+                                    <rect y="51.6684" gorn="0.6.0.0.0.0.0.0.0.11" id="connector50terminal" height="0.0014" fill="none" stroke-width="0" width="0.0158"  stroke="none" x="0.56721"/>
+                                    <line y2="66.069031" gorn="0.6.0.0.0.0.0.0.0.12" id="connector52pin" fill="none" style="stroke-linecap:round;stroke-linejoin:round" x1="0.92510986" stroke-width="0.69999999" x2="8.1251125"  y1="66.069031" stroke="#555555"/>
+                                    <rect y="66.0683" gorn="0.6.0.0.0.0.0.0.0.13" id="connector52terminal" height="0.0014" fill="none" stroke-width="0" width="0.0158"  stroke="none" x="0.56721"/>
+                                    <line y2="58.869057" gorn="0.6.0.0.0.0.0.0.0.14" id="connector51pin" fill="none" style="stroke-linecap:round;stroke-linejoin:round" x1="0.92510986" stroke-width="0.69999999" x2="8.1251125"  y1="58.869057" stroke="#555555"/>
+                                    <rect y="58.8684" gorn="0.6.0.0.0.0.0.0.0.15" id="connector51terminal" height="0.0014" fill="none" stroke-width="0" width="0.0158"  stroke="none" x="0.56721"/>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                    <g transform="translate(-0.36072976,42.434001)" >
+                        <g >
+                            <g >
+                                <g gorn="0.6.0.0.0.1.0.0.0" id="g1036-4" >
+                                    <line y2="30.012268" gorn="0.6.0.0.0.1.0.0.0.0" id="connector54pin" fill="none" style="stroke-linecap:round;stroke-linejoin:round" x1="1.0380534" stroke-width="0.69999999" x2="8.2380552"  y1="30.012268" stroke="#555555"/>
+                                    <rect y="30.0116" gorn="0.6.0.0.0.1.0.0.0.1" id="connector54terminal" height="0.0014" fill="none" stroke-width="0" width="0.0158"  stroke="none" x="0.680153"/>
+                                    <line y2="22.812267" gorn="0.6.0.0.0.1.0.0.0.2" id="connector53pin" fill="none" style="stroke-linecap:round;stroke-linejoin:round" x1="1.0380534" stroke-width="0.69999999" x2="8.2380552"  y1="22.812267" stroke="#555555"/>
+                                    <rect y="22.8116" gorn="0.6.0.0.0.1.0.0.0.3" id="connector53terminal" height="0.0014" fill="none" stroke-width="0" width="0.0158"  stroke="none" x="0.680153"/>
+                                    <line y2="44.41227" gorn="0.6.0.0.0.1.0.0.0.4" id="connector56pin" fill="none" style="stroke-linecap:round;stroke-linejoin:round" x1="1.0380534" stroke-width="0.69999999" x2="8.2380552"  y1="44.41227" stroke="#555555"/>
+                                    <rect y="44.4116" gorn="0.6.0.0.0.1.0.0.0.5" id="connector56terminal" height="0.0014" fill="none" stroke-width="0" width="0.0158"  stroke="none" x="0.680153"/>
+                                    <line y2="37.212269" gorn="0.6.0.0.0.1.0.0.0.6" id="connector55pin" fill="none" style="stroke-linecap:round;stroke-linejoin:round" x1="1.0380534" stroke-width="0.69999999" x2="8.2380552"  y1="37.212269" stroke="#555555"/>
+                                    <line y2="51.66906" gorn="0.6.0.0.0.1.0.0.0.7" id="connector57pin" fill="none" style="stroke-linecap:round;stroke-linejoin:round" x1="0.92510986" stroke-width="0.69999999" x2="8.1251125"  y1="51.66906" stroke="#555555"/>
+                                    <rect y="51.6684" gorn="0.6.0.0.0.1.0.0.0.8" id="connector57terminal" height="0.0014" fill="none" stroke-width="0" width="0.0158"  stroke="none" x="0.56721"/>
+                                    <line y2="66.069031" gorn="0.6.0.0.0.1.0.0.0.9" id="connector59pin" fill="none" style="stroke-linecap:round;stroke-linejoin:round" x1="0.92510986" stroke-width="0.69999999" x2="8.1251125"  y1="66.069031" stroke="#555555"/>
+                                    <rect y="66.0683" gorn="0.6.0.0.0.1.0.0.0.10" id="connector59terminal" height="0.0014" fill="none" stroke-width="0" width="0.0158"  stroke="none" x="0.56721"/>
+                                    <line y2="58.869057" gorn="0.6.0.0.0.1.0.0.0.11" id="connector58pin" fill="none" style="stroke-linecap:round;stroke-linejoin:round" x1="0.92510986" stroke-width="0.69999999" x2="8.1251125"  y1="58.869057" stroke="#555555"/>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                    <g transform="translate(-0.47367329,85.690764)" >
+                        <g >
+                            <g >
+                                <g gorn="0.6.0.0.0.2.0.0.0" id="g1036-4-4" >
+                                    <line y2="30.012268" gorn="0.6.0.0.0.2.0.0.0.0" id="connector60pin" fill="none" style="stroke-linecap:round;stroke-linejoin:round" x1="1.0380534" stroke-width="0.69999999" x2="8.2380552"  y1="30.012268" stroke="#555555"/>
+                                    <rect y="30.0116" gorn="0.6.0.0.0.2.0.0.0.1" id="connector60terminal" height="0.0014" fill="none" stroke-width="0" width="0.0158"  stroke="none" x="0.680153"/>
+                                    <line y2="44.41227" gorn="0.6.0.0.0.2.0.0.0.2" id="connector62pin" fill="none" style="stroke-linecap:round;stroke-linejoin:round" x1="1.0380534" stroke-width="0.69999999" x2="8.2380552"  y1="44.41227" stroke="#555555"/>
+                                    <rect y="44.4116" gorn="0.6.0.0.0.2.0.0.0.3" id="connector62terminal" height="0.0014" fill="none" stroke-width="0" width="0.0158"  stroke="none" x="0.680153"/>
+                                    <line y2="37.212269" gorn="0.6.0.0.0.2.0.0.0.4" id="connector61pin" fill="none" style="stroke-linecap:round;stroke-linejoin:round" x1="1.0380534" stroke-width="0.69999999" x2="8.2380552"  y1="37.212269" stroke="#555555"/>
+                                    <rect y="37.2116" gorn="0.6.0.0.0.2.0.0.0.5" id="connector61terminal" height="0.0014" fill="none" stroke-width="0" width="0.0158"  stroke="none" x="0.680153"/>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g transform="translate(0.2193858,0.50393744)" >
+        <g >
+            <g >
+                <g gorn="0.7.0.0.0" id="g19039" >
+                    <g fill-opacity="1" gorn="0.7.0.0.0.0" id="text10673" fill="#000000" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:1.25;font-family:Droid Sans;-inkscape-font-specification:'Droid Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;" font-size="4.26667" stroke-width="1"  xmlns:xml="http://www.w3.org/XML/1998/namespace" stroke="none">
+                        <text y="138.8269" fill-opacity="1" gorn="0.7.0.0.0.0.0" id="tspan10671" fill="#000000" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Droid Sans;-inkscape-font-specification:'Droid Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;" font-size="4.26667" stroke-width="1"  x="9.7499237">5V</text>
+                    </g>
+                    <g fill-opacity="1" gorn="0.7.0.0.0.1" id="text10673-6" fill="#000000" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:1.25;font-family:Droid Sans;-inkscape-font-specification:'Droid Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;" font-size="4.26667" stroke-width="1"  xmlns:xml="http://www.w3.org/XML/1998/namespace" stroke="none">
+                        <text y="131.68095" fill-opacity="1" gorn="0.7.0.0.0.1.0" id="tspan10693" fill="#000000" stroke-width="1"  x="9.6854706">CMD</text>
+                    </g>
+                    <g fill-opacity="1" gorn="0.7.0.0.0.2" id="text10673-6-0" fill="#000000" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:1.25;font-family:Droid Sans;-inkscape-font-specification:'Droid Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;" font-size="4.26667" stroke-width="1"  xmlns:xml="http://www.w3.org/XML/1998/namespace" stroke="none">
+                        <text y="124.51449" fill-opacity="1" gorn="0.7.0.0.0.2.0" id="tspan10713" fill="#000000" stroke-width="1"  x="9.7342987">SD3</text>
+                    </g>
+                    <g fill-opacity="1" gorn="0.7.0.0.0.3" id="text10673-6-0-4" fill="#000000" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:1.25;font-family:Droid Sans;-inkscape-font-specification:'Droid Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;" font-size="4.26667" stroke-width="1"  xmlns:xml="http://www.w3.org/XML/1998/namespace" stroke="none">
+                        <text y="117.34803" fill-opacity="1" gorn="0.7.0.0.0.3.0" id="tspan10733" fill="#000000" stroke-width="1"  x="9.7342987">SD2</text>
+                    </g>
+                    <g transform="scale(0.92773527,1.0778937)" >
+                        <g >
+                            <g >
+                                <g fill-opacity="1" gorn="0.7.0.0.0.4.0.0.0" id="text10673-6-0-4-2" fill="#000000" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:1.25;font-family:Droid Sans;-inkscape-font-specification:'Droid Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;" font-size="3.95833" stroke-width="0.92773521"  xmlns:xml="http://www.w3.org/XML/1998/namespace" stroke="none">
+                                    <text y="102.22114" fill-opacity="1" gorn="0.7.0.0.0.4.0.0.0.0" id="tspan15299" fill="#000000" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Droid Sans;-inkscape-font-specification:'Droid Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;" font-size="3.95833" stroke-width="0.92773521"  x="10.570843">IO13</text>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                    <g transform="scale(0.92773527,1.0778937)" >
+                        <g >
+                            <g >
+                                <g fill-opacity="1" gorn="0.7.0.0.0.5.0.0.0" id="text10673-6-0-4-2-8" fill="#000000" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:1.25;font-family:Droid Sans;-inkscape-font-specification:'Droid Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;" font-size="3.95833" stroke-width="0.92773521"  xmlns:xml="http://www.w3.org/XML/1998/namespace" stroke="none">
+                                    <text y="95.570747" fill-opacity="1" gorn="0.7.0.0.0.5.0.0.0.0" id="tspan15319" fill="#000000" stroke-width="0.92773521"  x="10.474809">GND</text>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                    <g transform="scale(0.92773527,1.0778937)" >
+                        <g >
+                            <g >
+                                <g fill-opacity="1" gorn="0.7.0.0.0.6.0.0.0" id="text10673-6-0-4-2-8-7" fill="#000000" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:1.25;font-family:Droid Sans;-inkscape-font-specification:'Droid Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;" font-size="3.95833" stroke-width="0.92773521"  xmlns:xml="http://www.w3.org/XML/1998/namespace" stroke="none">
+                                    <text y="88.923988" fill-opacity="1" gorn="0.7.0.0.0.6.0.0.0.0" id="tspan15343" fill="#000000" stroke-width="0.92773521"  x="10.570843">IO12</text>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                    <g transform="scale(0.92773527,1.0778937)" >
+                        <g >
+                            <g >
+                                <g fill-opacity="1" gorn="0.7.0.0.0.7.0.0.0" id="text10673-6-0-4-2-8-7-8" fill="#000000" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:1.25;font-family:Droid Sans;-inkscape-font-specification:'Droid Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;" font-size="3.95833" stroke-width="0.92773521"  xmlns:xml="http://www.w3.org/XML/1998/namespace" stroke="none">
+                                    <text y="82.275406" fill-opacity="1" gorn="0.7.0.0.0.7.0.0.0.0" id="tspan15363" fill="#000000" stroke-width="0.92773521"  x="10.570843">IO14</text>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                    <g transform="scale(0.92773527,1.0778937)" >
+                        <g >
+                            <g >
+                                <g fill-opacity="1" gorn="0.7.0.0.0.8.0.0.0" id="text10673-6-0-4-2-8-7-8-4" fill="#000000" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:1.25;font-family:Droid Sans;-inkscape-font-specification:'Droid Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;" font-size="3.95833" stroke-width="0.92773521"  xmlns:xml="http://www.w3.org/XML/1998/namespace" stroke="none">
+                                    <text y="75.626831" fill-opacity="1" gorn="0.7.0.0.0.8.0.0.0.0" id="tspan15383" fill="#000000" stroke-width="0.92773521"  x="10.570843">IO27</text>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                    <g transform="scale(0.92773527,1.0778937)" >
+                        <g >
+                            <g >
+                                <g fill-opacity="1" gorn="0.7.0.0.0.9.0.0.0" id="text10673-6-0-4-2-8-7-8-4-6" fill="#000000" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:1.25;font-family:Droid Sans;-inkscape-font-specification:'Droid Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;" font-size="3.95833" stroke-width="0.92773521"  xmlns:xml="http://www.w3.org/XML/1998/namespace" stroke="none">
+                                    <text y="68.978256" fill-opacity="1" gorn="0.7.0.0.0.9.0.0.0.0" id="tspan15403" fill="#000000" stroke-width="0.92773521"  x="10.570843">IO26</text>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                    <g transform="scale(0.92773527,1.0778937)" >
+                        <g >
+                            <g >
+                                <g fill-opacity="1" gorn="0.7.0.0.0.10.0.0.0" id="text10673-6-0-4-2-8-7-8-4-6-1" fill="#000000" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:1.25;font-family:Droid Sans;-inkscape-font-specification:'Droid Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;" font-size="3.95833" stroke-width="0.92773521"  xmlns:xml="http://www.w3.org/XML/1998/namespace" stroke="none">
+                                    <text y="62.329678" fill-opacity="1" gorn="0.7.0.0.0.10.0.0.0.0" id="tspan15423" fill="#000000" stroke-width="0.92773521"  x="10.570843">IO25</text>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                    <g transform="scale(0.92773527,1.0778937)" >
+                        <g >
+                            <g >
+                                <g fill-opacity="1" gorn="0.7.0.0.0.11.0.0.0" id="text10673-6-0-4-2-8-7-8-4-6-1-6" fill="#000000" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:1.25;font-family:Droid Sans;-inkscape-font-specification:'Droid Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;" font-size="3.95833" stroke-width="0.92773521"  xmlns:xml="http://www.w3.org/XML/1998/namespace" stroke="none">
+                                    <text y="55.681095" fill-opacity="1" gorn="0.7.0.0.0.11.0.0.0.0" id="tspan15443" fill="#000000" stroke-width="0.92773521"  x="10.570843">IO33</text>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                    <g transform="scale(0.92773527,1.0778937)" >
+                        <g >
+                            <g >
+                                <g fill-opacity="1" gorn="0.7.0.0.0.12.0.0.0" id="text10673-6-0-4-2-8-7-8-4-6-1-6-2" fill="#000000" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:1.25;font-family:Droid Sans;-inkscape-font-specification:'Droid Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;" font-size="3.95833" stroke-width="0.92773521"  xmlns:xml="http://www.w3.org/XML/1998/namespace" stroke="none">
+                                    <text y="49.032516" fill-opacity="1" gorn="0.7.0.0.0.12.0.0.0.0" id="tspan15463" fill="#000000" stroke-width="0.92773521"  x="10.570843">IO32</text>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                    <g transform="scale(0.92773527,1.0778937)" >
+                        <g >
+                            <g >
+                                <g fill-opacity="1" gorn="0.7.0.0.0.13.0.0.0" id="text10673-6-0-4-2-8-7-8-4-6-1-6-2-2" fill="#000000" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:1.25;font-family:Droid Sans;-inkscape-font-specification:'Droid Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;" font-size="3.95833" stroke-width="0.92773521"  xmlns:xml="http://www.w3.org/XML/1998/namespace" stroke="none">
+                                    <text y="42.383942" fill-opacity="1" gorn="0.7.0.0.0.13.0.0.0.0" id="tspan15493" fill="#000000" stroke-width="0.92773521"  x="10.570843">IO35</text>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                    <g transform="scale(0.92773527,1.0778937)" >
+                        <g >
+                            <g >
+                                <g fill-opacity="1" gorn="0.7.0.0.0.14.0.0.0" id="text10673-6-0-4-2-8-7-8-4-6-1-6-2-2-0" fill="#000000" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:1.25;font-family:Droid Sans;-inkscape-font-specification:'Droid Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;" font-size="3.95833" stroke-width="0.92773521"  xmlns:xml="http://www.w3.org/XML/1998/namespace" stroke="none">
+                                    <text y="35.735359" fill-opacity="1" gorn="0.7.0.0.0.14.0.0.0.0" id="tspan15531" fill="#000000" stroke-width="0.92773521"  x="10.570843">IO34</text>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                    <g transform="scale(0.92773527,1.0778937)" >
+                        <g >
+                            <g >
+                                <g fill-opacity="1" gorn="0.7.0.0.0.15.0.0.0" id="text10673-6-0-4-2-8-7-8-4-6-1-6-2-2-0-6" fill="#000000" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:1.25;font-family:Droid Sans;-inkscape-font-specification:'Droid Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;" font-size="3.95833" stroke-width="0.92773521"  xmlns:xml="http://www.w3.org/XML/1998/namespace" stroke="none">
+                                    <text y="29.08497" fill-opacity="1" gorn="0.7.0.0.0.15.0.0.0.0" id="tspan15551" fill="#000000" stroke-width="0.92773521"  x="10.520107">SVN</text>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                    <g transform="scale(0.92773527,1.0778937)" >
+                        <g >
+                            <g >
+                                <g fill-opacity="1" gorn="0.7.0.0.0.16.0.0.0" id="text10673-6-0-4-2-8-7-8-4-6-1-6-2-2-0-6-9" fill="#000000" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:1.25;font-family:Droid Sans;-inkscape-font-specification:'Droid Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;" font-size="3.95833" stroke-width="0.92773521"  xmlns:xml="http://www.w3.org/XML/1998/namespace" stroke="none">
+                                    <text y="22.436398" fill-opacity="1" gorn="0.7.0.0.0.16.0.0.0.0" id="tspan15571" fill="#000000" stroke-width="0.92773521"  x="10.520107">SVP</text>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                    <g transform="scale(0.92773527,1.0778937)" >
+                        <g >
+                            <g >
+                                <g fill-opacity="1" gorn="0.7.0.0.0.17.0.0.0" id="text10673-6-0-4-2-8-7-8-4-6-1-6-2-2-0-6-9-1" fill="#000000" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:1.25;font-family:Droid Sans;-inkscape-font-specification:'Droid Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;" font-size="3.95833" stroke-width="0.92773521"  xmlns:xml="http://www.w3.org/XML/1998/namespace" stroke="none">
+                                    <text y="15.78782" fill-opacity="1" gorn="0.7.0.0.0.17.0.0.0.0" id="tspan15591" fill="#000000" stroke-width="0.92773521"  x="10.35703">RST</text>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                    <g transform="scale(0.92773527,1.0778937)" >
+                        <g >
+                            <g >
+                                <g fill-opacity="1" gorn="0.7.0.0.0.18.0.0.0" id="text10673-6-0-4-2-8-7-8-4-6-1-6-2-2-0-6-9-1-1" fill="#000000" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:1.25;font-family:Droid Sans;-inkscape-font-specification:'Droid Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;" font-size="3.95833" stroke-width="0.92773521"  xmlns:xml="http://www.w3.org/XML/1998/namespace" stroke="none">
+                                    <text y="9.1392431" fill-opacity="1" gorn="0.7.0.0.0.18.0.0.0.0" id="tspan15611" fill="#000000" stroke-width="0.92773521"  x="10.587151">3V3</text>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <line y2="137.80696" gorn="0.8" id="connector63pin" fill="none" style="stroke-linecap:round;stroke-linejoin:round" x1="0.56438011" stroke-width="0.69999999" x2="7.7643819"  y1="137.80696" stroke="#555555"/>
+    <rect y="137.806" gorn="0.9" id="connector63terminal" height="0.0014" fill="none" stroke-width="0" width="0.0158"  stroke="none" x="0.20648"/>
+    <g gorn="0.10" id="g19192" >
+        <g transform="translate(50.78279,0.65429744)" >
+            <g >
+                <g >
+                    <g gorn="0.10.0.0.0.0" id="g18750-1" >
+                        <g transform="translate(-0.36072996,-7.7285469)" >
+                            <g >
+                                <g >
+                                    <g gorn="0.10.0.0.0.0.0.0.0.0" id="g1036-1" >
+                                        <line y2="30.012268" gorn="0.10.0.0.0.0.0.0.0.0.0" id="connector66pin" fill="none" style="stroke-linecap:round;stroke-linejoin:round" x1="1.0380534" stroke-width="0.69999999" x2="8.2380552"  y1="30.012268" stroke="#555555"/>
+                                        <rect y="30.0116" gorn="0.10.0.0.0.0.0.0.0.0.1" id="connector66terminal" height="0.0014" fill="none" stroke-width="0" width="0.0158"  stroke="none" x="8.58016"/>
+                                        <line y2="22.812267" gorn="0.10.0.0.0.0.0.0.0.0.2" id="connector65pin" fill="none" style="stroke-linecap:round;stroke-linejoin:round" x1="1.0380534" stroke-width="0.69999999" x2="8.2380552"  y1="22.812267" stroke="#555555"/>
+                                        <rect y="22.8116" gorn="0.10.0.0.0.0.0.0.0.0.3" id="connector65terminal" height="0.0014" fill="none" stroke-width="0" width="0.0158"  stroke="none" x="8.58016"/>
+                                        <line y2="44.41227" gorn="0.10.0.0.0.0.0.0.0.0.4" id="connector68pin" fill="none" style="stroke-linecap:round;stroke-linejoin:round" x1="1.0380534" stroke-width="0.69999999" x2="8.2380552"  y1="44.41227" stroke="#555555"/>
+                                        <rect y="44.4116" gorn="0.10.0.0.0.0.0.0.0.0.5" id="connector68terminal" height="0.0014" fill="none" stroke-width="0" width="0.0158"  stroke="none" x="8.58016"/>
+                                        <line y2="37.212269" gorn="0.10.0.0.0.0.0.0.0.0.6" id="connector67pin" fill="none" style="stroke-linecap:round;stroke-linejoin:round" x1="1.0380534" stroke-width="0.69999999" x2="8.2380552"  y1="37.212269" stroke="#555555"/>
+                                        <rect y="37.2116" gorn="0.10.0.0.0.0.0.0.0.0.7" id="connector67terminal" height="0.0014" fill="none" stroke-width="0" width="0.0158"  stroke="none" x="8.58016"/>
+                                        <line y2="15.919342" gorn="0.10.0.0.0.0.0.0.0.0.8" id="connector64pin" fill="none" style="stroke-linecap:round;stroke-linejoin:round" x1="0.91112399" stroke-width="0.69999999" x2="8.1111231"  y1="15.919342" stroke="#555555"/>
+                                        <rect y="15.9186" gorn="0.10.0.0.0.0.0.0.0.0.9" id="connector64terminal" height="0.0014" fill="none" stroke-width="0" width="0.0158"  stroke="none" x="8.45322"/>
+                                        <line y2="51.66906" gorn="0.10.0.0.0.0.0.0.0.0.10" id="connector69pin" fill="none" style="stroke-linecap:round;stroke-linejoin:round" x1="0.92510986" stroke-width="0.69999999" x2="8.1251125"  y1="51.66906" stroke="#555555"/>
+                                        <rect y="51.6684" gorn="0.10.0.0.0.0.0.0.0.0.11" id="connector69terminal" height="0.0014" fill="none" stroke-width="0" width="0.0158"  stroke="none" x="8.46721"/>
+                                        <line y2="66.069031" gorn="0.10.0.0.0.0.0.0.0.0.12" id="connector71pin" fill="none" style="stroke-linecap:round;stroke-linejoin:round" x1="0.92510986" stroke-width="0.69999999" x2="8.1251125"  y1="66.069031" stroke="#555555"/>
+                                        <rect y="66.0683" gorn="0.10.0.0.0.0.0.0.0.0.13" id="connector71terminal" height="0.0014" fill="none" stroke-width="0" width="0.0158"  stroke="none" x="8.46721"/>
+                                        <line y2="58.869057" gorn="0.10.0.0.0.0.0.0.0.0.14" id="connector70pin" fill="none" style="stroke-linecap:round;stroke-linejoin:round" x1="0.92510986" stroke-width="0.69999999" x2="8.1251125"  y1="58.869057" stroke="#555555"/>
+                                        <rect y="58.8684" gorn="0.10.0.0.0.0.0.0.0.0.15" id="connector70terminal" height="0.0014" fill="none" stroke-width="0" width="0.0158"  stroke="none" x="8.46721"/>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                        <g transform="translate(-0.36072976,42.434001)" >
+                            <g >
+                                <g >
+                                    <g gorn="0.10.0.0.0.0.1.0.0.0" id="g1036-4-5" >
+                                        <line y2="30.012268" gorn="0.10.0.0.0.0.1.0.0.0.0" id="connector73pin" fill="none" style="stroke-linecap:round;stroke-linejoin:round" x1="1.0380534" stroke-width="0.69999999" x2="8.2380552"  y1="30.012268" stroke="#555555"/>
+                                        <rect y="30.0116" gorn="0.10.0.0.0.0.1.0.0.0.1" id="connector73terminal" height="0.0014" fill="none" stroke-width="0" width="0.0158"  stroke="none" x="8.58016"/>
+                                        <line y2="22.812267" gorn="0.10.0.0.0.0.1.0.0.0.2" id="connector72pin" fill="none" style="stroke-linecap:round;stroke-linejoin:round" x1="1.0380534" stroke-width="0.69999999" x2="8.2380552"  y1="22.812267" stroke="#555555"/>
+                                        <rect y="22.8116" gorn="0.10.0.0.0.0.1.0.0.0.3" id="connector72terminal" height="0.0014" fill="none" stroke-width="0" width="0.0158"  stroke="none" x="8.58016"/>
+                                        <line y2="44.41227" gorn="0.10.0.0.0.0.1.0.0.0.4" id="connector75pin" fill="none" style="stroke-linecap:round;stroke-linejoin:round" x1="1.0380534" stroke-width="0.69999999" x2="8.2380552"  y1="44.41227" stroke="#555555"/>
+                                        <rect y="44.4116" gorn="0.10.0.0.0.0.1.0.0.0.5" id="connector75terminal" height="0.0014" fill="none" stroke-width="0" width="0.0158"  stroke="none" x="8.58016"/>
+                                        <line y2="37.212269" gorn="0.10.0.0.0.0.1.0.0.0.6" id="connector74pin" fill="none" style="stroke-linecap:round;stroke-linejoin:round" x1="1.0380534" stroke-width="0.69999999" x2="8.2380552"  y1="37.212269" stroke="#555555"/>
+                                        <rect y="37.2116" gorn="0.10.0.0.0.0.1.0.0.0.7" id="connector74terminal" height="0.0014" fill="none" stroke-width="0" width="0.0158"  stroke="none" x="8.58016"/>
+                                        <line y2="51.66906" gorn="0.10.0.0.0.0.1.0.0.0.8" id="connector76pin" fill="none" style="stroke-linecap:round;stroke-linejoin:round" x1="0.92510986" stroke-width="0.69999999" x2="8.1251125"  y1="51.66906" stroke="#555555"/>
+                                        <rect y="51.6684" gorn="0.10.0.0.0.0.1.0.0.0.9" id="connector76terminal" height="0.0014" fill="none" stroke-width="0" width="0.0158"  stroke="none" x="8.46721"/>
+                                        <line y2="66.069031" gorn="0.10.0.0.0.0.1.0.0.0.10" id="connector78pin" fill="none" style="stroke-linecap:round;stroke-linejoin:round" x1="0.92510986" stroke-width="0.69999999" x2="8.1251125"  y1="66.069031" stroke="#555555"/>
+                                        <rect y="66.0683" gorn="0.10.0.0.0.0.1.0.0.0.11" id="connector78terminal" height="0.0014" fill="none" stroke-width="0" width="0.0158"  stroke="none" x="8.46721"/>
+                                        <line y2="58.869057" gorn="0.10.0.0.0.0.1.0.0.0.12" id="connector77pin" fill="none" style="stroke-linecap:round;stroke-linejoin:round" x1="0.92510986" stroke-width="0.69999999" x2="8.1251125"  y1="58.869057" stroke="#555555"/>
+                                        <rect y="58.8684" gorn="0.10.0.0.0.0.1.0.0.0.13" id="connector77terminal" height="0.0014" fill="none" stroke-width="0" width="0.0158"  stroke="none" x="8.46721"/>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                        <g transform="translate(-0.47367329,85.690764)" >
+                            <g >
+                                <g >
+                                    <g gorn="0.10.0.0.0.0.2.0.0.0" id="g1036-4-4-7" >
+                                        <line y2="30.012268" gorn="0.10.0.0.0.0.2.0.0.0.0" id="connector79pin" fill="none" style="stroke-linecap:round;stroke-linejoin:round" x1="1.0380534" stroke-width="0.69999999" x2="8.2380552"  y1="30.012268" stroke="#555555"/>
+                                        <rect y="30.0116" gorn="0.10.0.0.0.0.2.0.0.0.1" id="connector79terminal" height="0.0014" fill="none" stroke-width="0" width="0.0158"  stroke="none" x="8.58016"/>
+                                        <line y2="44.41227" gorn="0.10.0.0.0.0.2.0.0.0.2" id="connector81pin" fill="none" style="stroke-linecap:round;stroke-linejoin:round" x1="1.0380534" stroke-width="0.69999999" x2="8.2380552"  y1="44.41227" stroke="#555555"/>
+                                        <rect y="44.4116" gorn="0.10.0.0.0.0.2.0.0.0.3" id="connector81terminal" height="0.0014" fill="none" stroke-width="0" width="0.0158"  stroke="none" x="8.58016"/>
+                                        <line y2="37.212269" gorn="0.10.0.0.0.0.2.0.0.0.4" id="connector80pin" fill="none" style="stroke-linecap:round;stroke-linejoin:round" x1="1.0380534" stroke-width="0.69999999" x2="8.2380552"  y1="37.212269" stroke="#555555"/>
+                                        <rect y="37.2116" gorn="0.10.0.0.0.0.2.0.0.0.5" id="connector80terminal" height="0.0014" fill="none" stroke-width="0" width="0.0158"  stroke="none" x="8.58016"/>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+        <line y2="137.76982" gorn="0.10.1" id="connector82pin" fill="none" style="stroke-linecap:round;stroke-linejoin:round" x1="51.359718" stroke-width="0.69999999" x2="58.559719"  y1="137.76982" stroke="#555555"/>
+        <rect y="137.769" gorn="0.10.2" id="connector82terminal" height="0.0014" fill="none" stroke-width="0" width="0.0158"  stroke="none" x="58.9018"/>
+    </g>
+    <g transform="translate(-1.1224567)" >
+        <g >
+            <g >
+                <g gorn="0.11.0.0.0" id="g19232" >
+                    <g fill-opacity="1" gorn="0.11.0.0.0.0" id="text10673-5" fill="#000000" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:1.25;font-family:Droid Sans;-inkscape-font-specification:'Droid Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;" font-size="4.26667" stroke-width="1"  xmlns:xml="http://www.w3.org/XML/1998/namespace" stroke="none">
+                        <text y="139.24744" fill-opacity="1" gorn="0.11.0.0.0.0.0" id="tspan15868" fill="#000000" stroke-width="1"  x="42.498657">SCK</text>
+                    </g>
+                    <g fill-opacity="1" gorn="0.11.0.0.0.1" id="text10673-6-7" fill="#000000" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:1.25;font-family:Droid Sans;-inkscape-font-specification:'Droid Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;" font-size="4.26667" stroke-width="1"  xmlns:xml="http://www.w3.org/XML/1998/namespace" stroke="none">
+                        <text y="132.06294" fill-opacity="1" gorn="0.11.0.0.0.1.0" id="tspan15870" fill="#000000" stroke-width="1"  x="42.695923">SD0</text>
+                    </g>
+                    <g fill-opacity="1" gorn="0.11.0.0.0.2" id="text10673-6-0-2" fill="#000000" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:1.25;font-family:Droid Sans;-inkscape-font-specification:'Droid Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;" font-size="4.26667" stroke-width="1"  xmlns:xml="http://www.w3.org/XML/1998/namespace" stroke="none">
+                        <text y="124.87455" fill-opacity="1" gorn="0.11.0.0.0.2.0" id="tspan17699" fill="#000000" stroke-width="1"  x="43.180298">SD1</text>
+                    </g>
+                    <g fill-opacity="1" gorn="0.11.0.0.0.3" id="text10673-6-0-4-7" fill="#000000" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:1.25;font-family:Droid Sans;-inkscape-font-specification:'Droid Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;" font-size="4.26667" stroke-width="1"  xmlns:xml="http://www.w3.org/XML/1998/namespace" stroke="none">
+                        <text y="117.69006" fill-opacity="1" gorn="0.11.0.0.0.3.0" id="tspan15872" fill="#000000" stroke-width="1"  x="40.897095">IO15</text>
+                    </g>
+                    <g transform="scale(0.92773527,1.0778937)" >
+                        <g >
+                            <g >
+                                <g fill-opacity="1" gorn="0.11.0.0.0.4.0.0.0" id="text10673-6-0-4-2-7" fill="#000000" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:1.25;font-family:Droid Sans;-inkscape-font-specification:'Droid Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;" font-size="3.95833" stroke-width="0.92773521"  xmlns:xml="http://www.w3.org/XML/1998/namespace" stroke="none">
+                                    <text y="102.5181" fill-opacity="1" gorn="0.11.0.0.0.4.0.0.0.0" id="tspan15874" fill="#000000" stroke-width="0.92773521"  x="47.40659">IO2</text>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                    <g transform="scale(0.92773527,1.0778937)" >
+                        <g >
+                            <g >
+                                <g fill-opacity="1" gorn="0.11.0.0.0.5.0.0.0" id="text10673-6-0-4-2-8-9" fill="#000000" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:1.25;font-family:Droid Sans;-inkscape-font-specification:'Droid Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;" font-size="3.95833" stroke-width="0.92773521"  xmlns:xml="http://www.w3.org/XML/1998/namespace" stroke="none">
+                                    <text y="95.85099" fill-opacity="1" gorn="0.11.0.0.0.5.0.0.0.0" id="tspan15876" fill="#000000" stroke-width="0.92773521"  x="47.402966">IO0</text>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                    <g transform="scale(0.92773527,1.0778937)" >
+                        <g >
+                            <g >
+                                <g fill-opacity="1" gorn="0.11.0.0.0.6.0.0.0" id="text10673-6-0-4-2-8-7-6" fill="#000000" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:1.25;font-family:Droid Sans;-inkscape-font-specification:'Droid Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;" font-size="3.95833" stroke-width="0.92773521"  xmlns:xml="http://www.w3.org/XML/1998/namespace" stroke="none">
+                                    <text y="89.183876" fill-opacity="1" gorn="0.11.0.0.0.6.0.0.0.0" id="tspan15878" fill="#000000" stroke-width="0.92773521"  x="47.366726">IO4</text>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                    <g transform="scale(0.92773527,1.0778937)" >
+                        <g >
+                            <g >
+                                <g fill-opacity="1" gorn="0.11.0.0.0.7.0.0.0" id="text10673-6-0-4-2-8-7-8-9" fill="#000000" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:1.25;font-family:Droid Sans;-inkscape-font-specification:'Droid Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;" font-size="3.95833" stroke-width="0.92773521"  xmlns:xml="http://www.w3.org/XML/1998/namespace" stroke="none">
+                                    <text y="82.516762" fill-opacity="1" gorn="0.11.0.0.0.7.0.0.0.0" id="tspan15880" fill="#000000" stroke-width="0.92773521"  x="45.355431">IO16</text>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                    <g transform="scale(0.92773527,1.0778937)" >
+                        <g >
+                            <g >
+                                <g fill-opacity="1" gorn="0.11.0.0.0.8.0.0.0" id="text10673-6-0-4-2-8-7-8-4-65" fill="#000000" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:1.25;font-family:Droid Sans;-inkscape-font-specification:'Droid Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;" font-size="3.95833" stroke-width="0.92773521"  xmlns:xml="http://www.w3.org/XML/1998/namespace" stroke="none">
+                                    <text y="75.84964" fill-opacity="1" gorn="0.11.0.0.0.8.0.0.0.0" id="tspan15882" fill="#000000" stroke-width="0.92773521"  x="45.362679">IO17</text>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                    <g transform="scale(0.92773527,1.0778937)" >
+                        <g >
+                            <g >
+                                <g fill-opacity="1" gorn="0.11.0.0.0.9.0.0.0" id="text10673-6-0-4-2-8-7-8-4-6-3" fill="#000000" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:1.25;font-family:Droid Sans;-inkscape-font-specification:'Droid Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;" font-size="3.95833" stroke-width="0.92773521"  xmlns:xml="http://www.w3.org/XML/1998/namespace" stroke="none">
+                                    <text y="69.182526" fill-opacity="1" gorn="0.11.0.0.0.9.0.0.0.0" id="tspan15884" fill="#000000" stroke-width="0.92773521"  x="47.444641">IO5</text>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                    <g transform="scale(0.92773527,1.0778937)" >
+                        <g >
+                            <g >
+                                <g fill-opacity="1" gorn="0.11.0.0.0.10.0.0.0" id="text10673-6-0-4-2-8-7-8-4-6-1-3" fill="#000000" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:1.25;font-family:Droid Sans;-inkscape-font-specification:'Droid Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;" font-size="3.95833" stroke-width="0.92773521"  xmlns:xml="http://www.w3.org/XML/1998/namespace" stroke="none">
+                                    <text y="62.515419" fill-opacity="1" gorn="0.11.0.0.0.10.0.0.0.0" id="tspan15888" fill="#000000" stroke-width="0.92773521"  x="45.37355">IO18</text>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                    <g transform="scale(0.92773527,1.0778937)" >
+                        <g >
+                            <g >
+                                <g fill-opacity="1" gorn="0.11.0.0.0.11.0.0.0" id="text10673-6-0-4-2-8-7-8-4-6-1-6-9" fill="#000000" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:1.25;font-family:Droid Sans;-inkscape-font-specification:'Droid Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;" font-size="3.95833" stroke-width="0.92773521"  xmlns:xml="http://www.w3.org/XML/1998/namespace" stroke="none">
+                                    <text y="55.848305" fill-opacity="1" gorn="0.11.0.0.0.11.0.0.0.0" id="tspan15890" fill="#000000" stroke-width="0.92773521"  x="45.377174">IO19</text>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                    <g transform="scale(0.92773527,1.0778937)" >
+                        <g >
+                            <g >
+                                <g fill-opacity="1" gorn="0.11.0.0.0.12.0.0.0" id="text10673-6-0-4-2-8-7-8-4-6-1-6-2-9" fill="#000000" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:1.25;font-family:Droid Sans;-inkscape-font-specification:'Droid Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;" font-size="3.95833" stroke-width="0.92773521"  xmlns:xml="http://www.w3.org/XML/1998/namespace" stroke="none">
+                                    <text y="49.179367" fill-opacity="1" gorn="0.11.0.0.0.12.0.0.0.0" id="tspan15892" fill="#000000" stroke-width="0.92773521"  x="45.56562">GND</text>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                    <g transform="scale(0.92773527,1.0778937)" >
+                        <g >
+                            <g >
+                                <g fill-opacity="1" gorn="0.11.0.0.0.13.0.0.0" id="text10673-6-0-4-2-8-7-8-4-6-1-6-2-2-5" fill="#000000" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:1.25;font-family:Droid Sans;-inkscape-font-specification:'Droid Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;" font-size="3.95833" stroke-width="0.92773521"  xmlns:xml="http://www.w3.org/XML/1998/namespace" stroke="none">
+                                    <text y="42.514065" fill-opacity="1" gorn="0.11.0.0.0.13.0.0.0.0" id="tspan15894" fill="#000000" stroke-width="0.92773521"  x="45.808426">IO21</text>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                    <g transform="scale(0.92773527,1.0778937)" >
+                        <g >
+                            <g >
+                                <g fill-opacity="1" gorn="0.11.0.0.0.14.0.0.0" id="text10673-6-0-4-2-8-7-8-4-6-1-6-2-2-0-7" fill="#000000" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:1.25;font-family:Droid Sans;-inkscape-font-specification:'Droid Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;" font-size="3.95833" stroke-width="0.92773521"  xmlns:xml="http://www.w3.org/XML/1998/namespace" stroke="none">
+                                    <text y="35.844234" fill-opacity="1" gorn="0.11.0.0.0.14.0.0.0.0" id="tspan15896" fill="#000000" stroke-width="0.92773521"  x="46.493355">RXD</text>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                    <g transform="scale(0.92773527,1.0778937)" >
+                        <g >
+                            <g >
+                                <g fill-opacity="1" gorn="0.11.0.0.0.15.0.0.0" id="text10673-6-0-4-2-8-7-8-4-6-1-6-2-2-0-6-1" fill="#000000" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:1.25;font-family:Droid Sans;-inkscape-font-specification:'Droid Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;" font-size="3.95833" stroke-width="0.92773521"  xmlns:xml="http://www.w3.org/XML/1998/namespace" stroke="none">
+                                    <text y="29.177118" fill-opacity="1" gorn="0.11.0.0.0.15.0.0.0.0" id="tspan15898" fill="#000000" stroke-width="0.92773521"  x="46.797764">TXD</text>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                    <g transform="scale(0.92773527,1.0778937)" >
+                        <g >
+                            <g >
+                                <g fill-opacity="1" gorn="0.11.0.0.0.16.0.0.0" id="text10673-6-0-4-2-8-7-8-4-6-1-6-2-2-0-6-9-5" fill="#000000" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:1.25;font-family:Droid Sans;-inkscape-font-specification:'Droid Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;" font-size="3.95833" stroke-width="0.92773521"  xmlns:xml="http://www.w3.org/XML/1998/namespace" stroke="none">
+                                    <text y="22.512726" fill-opacity="1" gorn="0.11.0.0.0.16.0.0.0.0" id="tspan15900" fill="#000000" stroke-width="0.92773521"  x="45.362679">IO22</text>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                    <g transform="scale(0.92773527,1.0778937)" >
+                        <g >
+                            <g >
+                                <g fill-opacity="1" gorn="0.11.0.0.0.17.0.0.0" id="text10673-6-0-4-2-8-7-8-4-6-1-6-2-2-0-6-9-1-8" fill="#000000" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:1.25;font-family:Droid Sans;-inkscape-font-specification:'Droid Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;" font-size="3.95833" stroke-width="0.92773521"  xmlns:xml="http://www.w3.org/XML/1998/namespace" stroke="none">
+                                    <text y="15.845608" fill-opacity="1" gorn="0.11.0.0.0.17.0.0.0.0" id="tspan15902" fill="#000000" stroke-width="0.92773521"  x="45.388046">IO23</text>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                    <g transform="scale(0.92773527,1.0778937)" >
+                        <g >
+                            <g >
+                                <g fill-opacity="1" gorn="0.11.0.0.0.18.0.0.0" id="text10673-6-0-4-2-8-7-8-4-6-1-6-2-2-0-6-9-1-1-0" fill="#000000" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:1.25;font-family:Droid Sans;-inkscape-font-specification:'Droid Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;" font-size="3.95833" stroke-width="0.92773521"  xmlns:xml="http://www.w3.org/XML/1998/namespace" stroke="none">
+                                    <text y="9.1766787" fill-opacity="1" gorn="0.11.0.0.0.18.0.0.0.0" id="tspan15904" fill="#000000" stroke-width="0.92773521"  x="45.56562">GND</text>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

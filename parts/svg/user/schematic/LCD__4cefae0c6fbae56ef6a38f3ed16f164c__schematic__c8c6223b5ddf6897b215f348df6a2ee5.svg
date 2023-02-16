@@ -1,0 +1,471 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.2"
+   width="455.67603"
+   height="194.90135"
+   viewBox="1.75 0.067 455.67604 194.90135"
+   id="Schematic"
+   xml:space="preserve"><defs
+   id="defs221">
+	
+	
+	
+	
+	
+	
+	
+	
+		
+	
+	
+	
+
+		
+		
+	
+			
+				
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</defs>
+<text
+   x="181.74539"
+   y="4.0029187"
+   transform="matrix(-4.371139e-8,1,-1,-4.371139e-8,0,0)"
+   id="text29"
+   style="font-size:7px;font-family:DroidSans" />
+
+
+<g
+   transform="translate(-2.5033951e-6,1.8509557e-6)"
+   id="schematic"><text
+     x="153.32094"
+     y="23.868185"
+     id="text5"
+     style="font-size:18px;font-family:DroidSans">LCD  DISPLAY 16X2</text>
+<text
+     x="-167.61444"
+     y="34.547562"
+     transform="matrix(0,-1,1,0,0,0)"
+     id="text7"
+     style="font-size:10px;font-family:DroidSans">GND</text>
+<rect
+     width="451.77167"
+     height="170.698"
+     x="3.7021954"
+     y="2.0191879"
+     id="rect135"
+     style="fill:none;stroke:#000000;stroke-width:3.90438581;stroke-linecap:round;stroke-linejoin:round" /><text
+     x="-165.37878"
+     y="60.581665"
+     transform="matrix(0,-1,1,0,0,0)"
+     id="text7-7"
+     style="font-size:10px;font-family:DroidSans">VCC</text>
+<text
+     x="-164.84872"
+     y="87.36631"
+     transform="matrix(0,-1,1,0,0,0)"
+     id="text7-7-9"
+     style="font-size:10px;font-family:DroidSans">CON</text>
+<text
+     x="-165.33766"
+     y="113.37858"
+     transform="matrix(0,-1,1,0,0,0)"
+     id="text7-7-2"
+     style="font-size:10px;font-family:DroidSans">RS</text>
+<text
+     x="-165.72884"
+     y="140.52586"
+     transform="matrix(0,-1,1,0,0,0)"
+     id="text7-7-99"
+     style="font-size:10px;font-family:DroidSans">R/W</text>
+<text
+     x="-164.75093"
+     y="166.96774"
+     transform="matrix(0,-1,1,0,0,0)"
+     id="text7-7-0"
+     style="font-size:10px;font-family:DroidSans">E</text>
+<text
+     x="-164.56589"
+     y="193.78102"
+     transform="matrix(0,-1,1,0,0,0)"
+     id="text7-7-8"
+     style="font-size:10px;font-family:DroidSans">D0</text>
+<text
+     x="-164.49867"
+     y="220.36136"
+     transform="matrix(0,-1,1,0,0,0)"
+     id="text7-7-5"
+     style="font-size:10px;font-family:DroidSans">D1</text>
+<text
+     x="-164.84872"
+     y="246.37363"
+     transform="matrix(0,-1,1,0,0,0)"
+     id="text7-7-27"
+     style="font-size:10px;font-family:DroidSans">D2</text>
+<text
+     x="-164.45757"
+     y="272.77704"
+     transform="matrix(0,-1,1,0,0,0)"
+     id="text7-7-999"
+     style="font-size:10px;font-family:DroidSans">D3</text>
+<text
+     x="-163.96861"
+     y="299.08267"
+     transform="matrix(0,-1,1,0,0,0)"
+     id="text7-7-7"
+     style="font-size:10px;font-family:DroidSans">D4</text>
+<text
+     x="-164.00972"
+     y="326.5618"
+     transform="matrix(0,-1,1,0,0,0)"
+     id="text7-7-3"
+     style="font-size:10px;font-family:DroidSans">D5</text>
+<text
+     x="-163.71634"
+     y="353.16083"
+     transform="matrix(0,-1,1,0,0,0)"
+     id="text7-7-58"
+     style="font-size:10px;font-family:DroidSans">D6</text>
+<text
+     x="-163.71634"
+     y="379.56427"
+     transform="matrix(0,-1,1,0,0,0)"
+     id="text7-7-71"
+     style="font-size:10px;font-family:DroidSans">D7</text>
+<text
+     x="-163.52077"
+     y="406.06546"
+     transform="matrix(0,-1,1,0,0,0)"
+     id="text7-7-4"
+     style="font-size:10px;font-family:DroidSans">BL+</text>
+<text
+     x="-163.61856"
+     y="432.66449"
+     transform="matrix(0,-1,1,0,0,0)"
+     id="text7-7-04"
+     style="font-size:10px;font-family:DroidSans">BL-</text>
+<g
+     transform="translate(216.36834,103.01426)"
+     id="g4407"><rect
+       width="24.340202"
+       height="36.5103"
+       x="-204.07108"
+       y="-69.63623"
+       id="rect3485"
+       style="fill:#000000;fill-opacity:1;stroke:none" /><rect
+       width="24.340202"
+       height="36.5103"
+       x="-176.7442"
+       y="-69.63623"
+       id="rect3485-6"
+       style="fill:#000000;fill-opacity:1;stroke:none" /><rect
+       width="24.340202"
+       height="36.5103"
+       x="96.524574"
+       y="-69.63623"
+       id="rect3485-3"
+       style="fill:#000000;fill-opacity:1;stroke:none" /><rect
+       width="24.340202"
+       height="36.5103"
+       x="41.870808"
+       y="-69.63623"
+       id="rect3485-69"
+       style="fill:#000000;fill-opacity:1;stroke:none" /><rect
+       width="24.340202"
+       height="36.5103"
+       x="123.85145"
+       y="-69.63623"
+       id="rect3485-1"
+       style="fill:#000000;fill-opacity:1;stroke:none" /><rect
+       width="24.340202"
+       height="36.5103"
+       x="151.17831"
+       y="-69.63623"
+       id="rect3485-7"
+       style="fill:#000000;fill-opacity:1;stroke:none" /><rect
+       width="24.340202"
+       height="36.5103"
+       x="178.5052"
+       y="-69.63623"
+       id="rect3485-8"
+       style="fill:#000000;fill-opacity:1;stroke:none" /><rect
+       width="24.340202"
+       height="36.5103"
+       x="-149.41733"
+       y="-69.63623"
+       id="rect3485-15"
+       style="fill:#000000;fill-opacity:1;stroke:none" /><rect
+       width="24.340202"
+       height="36.5103"
+       x="-12.78294"
+       y="-69.63623"
+       id="rect3485-4"
+       style="fill:#000000;fill-opacity:1;stroke:none" /><rect
+       width="24.340202"
+       height="36.5103"
+       x="205.83208"
+       y="-69.63623"
+       id="rect3485-5"
+       style="fill:#000000;fill-opacity:1;stroke:none" /><rect
+       width="24.340202"
+       height="36.5103"
+       x="-40.109814"
+       y="-69.63623"
+       id="rect3485-54"
+       style="fill:#000000;fill-opacity:1;stroke:none" /><rect
+       width="24.340202"
+       height="36.5103"
+       x="14.543934"
+       y="-69.63623"
+       id="rect3485-75"
+       style="fill:#000000;fill-opacity:1;stroke:none" /><rect
+       width="24.340202"
+       height="36.5103"
+       x="-67.436684"
+       y="-69.63623"
+       id="rect3485-41"
+       style="fill:#000000;fill-opacity:1;stroke:none" /><rect
+       width="24.340202"
+       height="36.5103"
+       x="69.197701"
+       y="-69.63623"
+       id="rect3485-35"
+       style="fill:#000000;fill-opacity:1;stroke:none" /><rect
+       width="24.340202"
+       height="36.5103"
+       x="-94.763573"
+       y="-69.63623"
+       id="rect3485-66"
+       style="fill:#000000;fill-opacity:1;stroke:none" /><rect
+       width="24.340202"
+       height="36.5103"
+       x="-122.09045"
+       y="-69.63623"
+       id="rect3485-84"
+       style="fill:#000000;fill-opacity:1;stroke:none" /></g><g
+     transform="translate(216.36834,146.16453)"
+     id="g4407-1"><rect
+       width="24.340202"
+       height="36.5103"
+       x="-204.07108"
+       y="-69.63623"
+       id="rect3485-71"
+       style="fill:#000000;fill-opacity:1;stroke:none" /><rect
+       width="24.340202"
+       height="36.5103"
+       x="-176.7442"
+       y="-69.63623"
+       id="rect3485-6-8"
+       style="fill:#000000;fill-opacity:1;stroke:none" /><rect
+       width="24.340202"
+       height="36.5103"
+       x="96.524574"
+       y="-69.63623"
+       id="rect3485-3-7"
+       style="fill:#000000;fill-opacity:1;stroke:none" /><rect
+       width="24.340202"
+       height="36.5103"
+       x="41.870808"
+       y="-69.63623"
+       id="rect3485-69-8"
+       style="fill:#000000;fill-opacity:1;stroke:none" /><rect
+       width="24.340202"
+       height="36.5103"
+       x="123.85145"
+       y="-69.63623"
+       id="rect3485-1-7"
+       style="fill:#000000;fill-opacity:1;stroke:none" /><rect
+       width="24.340202"
+       height="36.5103"
+       x="151.17831"
+       y="-69.63623"
+       id="rect3485-7-7"
+       style="fill:#000000;fill-opacity:1;stroke:none" /><rect
+       width="24.340202"
+       height="36.5103"
+       x="178.5052"
+       y="-69.63623"
+       id="rect3485-8-4"
+       style="fill:#000000;fill-opacity:1;stroke:none" /><rect
+       width="24.340202"
+       height="36.5103"
+       x="-149.41733"
+       y="-69.63623"
+       id="rect3485-15-4"
+       style="fill:#000000;fill-opacity:1;stroke:none" /><rect
+       width="24.340202"
+       height="36.5103"
+       x="-12.78294"
+       y="-69.63623"
+       id="rect3485-4-9"
+       style="fill:#000000;fill-opacity:1;stroke:none" /><rect
+       width="24.340202"
+       height="36.5103"
+       x="205.83208"
+       y="-69.63623"
+       id="rect3485-5-1"
+       style="fill:#000000;fill-opacity:1;stroke:none" /><rect
+       width="24.340202"
+       height="36.5103"
+       x="-40.109814"
+       y="-69.63623"
+       id="rect3485-54-5"
+       style="fill:#000000;fill-opacity:1;stroke:none" /><rect
+       width="24.340202"
+       height="36.5103"
+       x="14.543934"
+       y="-69.63623"
+       id="rect3485-75-5"
+       style="fill:#000000;fill-opacity:1;stroke:none" /><rect
+       width="24.340202"
+       height="36.5103"
+       x="-67.436684"
+       y="-69.63623"
+       id="rect3485-41-5"
+       style="fill:#000000;fill-opacity:1;stroke:none" /><rect
+       width="24.340202"
+       height="36.5103"
+       x="69.197701"
+       y="-69.63623"
+       id="rect3485-35-8"
+       style="fill:#000000;fill-opacity:1;stroke:none" /><rect
+       width="24.340202"
+       height="36.5103"
+       x="-94.763573"
+       y="-69.63623"
+       id="rect3485-66-2"
+       style="fill:#000000;fill-opacity:1;stroke:none" /><rect
+       width="24.340202"
+       height="36.5103"
+       x="-122.09045"
+       y="-69.63623"
+       id="rect3485-84-9"
+       style="fill:#000000;fill-opacity:1;stroke:none" /></g><line
+     style="fill:none;stroke:#000000;stroke-width:2.49996018;stroke-linecap:round;stroke-linejoin:round"
+     id="connector0pin"
+     x1="30.955067"
+     y1="172.65993"
+     x2="30.955067"
+     y2="193.71835" /><line
+     style="fill:none;stroke:#000000;stroke-width:2.49996018;stroke-linecap:round;stroke-linejoin:round"
+     id="connector1pin"
+     x1="57.595097"
+     y1="172.65993"
+     x2="57.595097"
+     y2="193.71835" /><line
+     style="fill:none;stroke:#000000;stroke-width:2.49996018;stroke-linecap:round;stroke-linejoin:round"
+     id="connector2pin"
+     x1="84.235123"
+     y1="172.65993"
+     x2="84.235123"
+     y2="193.71835" /><line
+     style="fill:none;stroke:#000000;stroke-width:2.49996018;stroke-linecap:round;stroke-linejoin:round"
+     id="connector3pin"
+     x1="110.87514"
+     y1="172.65993"
+     x2="110.87514"
+     y2="193.71835" /><line
+     style="fill:none;stroke:#000000;stroke-width:2.49996018;stroke-linecap:round;stroke-linejoin:round"
+     id="connector4pin"
+     x1="137.51518"
+     y1="172.65993"
+     x2="137.51518"
+     y2="193.71837" /><line
+     style="fill:none;stroke:#000000;stroke-width:2.49996018;stroke-linecap:round;stroke-linejoin:round"
+     id="connector5pin"
+     x1="164.1552"
+     y1="172.65993"
+     x2="164.1552"
+     y2="193.71837" /><line
+     style="fill:none;stroke:#000000;stroke-width:2.49996018;stroke-linecap:round;stroke-linejoin:round"
+     id="connector6pin"
+     x1="190.79523"
+     y1="172.65993"
+     x2="190.79523"
+     y2="193.71837" /><line
+     style="fill:none;stroke:#000000;stroke-width:2.49996018;stroke-linecap:round;stroke-linejoin:round"
+     id="connector7pin"
+     x1="217.43526"
+     y1="172.65993"
+     x2="217.43526"
+     y2="193.71837" /><line
+     style="fill:none;stroke:#000000;stroke-width:2.49996018;stroke-linecap:round;stroke-linejoin:round"
+     id="connector8pin"
+     x1="244.07529"
+     y1="172.65993"
+     x2="244.07529"
+     y2="193.71835" /><line
+     style="fill:none;stroke:#000000;stroke-width:2.49996018;stroke-linecap:round;stroke-linejoin:round"
+     id="connector9pin"
+     x1="270.71533"
+     y1="172.65993"
+     x2="270.71533"
+     y2="193.71835" /><line
+     style="fill:none;stroke:#000000;stroke-width:2.49996018;stroke-linecap:round;stroke-linejoin:round"
+     id="connector10pin"
+     x1="297.35535"
+     y1="172.65993"
+     x2="297.35535"
+     y2="193.71835" /><line
+     style="fill:none;stroke:#000000;stroke-width:2.49996018;stroke-linecap:round;stroke-linejoin:round"
+     id="connector11pin"
+     x1="323.99539"
+     y1="172.65993"
+     x2="323.99539"
+     y2="193.71835" /><line
+     style="fill:none;stroke:#000000;stroke-width:2.49996018;stroke-linecap:round;stroke-linejoin:round"
+     id="connector12pin"
+     x1="350.63541"
+     y1="172.65993"
+     x2="350.63541"
+     y2="193.71835" /><line
+     style="fill:none;stroke:#000000;stroke-width:2.49996018;stroke-linecap:round;stroke-linejoin:round"
+     id="connector13pin"
+     x1="377.27545"
+     y1="172.65993"
+     x2="377.27545"
+     y2="193.71835" /><line
+     style="fill:none;stroke:#000000;stroke-width:2.49996018;stroke-linecap:round;stroke-linejoin:round"
+     id="connector14pin"
+     x1="403.91547"
+     y1="172.65993"
+     x2="403.91547"
+     y2="193.71835" /><line
+     style="fill:none;stroke:#000000;stroke-width:2.49996018;stroke-linecap:round;stroke-linejoin:round"
+     id="connector15pin"
+     x1="430.55551"
+     y1="172.65993"
+     x2="430.55551"
+     y2="193.71835" /></g></svg>

@@ -1,0 +1,368 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Fritzing (http://www.fritzing.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1.65354in"
+   x="0in"
+   version="1.2"
+   y="0in"
+   height="0.748028in"
+   viewBox="0 0 1653.54 748.028"
+   id="0"
+   sodipodi:docname="svg.pcb.a14846437c2c489714405ed9c979c207_1_pcb.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+  <metadata
+     id="metadata66">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs64" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="2077"
+     inkscape:window-height="1217"
+     id="namedview62"
+     showgrid="false"
+     inkscape:zoom="3.286419"
+     inkscape:cx="86.672702"
+     inkscape:cy="35.905343"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="0" />
+  <desc
+     id="desc2">
+    <referenceFile>a14846437c2c489714405ed9c979c207_1_pcb.svg</referenceFile>
+  </desc>
+ <defs
+   id="defs285" />
+  <g
+     id="pcb">
+   
+    <g
+       id="copper1">
+      <g
+         id="0.2.0">
+        <circle
+           style="fill:none;stroke:#ffbf00;stroke-width:20"
+           r="27.5"
+           id="connector21pin"
+           cy="283.47198"
+           cx="86.847099" />
+        <circle
+           style="fill:none;stroke:#ffbf00;stroke-width:20"
+           r="27.5"
+           id="connector20pin"
+           cy="383.45801"
+           cx="86.847099" />
+        <circle
+           style="fill:none;stroke:#ffbf00;stroke-width:20"
+           r="27.5"
+           id="connector21pin_1_"
+           cy="283.47198"
+           cx="86.847099" />
+        <circle
+           style="fill:none;stroke:#ffbf00;stroke-width:20"
+           r="27.5"
+           id="connector20pin_1_"
+           cy="383.45801"
+           cx="86.847099" />
+      </g>
+      <g
+         id="0.2.1">
+        <circle
+           style="fill:none;stroke:#ffbf00;stroke-width:20"
+           r="27.486099"
+           id="connector4pin"
+           cy="76.055603"
+           cx="1186.86" />
+        <circle
+           style="fill:none;stroke:#ffbf00;stroke-width:20"
+           r="27.5"
+           id="connector5pin"
+           cy="76.055603"
+           cx="1086.86" />
+        <circle
+           style="fill:none;stroke:#ffbf00;stroke-width:20"
+           r="27.5"
+           id="connector6pin"
+           cy="76.055603"
+           cx="986.87402" />
+        <circle
+           style="fill:none;stroke:#ffbf00;stroke-width:20"
+           id="0.1.1.3"
+           r="27.5"
+           cy="76.069504"
+           cx="486.86099" />
+        <circle
+           style="fill:none;stroke:#ffbf00;stroke-width:20"
+           r="27.486099"
+           id="connector7pin"
+           cy="76.055603"
+           cx="886.85999" />
+        <circle
+           style="fill:none;stroke:#ffbf00;stroke-width:20"
+           id="0.1.1.5"
+           r="27.5"
+           cy="76.069504"
+           cx="386.86099" />
+        <circle
+           style="fill:none;stroke:#ffbf00;stroke-width:20"
+           r="27.5"
+           id="connector8pin"
+           cy="76.055603"
+           cx="786.85999" />
+        <circle
+           style="fill:none;stroke:#ffbf00;stroke-width:20"
+           r="27.5"
+           id="connector13pin"
+           cy="76.069504"
+           cx="286.84698" />
+        <circle
+           style="fill:none;stroke:#ffbf00;stroke-width:20"
+           r="27.5"
+           id="connector9pin"
+           cy="76.055603"
+           cx="686.85999" />
+        <circle
+           style="fill:none;stroke:#ffbf00;stroke-width:20"
+           id="0.1.1.9"
+           r="27.5"
+           cy="76.069504"
+           cx="186.847" />
+        <circle
+           style="fill:none;stroke:#ffbf00;stroke-width:20"
+           r="27.5"
+           id="connector10pin"
+           cy="76.055603"
+           cx="586.86102" />
+        <circle
+           style="fill:none;stroke:#ffbf00;stroke-width:20"
+           id="0.1.1.11"
+           r="27.5"
+           cy="76.069504"
+           cx="86.847099" />
+        <rect
+           style="fill:none;stroke:#ffbf00;stroke-width:20"
+           id="square"
+           height="55"
+           y="48.5695"
+           x="1559.35"
+           width="55.013802" />
+        <circle
+           style="fill:none;stroke:#ffbf00;stroke-width:20"
+           r="27.5"
+           id="connector16pin"
+           cy="76.055603"
+           cx="1586.86" />
+        <circle
+           style="fill:none;stroke:#ffbf00;stroke-width:20"
+           r="27.5"
+           id="connector17pin"
+           cy="76.055603"
+           cx="1486.87" />
+        <circle
+           style="fill:none;stroke:#ffbf00;stroke-width:20"
+           r="27.486099"
+           id="connector18pin"
+           cy="76.055603"
+           cx="1386.86" />
+        <circle
+           style="fill:none;stroke:#ffbf00;stroke-width:20"
+           r="27.5"
+           id="connector19pin"
+           cy="76.055603"
+           cx="1286.86" />
+        <rect
+           style="fill:none;stroke:#ffbf00;stroke-width:20"
+           id="square_1_"
+           height="55"
+           y="48.5695"
+           x="1559.35"
+           width="55.013802" />
+        <circle
+           style="fill:none;stroke:#ffbf00;stroke-width:20"
+           r="27.5"
+           id="connector16pin_1_"
+           cy="76.055603"
+           cx="1586.86" />
+        <circle
+           style="fill:none;stroke:#ffbf00;stroke-width:20"
+           r="27.5"
+           id="connector17pin_1_"
+           cy="76.055603"
+           cx="1486.87" />
+        <circle
+           style="fill:none;stroke:#ffbf00;stroke-width:20"
+           r="27.486099"
+           id="connector18pin_1_"
+           cy="76.055603"
+           cx="1386.86" />
+        <circle
+           style="fill:none;stroke:#ffbf00;stroke-width:20"
+           r="27.5"
+           id="connector19pin_1_"
+           cy="76.055603"
+           cx="1286.86" />
+        <circle
+           style="fill:none;stroke:#ffbf00;stroke-width:20"
+           r="27.486099"
+           id="connector4pin_1_"
+           cy="76.055603"
+           cx="1186.86" />
+        <circle
+           style="fill:none;stroke:#ffbf00;stroke-width:20"
+           r="27.5"
+           id="connector5pin_1_"
+           cy="76.055603"
+           cx="1086.86" />
+        <circle
+           style="fill:none;stroke:#ffbf00;stroke-width:20"
+           r="27.5"
+           id="connector6pin_1_"
+           cy="76.055603"
+           cx="986.87402" />
+        <circle
+           style="fill:none;stroke:#ffbf00;stroke-width:20"
+           r="27.5"
+           id="connector11pin"
+           cy="76.069504"
+           cx="486.86099" />
+        <circle
+           style="fill:none;stroke:#ffbf00;stroke-width:20"
+           r="27.486099"
+           id="connector7pin_1_"
+           cy="76.055603"
+           cx="886.85999" />
+        <circle
+           style="fill:none;stroke:#ffbf00;stroke-width:20"
+           r="27.5"
+           id="connector12pin"
+           cy="76.069504"
+           cx="386.86099" />
+        <circle
+           style="fill:none;stroke:#ffbf00;stroke-width:20"
+           r="27.5"
+           id="connector8pin_1_"
+           cy="76.055603"
+           cx="786.85999" />
+        <circle
+           style="fill:none;stroke:#ffbf00;stroke-width:20"
+           r="27.5"
+           id="connector13pin_1_"
+           cy="76.069504"
+           cx="286.84698" />
+        <circle
+           style="fill:none;stroke:#ffbf00;stroke-width:20"
+           r="27.5"
+           id="connector9pin_1_"
+           cy="76.055603"
+           cx="686.85999" />
+        <circle
+           style="fill:none;stroke:#ffbf00;stroke-width:20"
+           r="27.5"
+           id="connector14pin"
+           cy="76.069504"
+           cx="186.847" />
+        <circle
+           style="fill:none;stroke:#ffbf00;stroke-width:20"
+           r="27.5"
+           id="connector10pin_1_"
+           cy="76.055603"
+           cx="586.86102" />
+        <circle
+           style="fill:none;stroke:#ffbf00;stroke-width:20"
+           r="27.5"
+           id="connector15pin"
+           cy="76.069504"
+           cx="86.847099" />
+      </g>
+      <g
+         id="0.2.2">
+        <rect
+           style="fill:none;stroke:#ffbf00;stroke-width:20"
+           id="square_3_"
+           height="55.013901"
+           y="248.556"
+           x="1559.36"
+           width="54.999901" />
+        <circle
+           style="fill:none;stroke:#ffbf00;stroke-width:20"
+           r="27.5"
+           id="connector16pin_3_"
+           cy="276.056"
+           cx="1586.86" />
+        <circle
+           style="fill:none;stroke:#ffbf00;stroke-width:20"
+           r="27.5"
+           id="connector17pin_3_"
+           cy="376.056"
+           cx="1586.86" />
+        <circle
+           style="fill:none;stroke:#ffbf00;stroke-width:20"
+           r="27.5"
+           id="connector18pin_3_"
+           cy="476.056"
+           cx="1586.86" />
+        <circle
+           style="fill:none;stroke:#ffbf00;stroke-width:20"
+           r="27.5"
+           id="connector19pin_3_"
+           cy="576.07001"
+           cx="1586.86" />
+        <rect
+           style="fill:none;stroke:#ffbf00;stroke-width:20"
+           id="square_2_"
+           height="55.013901"
+           y="248.556"
+           x="1559.36"
+           width="54.999901" />
+        <circle
+           style="fill:none;stroke:#ffbf00;stroke-width:20"
+           r="27.5"
+           id="connector0pin"
+           cy="276.056"
+           cx="1586.86" />
+        <circle
+           style="fill:none;stroke:#ffbf00;stroke-width:20"
+           r="27.5"
+           id="connector1pin"
+           cy="376.056"
+           cx="1586.86" />
+        <circle
+           style="fill:none;stroke:#ffbf00;stroke-width:20"
+           r="27.5"
+           id="connector2pin"
+           cy="476.056"
+           cx="1586.86" />
+        <circle
+           style="fill:none;stroke:#ffbf00;stroke-width:20"
+           r="27.5"
+           id="connector3pin"
+           cy="576.07001"
+           cx="1586.86" />
+      </g>
+    </g>
+  </g>
+</svg>

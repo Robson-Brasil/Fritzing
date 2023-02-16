@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module fritzingVersion="0.9.10b.2022-07-01.CD-2134-0-40d23c29" icon="Temp.png">
+    <title>Temp</title>
+    <instances>
+        <instance moduleIdRef="esp32_new_d54e5c6122ec151400e7f24ae8fc503b_1" modelIndex="85511782" path="C:/Users/RobsonBrasil/Documents/Fritzing/parts/contrib/esp32_new_d54e5c6122ec151400e7f24ae8fc503b_1.fzp" flippedSMD="true">
+            <property name="flippedSMD" value="true"/>
+            <views/>
+        </instance>
+        <instance moduleIdRef="esp32_V2_52d2ade585478c3892482f9a77789f59_13" modelIndex="85511784" path="C:/Users/RobsonBrasil/Documents/Fritzing/parts/contrib/esp32_V2_52d2ade585478c3892482f9a77789f59_13.fzp" flippedSMD="true">
+            <property name="flippedSMD" value="true"/>
+            <views/>
+        </instance>
+    </instances>
+</module>

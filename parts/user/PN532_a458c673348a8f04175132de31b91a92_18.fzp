@@ -1,0 +1,378 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<module fritzingVersion="0.5.2b.02.18.4756" moduleId="PN532_a458c673348a8f04175132de31b91a92_18" referenceFile="Adafruit TCS34725 RGB Color Sensor.fzp">
+ <version>4</version>
+ <date>wo jan 15 2020</date>
+ <author>LizaVerhaert and WesleySmits</author>
+ <description>&lt;!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd">
+&lt;html>&lt;head>&lt;meta name="qrichtext" content="1" />&lt;style type="text/css">
+p, li { white-space: pre-wrap; }
+&lt;/style>&lt;/head>&lt;body style=" font-family:'MS Shell Dlg 2'; font-size:7.5pt; font-weight:400; font-style:normal;">
+&lt;p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; background-color:#ffffff;">&lt;span style=" font-family:'Tahoma,Verdana,arial,helvetica,sans-serif'; font-size:11px; color:#363636; background-color:#ffffff;">NFC is a popular technology in recent years. We often heard this work while smart phone company such as Samsung or HTC introduces their latest high-end phones. Almost all the high-end phone in the market support NFC.&lt;/span>&lt;/p>
+&lt;p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; background-color:#ffffff;">&lt;a href="http://www.nfc-forum.org/aboutnfc">&lt;span style=" font-family:'Tahoma,Verdana,arial,helvetica,sans-serif'; font-size:11px; font-weight:600; text-decoration: underline; color:#363636;">Near field communication&lt;/span>&lt;/a>&lt;a href="http://www.nfc-forum.org/aboutnfc">&lt;span style=" font-family:'Tahoma,Verdana,arial,helvetica,sans-serif'; font-size:11px; text-decoration: underline; color:#363636;"> (&lt;/span>&lt;/a>&lt;a href="http://www.nfc-forum.org/aboutnfc">&lt;span style=" font-family:'Tahoma,Verdana,arial,helvetica,sans-serif'; font-size:11px; font-weight:600; text-decoration: underline; color:#363636;">NFC&lt;/span>&lt;/a>&lt;a href="http://www.nfc-forum.org/aboutnfc">&lt;span style=" font-family:'Tahoma,Verdana,arial,helvetica,sans-serif'; font-size:11px; text-decoration: underline; color:#363636;">)&lt;/span>&lt;/a>&lt;span style=" font-family:'Tahoma,Verdana,arial,helvetica,sans-serif'; font-size:11px; color:#363636;"> is a set of standards for smart phones and similar devices to establish radio communication with each other by touching them together or bringing them into close proximity, usually no more than a few centimeters.&lt;/span>&lt;/p>
+&lt;p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; background-color:#ffffff;">&lt;span style=" font-family:'Tahoma,Verdana,arial,helvetica,sans-serif'; font-size:11px; color:#363636; background-color:#ffffff;">For electronics geeks, we also want to use NFC technology to make our own things. So we build this NFC RFID module. This module is built around NXP PN532. NXP PN532 is very popular in NFC area. And the company offers much technology document to help developers. We developed this module based on the official document. And to make things easier, we also build library for this module.&lt;/span>&lt;/p>
+&lt;p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; background-color:#ffffff;">&lt;span style=" font-family:'Tahoma,Verdana,arial,helvetica,sans-serif'; font-size:11px; color:#363636; background-color:#ffffff;">We almost break out all the IO pins of NXP532 on this module. Users could easily connect and play. With our&lt;/span>&lt;span style=" font-family:'Tahoma,Verdana,arial,helvetica,sans-serif'; font-size:11px; color:#363636;"> &lt;/span>&lt;a href="http://www.elechouse.com/elechouse/index.php?main_page=product_info&amp;amp;cPath=74&amp;amp;products_id=2211">&lt;span style=" font-family:'Tahoma,Verdana,arial,helvetica,sans-serif'; font-size:11px; font-weight:600; text-decoration: underline; color:#363636;">Arduino Sensor Shield&lt;/span>&lt;/a>&lt;span style=" font-family:'Tahoma,Verdana,arial,helvetica,sans-serif'; font-size:11px; color:#363636;">, it is very easy to plug and play.&lt;/span>&lt;span style=" font-family:'Tahoma,Verdana,arial,helvetica,sans-serif'; font-size:11px; font-weight:600; color:#363636;"> &lt;/span>&lt;span style=" font-family:'Tahoma,Verdana,arial,helvetica,sans-serif'; font-size:11px; color:#363636;">However, if users want to use other interface such as UART or SPI, this module also makes it easy to connect those pins.&lt;/span>&lt;/p>&lt;/body>&lt;/html></description>
+ <title>PN532 Elechouse RFID NFC Module V3</title>
+ <tags/>
+ <properties>
+  <property name="family">PN532 RFID NFC</property>
+  <property name="variant">V3</property>
+ </properties>
+ <views>
+  <breadboardView>
+   <layers image="breadboard/PN532_a458c673348a8f04175132de31b91a92_18_breadboard.svg">
+    <layer layerId="breadboard"/>
+   </layers>
+  </breadboardView>
+  <schematicView>
+   <layers image="schematic/PN532_a458c673348a8f04175132de31b91a92_18_schematic.svg">
+    <layer layerId="schematic"/>
+   </layers>
+  </schematicView>
+  <pcbView>
+   <layers image="pcb/PN532_a458c673348a8f04175132de31b91a92_18_pcb.svg">
+    <layer layerId="copper1"/>
+    <layer layerId="silkscreen"/>
+    <layer layerId="copper0"/>
+   </layers>
+  </pcbView>
+  <iconView>
+   <layers image="icon/PN532_a458c673348a8f04175132de31b91a92_18_icon.svg">
+    <layer layerId="icon"/>
+   </layers>
+  </iconView>
+ </views>
+ <connectors>
+  <connector type="male" id="connector1" name="GND">
+   <description>GND</description>
+   <views>
+    <breadboardView>
+     <p svgId="connector1pin" layer="breadboard"/>
+    </breadboardView>
+    <schematicView>
+     <p svgId="connector1pin" layer="schematic"/>
+    </schematicView>
+    <pcbView>
+     <p svgId="connector1pin" layer="copper0"/>
+     <p svgId="connector1pin" layer="copper1"/>
+    </pcbView>
+   </views>
+  </connector>
+  <connector type="male" id="connector2" name="VCC">
+   <description>VCC</description>
+   <views>
+    <breadboardView>
+     <p svgId="connector2pin" layer="breadboard"/>
+    </breadboardView>
+    <schematicView>
+     <p svgId="connector2pin" layer="schematic"/>
+    </schematicView>
+    <pcbView>
+     <p svgId="connector2pin" layer="copper0"/>
+     <p svgId="connector2pin" layer="copper1"/>
+    </pcbView>
+   </views>
+  </connector>
+  <connector type="male" id="connector3" name="SDA">
+   <description>SDA</description>
+   <views>
+    <breadboardView>
+     <p svgId="connector3pin" layer="breadboard"/>
+    </breadboardView>
+    <schematicView>
+     <p svgId="connector3pin" layer="schematic"/>
+    </schematicView>
+    <pcbView>
+     <p svgId="connector3pin" layer="copper0"/>
+     <p svgId="connector3pin" layer="copper1"/>
+    </pcbView>
+   </views>
+  </connector>
+  <connector type="male" id="connector4" name="SCL">
+   <description>SCL</description>
+   <views>
+    <breadboardView>
+     <p svgId="connector4pin" layer="breadboard"/>
+    </breadboardView>
+    <schematicView>
+     <p svgId="connector4pin" layer="schematic"/>
+    </schematicView>
+    <pcbView>
+     <p svgId="connector4pin" layer="copper0"/>
+     <p svgId="connector4pin" layer="copper1"/>
+    </pcbView>
+   </views>
+  </connector>
+  <connector type="male" id="connector5" name="SCK">
+   <description>SCK</description>
+   <views>
+    <breadboardView>
+     <p svgId="connector5pin" layer="breadboard"/>
+    </breadboardView>
+    <schematicView>
+     <p svgId="connector5pin" layer="schematic"/>
+    </schematicView>
+    <pcbView>
+     <p svgId="connector5pin" layer="copper0"/>
+     <p svgId="connector5pin" layer="copper1"/>
+    </pcbView>
+   </views>
+  </connector>
+  <connector type="male" id="connector6" name="MISO">
+   <description>MISO</description>
+   <views>
+    <breadboardView>
+     <p svgId="connector6pin" layer="breadboard"/>
+    </breadboardView>
+    <schematicView>
+     <p svgId="connector6pin" layer="schematic"/>
+    </schematicView>
+    <pcbView>
+     <p svgId="connector6pin" layer="copper0"/>
+     <p svgId="connector6pin" layer="copper1"/>
+    </pcbView>
+   </views>
+  </connector>
+  <connector type="male" id="connector7" name="MOSI">
+   <description>MOSI</description>
+   <views>
+    <breadboardView>
+     <p svgId="connector7pin" layer="breadboard"/>
+    </breadboardView>
+    <schematicView>
+     <p svgId="connector7pin" layer="schematic"/>
+    </schematicView>
+    <pcbView>
+     <p svgId="connector7pin" layer="copper0"/>
+     <p svgId="connector7pin" layer="copper1"/>
+    </pcbView>
+   </views>
+  </connector>
+  <connector type="male" id="connector8" name="SS">
+   <description>SS</description>
+   <views>
+    <breadboardView>
+     <p svgId="connector8pin" layer="breadboard"/>
+    </breadboardView>
+    <schematicView>
+     <p svgId="connector8pin" layer="schematic"/>
+    </schematicView>
+    <pcbView>
+     <p svgId="connector8pin" layer="copper0"/>
+     <p svgId="connector8pin" layer="copper1"/>
+    </pcbView>
+   </views>
+  </connector>
+  <connector type="male" id="connector9" name="VCC">
+   <description>VCC</description>
+   <views>
+    <breadboardView>
+     <p svgId="connector9pin" layer="breadboard"/>
+    </breadboardView>
+    <schematicView>
+     <p svgId="connector9pin" layer="schematic"/>
+    </schematicView>
+    <pcbView>
+     <p svgId="connector9pin" layer="copper0"/>
+     <p svgId="connector9pin" layer="copper1"/>
+    </pcbView>
+   </views>
+  </connector>
+  <connector type="male" id="connector10" name="GND">
+   <description>GND</description>
+   <views>
+    <breadboardView>
+     <p svgId="connector10pin" layer="breadboard"/>
+    </breadboardView>
+    <schematicView>
+     <p svgId="connector10pin" layer="schematic"/>
+    </schematicView>
+    <pcbView>
+     <p svgId="connector10pin" layer="copper0"/>
+     <p svgId="connector10pin" layer="copper1"/>
+    </pcbView>
+   </views>
+  </connector>
+  <connector type="male" id="connector11" name="IRQ">
+   <description>IRQ</description>
+   <views>
+    <breadboardView>
+     <p svgId="connector11pin" layer="breadboard"/>
+    </breadboardView>
+    <schematicView>
+     <p svgId="connector11pin" layer="schematic"/>
+    </schematicView>
+    <pcbView>
+     <p svgId="connector11pin" layer="copper0"/>
+     <p svgId="connector11pin" layer="copper1"/>
+    </pcbView>
+   </views>
+  </connector>
+  <connector type="male" id="connector12" name="RSTO">
+   <description>RSTO</description>
+   <views>
+    <breadboardView>
+     <p svgId="connector12pin" layer="breadboard"/>
+    </breadboardView>
+    <schematicView>
+     <p svgId="connector12pin" layer="schematic"/>
+    </schematicView>
+    <pcbView>
+     <p svgId="connector12pin" layer="copper0"/>
+     <p svgId="connector12pin" layer="copper1"/>
+    </pcbView>
+   </views>
+  </connector>
+  <connector type="male" id="connector13" name="A1">
+   <description>A1</description>
+   <views>
+    <breadboardView>
+     <p svgId="connector13pin" layer="breadboard"/>
+    </breadboardView>
+    <schematicView>
+     <p svgId="connector13pin" layer="schematic"/>
+    </schematicView>
+    <pcbView>
+     <p svgId="connector13pin" layer="copper0"/>
+     <p svgId="connector13pin" layer="copper1"/>
+    </pcbView>
+   </views>
+  </connector>
+  <connector type="male" id="connector14" name="A2">
+   <description>A2</description>
+   <views>
+    <breadboardView>
+     <p svgId="connector14pin" layer="breadboard"/>
+    </breadboardView>
+    <schematicView>
+     <p svgId="connector14pin" layer="schematic"/>
+    </schematicView>
+    <pcbView>
+     <p svgId="connector14pin" layer="copper0"/>
+     <p svgId="connector14pin" layer="copper1"/>
+    </pcbView>
+   </views>
+  </connector>
+  <connector type="male" id="connector15" name="A3">
+   <description>A3</description>
+   <views>
+    <breadboardView>
+     <p svgId="connector15pin" layer="breadboard"/>
+    </breadboardView>
+    <schematicView>
+     <p svgId="connector15pin" layer="schematic"/>
+    </schematicView>
+    <pcbView>
+     <p svgId="connector15pin" layer="copper0"/>
+     <p svgId="connector15pin" layer="copper1"/>
+    </pcbView>
+   </views>
+  </connector>
+  <connector type="male" id="connector16" name="A4">
+   <description>A4</description>
+   <views>
+    <breadboardView>
+     <p svgId="connector16pin" layer="breadboard"/>
+    </breadboardView>
+    <schematicView>
+     <p svgId="connector16pin" layer="schematic"/>
+    </schematicView>
+    <pcbView>
+     <p svgId="connector16pin" layer="copper0"/>
+     <p svgId="connector16pin" layer="copper1"/>
+    </pcbView>
+   </views>
+  </connector>
+  <connector type="male" id="connector17" name="A5">
+   <description>A5</description>
+   <views>
+    <breadboardView>
+     <p svgId="connector17pin" layer="breadboard"/>
+    </breadboardView>
+    <schematicView>
+     <p svgId="connector17pin" layer="schematic"/>
+    </schematicView>
+    <pcbView>
+     <p svgId="connector17pin" layer="copper0"/>
+     <p svgId="connector17pin" layer="copper1"/>
+    </pcbView>
+   </views>
+  </connector>
+  <connector type="male" id="connector18" name="A6">
+   <description>A6</description>
+   <views>
+    <breadboardView>
+     <p svgId="connector18pin" layer="breadboard"/>
+    </breadboardView>
+    <schematicView>
+     <p svgId="connector18pin" layer="schematic"/>
+    </schematicView>
+    <pcbView>
+     <p svgId="connector18pin" layer="copper0"/>
+     <p svgId="connector18pin" layer="copper1"/>
+    </pcbView>
+   </views>
+  </connector>
+  <connector type="male" id="connector19" name="A7">
+   <description>A7</description>
+   <views>
+    <breadboardView>
+     <p svgId="connector19pin" layer="breadboard"/>
+    </breadboardView>
+    <schematicView>
+     <p svgId="connector19pin" layer="schematic"/>
+    </schematicView>
+    <pcbView>
+     <p svgId="connector19pin" layer="copper0"/>
+     <p svgId="connector19pin" layer="copper1"/>
+    </pcbView>
+   </views>
+  </connector>
+  <connector type="male" id="connector20" name="A8">
+   <description>A8</description>
+   <views>
+    <breadboardView>
+     <p svgId="connector20pin" layer="breadboard"/>
+    </breadboardView>
+    <schematicView>
+     <p svgId="connector20pin" layer="schematic"/>
+    </schematicView>
+    <pcbView>
+     <p svgId="connector20pin" layer="copper0"/>
+     <p svgId="connector20pin" layer="copper1"/>
+    </pcbView>
+   </views>
+  </connector>
+  <connector type="male" id="connector21" name="A9">
+   <description>A9</description>
+   <views>
+    <breadboardView>
+     <p svgId="connector21pin" layer="breadboard"/>
+    </breadboardView>
+    <schematicView>
+     <p svgId="connector21pin" layer="schematic"/>
+    </schematicView>
+    <pcbView>
+     <p svgId="connector21pin" layer="copper0"/>
+     <p svgId="connector21pin" layer="copper1"/>
+    </pcbView>
+   </views>
+  </connector>
+  <connector type="male" id="connector22" name="A10">
+   <description>A10</description>
+   <views>
+    <breadboardView>
+     <p svgId="connector22pin" layer="breadboard"/>
+    </breadboardView>
+    <schematicView>
+     <p svgId="connector22pin" layer="schematic"/>
+    </schematicView>
+    <pcbView>
+     <p svgId="connector22pin" layer="copper0"/>
+     <p svgId="connector22pin" layer="copper1"/>
+    </pcbView>
+   </views>
+  </connector>
+ </connectors>
+ <buses/>
+ <url>https://www.elechouse.com/elechouse/index.php?main_page=product_info&amp;cPath=90_93&amp;products_id=2242</url>
+</module>

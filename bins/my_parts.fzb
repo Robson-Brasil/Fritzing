@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module fritzingVersion="0.9.10b.2022-07-01.CD-2134-0-40d23c29" icon="Mine.png">
+    <title>My Parts</title>
+    <instances>
+        <instance moduleIdRef="7cb0f1bf5b85bc0ef03075c9262ef575" modelIndex="5784" path="C:/Users/RobsonBrasil/Documents/Fritzing/parts/user/LCD__4cefae0c6fbae56ef6a38f3ed16f164c.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="LCD2004-I2C" modelIndex="5786" path="C:/Users/RobsonBrasil/Documents/Fritzing/parts/user/LCD2004-I2C.fzp" flippedSMD="true">
+            <property name="flippedSMD" value="true"/>
+            <views/>
+        </instance>
+        <instance moduleIdRef="adafruit_7cfb4bb3580410f301a5a262c6ed886d_1" modelIndex="5789" path="C:/Users/RobsonBrasil/Documents/Fritzing/parts/user/adafruit_7cfb4bb3580410f301a5a262c6ed886d_1.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="ESP32-WROOM-32D-NodeMCU_34d842f0cfe1413d9ddf8612d312e317_3" modelIndex="5793" path="C:/Users/RobsonBrasil/Documents/Fritzing/parts/user/ESP32-WROOM-32D-NodeMCU_34d842f0cfe1413d9ddf8612d312e317_3.fzp">
+            <views/>
+        </instance>
+    </instances>
+</module>

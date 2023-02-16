@@ -1,0 +1,108 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<module moduleId="LCD2004-I2C" referenceFile="LCD2004-I2C.fzp" fritzingVersion="0.9.3b">
+ <version>1</version>
+ <date>Wed Mar 13 2019</date>
+ <author>Stephen Lilley/Kenneth Harpster</author>
+ <description>A standard character display with 4x20 characters. Comes in many colors with LCM2004 IIC attached.</description>
+ <title>LCD2004-I2C</title>
+ <label>LCD2004-I2C</label>
+ <tags>
+  <tag>I2C</tag>
+  <tag>LCD2004</tag>
+  <tag>LCD</tag>
+  <tag>Liquid Crystal</tag>
+  <tag>display</tag>
+  <tag>line display</tag>
+  <tag>character display</tag>
+  <tag>screen</tag>
+ </tags>
+ <properties>
+  <property name="family">lcd display</property>
+  <property name="type">Character</property>
+  <property name="pins">4</property>
+  <property name="layer"></property>
+  <property name="part number"></property>
+  <property name="variant">variant 1</property>
+ </properties>
+ <views>
+  <breadboardView>
+   <layers image="breadboard/a14846437c2c489714405ed9c979c207_1_breadboard.svg">
+    <layer layerId="breadboard"/>
+   </layers>
+  </breadboardView>
+  <schematicView>
+   <layers image="schematic/a14846437c2c489714405ed9c979c207_1_schematic.svg">
+    <layer layerId="schematic"/>
+   </layers>
+  </schematicView>
+  <pcbView>
+   <layers image="pcb/a14846437c2c489714405ed9c979c207_1_pcb.svg">
+    <layer layerId="copper1"/>
+   </layers>
+  </pcbView>
+  <iconView>
+   <layers image="icon/a14846437c2c489714405ed9c979c207_1_icon.svg">
+    <layer layerId="icon"/>
+   </layers>
+  </iconView>
+ </views>
+ <connectors>
+  <connector id="connector0" type="male" name="GND">
+   <description>GND</description>
+   <views>
+    <breadboardView>
+     <p layer="breadboard" terminalId="connector0terminal" svgId="connector0pin"/>
+    </breadboardView>
+    <schematicView>
+     <p layer="schematic" terminalId="connector0terminal" svgId="connector0pin"/>
+    </schematicView>
+    <pcbView>
+        <p svgId="connector0pin" layer="copper1"/>
+    </pcbView>
+   </views>
+  </connector>
+  <connector id="connector1" type="male" name="VCC">
+   <description>VCC</description>
+   <views>
+    <breadboardView>
+     <p layer="breadboard" terminalId="connector1terminal" svgId="connector1pin"/>
+    </breadboardView>
+    <schematicView>
+     <p layer="schematic" terminalId="connector1terminal" svgId="connector1pin"/>
+    </schematicView>
+    <pcbView>
+     <p svgId="connector1pin" layer="copper1"/>
+    </pcbView>
+   </views>
+  </connector>
+  <connector id="connector2" type="male" name="SDA">
+   <description>SDA</description>
+   <views>
+    <breadboardView>
+     <p layer="breadboard" terminalId="connector2terminal" svgId="connector2pin"/>
+    </breadboardView>
+    <schematicView>
+     <p layer="schematic" terminalId="connector2terminal" svgId="connector2pin"/>
+    </schematicView>
+    <pcbView>
+     <p svgId="connector2pin" layer="copper1"/>
+    </pcbView>
+   </views>
+  </connector>
+  <connector id="connector3" type="male" name="SCL">
+   <description>SCL</description>
+   <views>
+    <breadboardView>
+     <p layer="breadboard" terminalId="connector3terminal" svgId="connector3pin"/>
+    </breadboardView>
+    <schematicView>
+     <p layer="schematic" terminalId="connector3terminal" svgId="connector3pin"/>
+    </schematicView>
+    <pcbView>
+     <p svgId="connector3pin" layer="copper1"/>  
+    </pcbView>
+   </views>
+  </connector>
+ </connectors>
+ <buses/>
+</module>
