@@ -2,17 +2,35 @@
 <module fritzingVersion="0.9.10b.2022-07-01.CD-2134-0-40d23c29" icon="Search.png" search="esp32">
     <title>Search</title>
     <instances>
-        <instance moduleIdRef="esp32_new_d54e5c6122ec151400e7f24ae8fc503b_1" modelIndex="85517949" path="C:/Users/RobsonBrasil/Documents/Fritzing/parts/contrib/esp32_new_d54e5c6122ec151400e7f24ae8fc503b_1.fzp" flippedSMD="true">
-            <views/>
+        <instance moduleIdRef="Heltec_WiFi_LoRa_32_V2" modelIndex="85521144" path="C:/Program Files/Fritzing/fritzing-parts/core/Heltec_WiFi_LoRa_32_V2.fzp">
+            <property name="part number" value="HTIT-WB32LA"/>
+            <views>
+                <iconView layer="">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+            </views>
         </instance>
-        <instance moduleIdRef="esp32_V2_52d2ade585478c3892482f9a77789f59_13" modelIndex="85517951" path="C:/Users/RobsonBrasil/Documents/Fritzing/parts/contrib/esp32_V2_52d2ade585478c3892482f9a77789f59_13.fzp" flippedSMD="true">
-            <views/>
+        <instance moduleIdRef="LCD2004-I2C" modelIndex="85521295" path="C:/Users/RobsonBrasil/Documents/Fritzing/parts/user/LCD2004-I2C.fzp" flippedSMD="true">
+            <views>
+                <iconView layer="icon">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+            </views>
         </instance>
-        <instance moduleIdRef="Heltec_WiFi_LoRa_32_V2" modelIndex="85517953" path="C:/Program Files/Fritzing/fritzing-parts/core/Heltec_WiFi_LoRa_32_V2.fzp">
-            <views/>
+        <instance moduleIdRef="prefix101218_b0c6794812670c3b0d52a1e2cc025c4a_4" modelIndex="85521308" path="C:/Users/RobsonBrasil/Documents/Fritzing/parts/user/prefix101218_b0c6794812670c3b0d52a1e2cc025c4a_4.fzp">
+            <property name="part number" value="101218"/>
+            <views>
+                <iconView layer="icon">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+            </views>
         </instance>
-        <instance moduleIdRef="ESP32-38PinWide" modelIndex="85517954" path="C:/Users/RobsonBrasil/AppData/Roaming/Fritzing/partfactory/21bd56bf2a1d2a2efc4f6213a7154abc/contrib/ESP32-38PinWide.fzp">
-            <views/>
+        <instance moduleIdRef="RFID-RC522_3f9e204669d0a22248055a54f76eb144_6" modelIndex="85521313" path="C:/Users/RobsonBrasil/Documents/Fritzing/parts/user/RFID-RC522_3f9e204669d0a22248055a54f76eb144_6.fzp">
+            <views>
+                <iconView layer="icon">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+            </views>
         </instance>
     </instances>
 </module>
